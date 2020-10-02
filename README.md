@@ -1,3 +1,3 @@
-# HIST3000|CLCV3000
+# HIST34916
 
-course repository for introduction to digital archaeology. fall 2020 edition.
+course repository for introduction to dhmuse. winter 2021 edition.
