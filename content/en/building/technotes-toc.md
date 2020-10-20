@@ -1,7 +1,7 @@
 +++
 author = "Shawn Graham"
 title = "Your Guide to the Technical Notes"
-date = "2020-09-23"
+date = "2020-10-10"
 #description = "Lorem Ipsum Dolor Si Amet"
 
 image = "images/landscape.jpg"

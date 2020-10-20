@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Technical Notes – HIST4916a</title>
+    <title>Your Guide to the Technical Notes – HIST4916a</title>
     
 
 
@@ -969,22 +969,21 @@
 <link rel="stylesheet" href="/css/main.min.css">
 
 
-    <link rel="alternate" type="application/rss&#43;xml" title="RSS" href="https://dhmuse.netlify.app/building/index.xml">
-<meta name="description" content="technical stuff" />
+    <meta name="description" content="" />
 <meta name="keywords" content="">
 <meta name="created" content="2020-10-10T00:00:00&#43;0000">
 <meta name="modified" content="2020-10-10T00:00:00&#43;0000">
-
+<meta name="author" content="Shawn Graham">
 
 <meta property="og:site_name" content="HIST4916a">
 <meta property="og:title" content="HIST4916a">
-<meta property="og:url" content="https://dhmuse.netlify.app/building/">
-<meta property="og:type" content="website">
-
+<meta property="og:url" content="https://dhmuse.netlify.app/building/technotes-toc/">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://dhmuse.netlify.app/images/landscape.jpg">
 <meta name="generator" content="Hugo 0.65.3" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
-<link rel="canonical" href="https://dhmuse.netlify.app/building/">
+<link rel="canonical" href="https://dhmuse.netlify.app/building/technotes-toc/">
 <link rel="manifest" href="/manifest.json">
 
   <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
@@ -1009,9 +1008,16 @@
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "url" : "https://dhmuse.netlify.app/building/",
-    "name": "HIST4916a",
-    "description": "HIST3814o Summer 2020 @Carleton_U",
+    "headline": "Your Guide to the Technical Notes",
+    "datePublished": "2020-10-10T00:00:00Z",
+    "dateModified": "2020-10-10T00:00:00Z",
+    "url" : "https://dhmuse.netlify.app/building/technotes-toc/",
+    "description": "Basic Skills We are going to use Jupyter Notebooks in this class. For a global overview of how Jupyter notebooks work and are used in humanities research, see Quinn …",
+    "image" : "https://dhmuse.netlify.app/images/landscape.jpg",
+    "author": {
+      "@type": "Person",
+      "name": "Shawn Graham"
+    },
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "https://dhmuse.netlify.app"
@@ -1052,7 +1058,7 @@
     <div class="menu">
   <h6 class="menu__label">
     
-      Technical Notes
+      Your Guide to the Technical Notes
     
   </h6>
   <ul>
@@ -1074,9 +1080,9 @@
   
   
   
-  <li class="">
+  <li class="active">
     <a href="https://dhmuse.netlify.app/building/technotes-toc/"
-      class="menu__title ">Your Guide to the Technical Notes</a>
+      class="menu__title active">Your Guide to the Technical Notes</a>
   </li>
   
 
@@ -1423,11 +1429,11 @@
 </script>
 
         
-  <div class="top">
+ <div class="top">
   <div class="header__wrapper bgcolor__header">
     <div class="divider">
       <div class="lmr">
-        <h2 class="title">Technical Notes</h2>
+        <h2 class="title">Your Guide to the Technical Notes</h2>
       </div>
     </div>
   </div>
@@ -1444,16 +1450,15 @@
 </div>
 
         
-  
   <div class="mid">
   <div class="divider">
 
-    <nav id="list-menu" class="l" data-dir="ltr">
+    <nav id="single-menu" class="l" data-dir="ltr">
       
         <div class="menu">
   <h6 class="menu__label">
     
-      Technical Notes
+      Your Guide to the Technical Notes
     
   </h6>
   <ul>
@@ -1475,9 +1480,9 @@
   
   
   
-  <li class="">
+  <li class="active">
     <a href="https://dhmuse.netlify.app/building/technotes-toc/"
-      class="menu__title ">Your Guide to the Technical Notes</a>
+      class="menu__title active">Your Guide to the Technical Notes</a>
   </li>
   
 
@@ -1532,28 +1537,6 @@
 </div>
 
 
-
-<script>
-  var menuTitle = document.querySelectorAll('.menu__title');
-  var modal = document.getElementById("myModal");
-  var drawer = document.getElementById('myDrawer');
-
-  var closeDrawer = function () {
-    setTimeout(function () {
-      modal.style.opacity = 0;
-      drawer.style.left = '-100%';
-      modal.style.left = '-100%';
-    }, 250);
-  }
-
-  menuTitle ? 
-  menuTitle.forEach(function(elem) {
-    elem.onclick = function() {
-      closeDrawer();
-      localStorage.setItem('isDrawerOpen', 'false');
-    }
-  }) : null;
-</script>
       
     </nav>
 
@@ -1575,92 +1558,396 @@
   
 
   <article class="single__contents" data-dir="ltr">
-    
+    <h2 id="basic-skills">Basic Skills</h2>
+<p>We are going to use Jupyter Notebooks in this class. For a global overview of how Jupyter notebooks work and are used in humanities research, see Quinn Dombrowski&rsquo;s lesson in <a href="https://programminghistorian.org/en/lessons/jupyter-notebooks" target="_blank"><em>The Programming Historian</em></a>. The links below go to either live notebooks that you can work through, or guide you through some of the same steps that Dombrowski discusses, but with more detail.</p>
+<ul>
+<li>
+<p>Working with the Command Line (PC) or Terminal (Mac)</p>
+<ul>
+<li>A walkthrough, by Chantal Brousseau</li>
+</ul>
+</li>
+<li>
+<p><a href="https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/getting-started-with-jupyter.ipynb" target="_blank">Introduction to Jupyter Notebooks</a></p>
+<ul>
+<li>Courtesy Nathan Kelber and Ted Lawless for JSTOR Labs, CC-BY</li>
+<li>This notebook introduces Jupyter notebooks and Python for absolute beginners.</li>
+<li>Going further: Kelber and Lawless have a number of notebooks for working with JSTOR&rsquo;s &lsquo;Data for Research&rsquo; dataset creation service; <a href="https://tdm-pilot.org/" target="_blank">find out more here</a></li>
+</ul>
+</li>
+<li>
+<p><a href="/#">Running Jupyter Notebooks on Your Own Machine</a></p>
+<ul>
+<li>A walkthrough, by Chantal Brousseau</li>
+</ul>
+</li>
+<li>
+<p><a href="/#">Using Git on the Command Line to Keep your Notebook Under Version Control</a></p>
+<ul>
+<li>A walkthrough, by Dr. Graham</li>
+</ul>
+</li>
+<li>
+<p><a href="/#">How to launch your Notebook in a computational binder online with mybinder.org</a></p>
+<ul>
+<li>A walkthrough, by Dr. Graham</li>
+</ul>
+</li>
+<li>
+<p><a href="https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=python-basics-1.ipynb" target="_blank">Introduction to Python</a></p>
+</li>
+</ul>
+<h2 id="retrieve-and-visualize-data">Retrieve and Visualize Data</h2>
+<ul>
+<li>
+<p>Loading simple Data into a Notebook that you&rsquo;ve found online</p>
+</li>
+<li>
+<p><a href="https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=pandas-1.ipynb" target="_blank">Working with Pandas to Manipulate Data</a></p>
+</li>
+<li>
+<p>Visualizing Data with Bokeh &amp; Python</p>
+<ul>
+<li>This notebook is the one that accompanies the tutorial by Charlie Harper in <a href="https://programminghistorian.org/en/lessons/visualizing-with-bokeh" target="_blank"><em>The Programming Historian</em></a></li>
+<li>You can launch the notebook <a href="https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=viz-w-bokeh.ipynb" target="_blank">here</a>; this will let you skip setting up the virtual environment (a way of keeping all of your lego pieces for each task separate so they don&rsquo;t cause conflicts).</li>
+</ul>
+</li>
+<li>
+<p>Using OpenRefine to Obtain Data</p>
+<ul>
+<li>This tutorial adapts the Programming Historian lesson by Evan Peter Williamson <a href="https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine#example-2-url-queries-and-parsing-json" target="_blank">&ldquo;Fetching and Parsing Data from the Web with OpenRefine&rdquo;, especially its example 2</a>.</li>
+<li>Tutorial link <a href="/#">here</a>.</li>
+</ul>
+</li>
+<li>
+<p>Extract Illustrated Pages from the Hathi Trust &amp; Internet Archive</p>
+<ul>
+<li>This tutorial &amp; associated notebooks are developed from Stephen Krewson&rsquo;s piece for the Programming Historian, <a href="https://programminghistorian.org/en/lessons/extracting-illustrated-pages" target="_blank">&ldquo;Extracting Illustrated Pages from Digital Libraries with Python&rdquo;</a></li>
+<li>You&rsquo;ll search for images related to &ldquo;Ottawa&rdquo;.</li>
+<li>Tutorial link <a href="/#">here</a>. <a href="https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=hathitrust.ipynb" target="_blank">Hathi Notebook</a>; <a href="https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=internetarchive.ipynb" target="_blank">Internet Archive Notebook</a></li>
+<li>memo to self: the json file for the notebooks is in the &lsquo;data&rsquo; folder</li>
+</ul>
+</li>
+<li>
+<p>Retrieve data from a &lsquo;datasette&rsquo;-created API [launch binder here](<a href="http://mybinder.org/v2/gh/o-date/open-context-jupyter/master?urlpath=retrieving">http://mybinder.org/v2/gh/o-date/open-context-jupyter/master?urlpath=retrieving</a> data from a datasette api.ipynb)</p>
+<ul>
+<li>note that the &lsquo;api_search_url&rsquo; variable might need to be changed to point to the survey markers datasette or the CARF excavation datasette re Fort Frontenac (see below for url)</li>
+</ul>
+</li>
+</ul>
+<h2 id="documentation">Documentation</h2>
+<ul>
+<li>
+<p>Building an API with Datasette</p>
+</li>
+<li>
+<p>Building a documentation website with Mkdocs</p>
+<ul>
+<li>MKDocs is a python module that will turn a folder with markdown documents into a functioning website</li>
+</ul>
+</li>
+</ul>
+<h2 id="creativity">Creativity</h2>
+<p>For when you&rsquo;re ready to push things further.</p>
+<ul>
+<li>
+<p>[Sonification](<a href="https://mybinder.org/v2/gh/o-date/sonification/master?urlpath=Intro">https://mybinder.org/v2/gh/o-date/sonification/master?urlpath=Intro</a> to Sonification.ipynb)</p>
+<ul>
+<li>An overview of how and why you might sonify data</li>
+</ul>
+</li>
+<li>
+<p>[Image Glitching](<a href="https://mybinder.org/v2/gh/o-date/creativity/master?urlpath=Glitching">https://mybinder.org/v2/gh/o-date/creativity/master?urlpath=Glitching</a> an image with prism sorting.ipynb)</p>
+<ul>
+<li>An overview of why glitching an image might be one way of letting people play with collections</li>
+</ul>
+</li>
+<li>
+<p>[An introduction to &lsquo;Processing&rsquo;, a language for quick sketches, visualizations, and artwork](<a href="https://mybinder.org/v2/gh/o-date/processing/master?urlpath=python">https://mybinder.org/v2/gh/o-date/processing/master?urlpath=python</a> with processing.ipynb)</p>
+<ul>
+<li>A simple introduction to a language that enables creative expression (Brian Foo, the &lsquo;Data Driven DJ&rsquo; uses processing to make visualizations to accompany his sonifications. See for instance his work, <a href="https://datadrivendj.com/tracks/painters/" target="_blank">Lee and Jackson</a>.)</li>
+</ul>
+</li>
+</ul>
+<h2 id="ottawa-datasets">Ottawa Datasets</h2>
+<ul>
+<li>
+<p>There are certain datasets already available for the Ottawa GLAM scene; some were created by students in the previous edition of this course.</p>
+<ul>
+<li>Survey markers from the CSTM (compiled by Sherwin et al) <a href="https://cstm-demo2.herokuapp.com/cstm-markers/">https://cstm-demo2.herokuapp.com/cstm-markers/</a></li>
+</ul>
+<p>+This API makes available some 400 record cards from the CARF excavations of Fort Frontenac in Kingston. <a href="http://fort-frontenac-excavation.herokuapp.com/">http://fort-frontenac-excavation.herokuapp.com/</a>.</p>
+</li>
+</ul>
+
   </article>
 </div>
       
-        
-<div class="list-section">
+<div class="grow"></div>
+<nav class="pagination-single">
   
-    <div class="list-section__item">
-      <a href="https://dhmuse.netlify.app/building/technotes-toc/" class="list-section__item--link">
-        Your Guide to the Technical Notes
+    
+    <div class="grow"></div>
+    
+      <a href="https://dhmuse.netlify.app/building/update1/" title="Tutorial Walk Through 1" class="pagination-single__right">
+        <div class="pagination-single__left-title">Tutorial Walk Through 1</div>
+        <div class="pagination-single__icon">
+          <svg xmlns="https://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M5 13h11.17l-4.88 4.88c-.39.39-.39 1.03 0 1.42.39.39 1.02.39 1.41 0l6.59-6.59c.39-.39.39-1.02 0-1.41l-6.58-6.6c-.39-.39-1.02-.39-1.41 0-.39.39-.39 1.02 0 1.41L16.17 11H5c-.55 0-1 .45-1 1s.45 1 1 1z"/></svg>
+        </div>
       </a>
-      <div class="list-section__item--desc">
-        
-      </div>
-    </div>
+    
   
-    <div class="list-section__item">
-      <a href="https://dhmuse.netlify.app/building/update1/" class="list-section__item--link">
-        Tutorial Walk Through 1
-      </a>
-      <div class="list-section__item--desc">
-        
-      </div>
-    </div>
-  
-    <div class="list-section__item">
-      <a href="https://dhmuse.netlify.app/building/update2/" class="list-section__item--link">
-        Tutorial 2
-      </a>
-      <div class="list-section__item--desc">
-        
-      </div>
-    </div>
-  
-  </div>
-      
-      
+</nav>
 
+
+      
     </article>
 
     <section id="list-side" class="r" data-dir="ltr">
+      
+        <div class="toc">
+  <h6 class="toc__label">What&#39;s on this Page</h6>
+  <div class="toc__body">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#basic-skills">Basic Skills</a></li>
+    <li><a href="#retrieve-and-visualize-data">Retrieve and Visualize Data</a></li>
+    <li><a href="#documentation">Documentation</a></li>
+    <li><a href="#creativity">Creativity</a></li>
+    <li><a href="#ottawa-datasets">Ottawa Datasets</a></li>
+  </ul>
+</nav>
+  </div>
+</div>
+      
     </section>
 
   </div>
 </div>
 
+
+
+
+
+<script defer src="/js/helper/getParents.min.js"></script>
+
+<script defer src="/js/helper/closest.min.js"></script>
+
+<script defer src="/js/helper/prev.min.js"></script>
+
+<script defer src="/js/helper/prop.min.js"></script>
+
+<script defer src="/js/helper/fadeinout.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    'use strict';
+    
+    
+    var tables = document.querySelectorAll('.single__contents > table');
+    for (let i = 0; i < tables.length; i++) {
+      var table = tables[i];
+      var wrapper = document.createElement('div');
+      wrapper.className = 'table-wrapper';
+      table.parentElement.replaceChild(wrapper, table);
+      wrapper.appendChild(table);
+    }
+    
+
+    
+    
+    
+    var lib = JSON.parse("null");
+
+    if (lib && lib.includes('mermaid')) {
+      var themeVariant = localStorage.getItem('theme') || 'light';
+
+      if (themeVariant === "dark") {
+        mermaid.initialize({ theme: 'dark' });
+      } else {
+        mermaid.initialize({ theme: 'default' });
+      }
+      
+      var mermaids = [];
+      [].push.apply(mermaids, document.getElementsByClassName('language-mermaid'));
+      mermaids.forEach(function(elem) {
+        var elemParentNode = elem.parentNode;
+
+        if (elemParentNode !== document.body) {
+          elemParentNode.parentNode.insertBefore(elem, elemParentNode);
+          elemParentNode.parentNode.removeChild(elemParentNode);
+        }
+
+        var newElemWrapper = document.createElement('div');
+        newElemWrapper.classList.add('mermaid');
+        newElemWrapper.innerHTML = elem.innerHTML;
+        elem.replaceWith(newElemWrapper);
+      });
+    }
+    
+    
+
+    
+    if (lib && lib.includes('katex')) {
+      var mathElements = document.getElementsByClassName('math');
+      var options = {
+        delimiters: [
+          { left: "$$", right: "$$", display: true },
+          { left: "\\[", right: "\\]", display: true },
+          { left: "$", right: "$", display: false },
+          { left: "\\(", right: "\\)", display: false }
+        ],
+      };
+
+      renderMathInElement(document.querySelector('.single__contents'), options);
+    }
+    
+
+
+    
+    if (lib && lib.includes('flowchartjs')) {
+      
+      var options = JSON.parse("{\"arrow-end\":\"block\",\"element-color\":\"black\",\"fill\":\"white\",\"flowstate\":{\"approved\":{\"fill\":\"#58C4A3\",\"font-size\":12,\"no-text\":\"n/a\",\"yes-text\":\"APPROVED\"},\"current\":{\"fill\":\"yellow\",\"font-color\":\"red\",\"font-weight\":\"bold\"},\"future\":{\"fill\":\"#FFFF99\"},\"invalid\":{\"fill\":\"#444444\"},\"past\":{\"fill\":\"#CCCCCC\",\"font-size\":12},\"rejected\":{\"fill\":\"#C45879\",\"font-size\":12,\"no-text\":\"REJECTED\",\"yes-text\":\"n/a\"},\"request\":{\"fill\":\"blue\"}},\"font-color\":\"black\",\"font-size\":14,\"line-color\":\"black\",\"line-length\":50,\"line-width\":3,\"no-text\":\"no\",\"scale\":1,\"symbols\":{\"end\":{\"class\":\"end-element\"},\"start\":{\"element-color\":\"green\",\"fill\":\"yellow\",\"font-color\":\"red\"}},\"text-margin\":10,\"x\":0,\"y\":0,\"yes-text\":\"yes\"}");
+      var jsonContent = null;
+
+      var flowchartPrefix = "language-flowchart";
+      var index = 0;
+      Array.prototype.forEach.call(document.querySelectorAll("[class^=" + flowchartPrefix + "]"), function(x){
+          x.style.display = 'none'
+          x.parentNode.style.backgroundColor = "transparent"
+          jsonContent = x.innerText;
+
+          var node0 = document.createElement('div');
+          node0.id = 'flowchart' + index;
+          x.parentNode.insertBefore(node0, x);
+
+          var diagram = flowchart.parse(jsonContent);
+          diagram.drawSVG("flowchart"+index, options);
+
+          index +=1;
+      });      
+    }
+    
+
+
+    
+    if (lib && lib.includes('chart')) {
+      var borderColor = "#666";
+      var bgColor = "#ddd";
+      var borderWidth = 2;
+
+      Chart.defaults.global.elements.rectangle.borderWidth = borderWidth;
+      Chart.defaults.global.elements.rectangle.borderColor = borderColor;
+      Chart.defaults.global.elements.rectangle.backgroundColor = bgColor;
+
+      Chart.defaults.global.elements.line.borderWidth = borderWidth;
+      Chart.defaults.global.elements.line.borderColor = borderColor;
+      Chart.defaults.global.elements.line.backgroundColor = bgColor;
+
+      Chart.defaults.global.elements.point.borderWidth = borderWidth;
+      Chart.defaults.global.elements.point.borderColor = borderColor;
+      Chart.defaults.global.elements.point.backgroundColor = bgColor;
+
+      var chartPrefix = "language-chart";
+      var index = 0;
+      var jsonContent = null;
+
+      Array.prototype.forEach.call(document.querySelectorAll("[class^=" + chartPrefix + "]"), function (x) {
+        x.style.display = 'none'
+        x.parentNode.style.backgroundColor = "transparent"
+        jsonContent = x.innerText;
+        var node0 = document.createElement('canvas');
+        var source = null;
+        node0.height = 200;
+        node0.style.height = 200;
+        node0.id = 'myChart' + index;
+        source = JSON.parse(jsonContent);
+        x.parentNode.insertBefore(node0, x);
+        var ctx = document.getElementById('myChart' + index).getContext('2d');
+        var myChart = new Chart(ctx, source);
+        index += 1;
+      });            
+    }
+    
+
+
+    
+    if (lib && lib.includes('viz')) {
+      var vizPrefix = "language-viz-";
+      Array.prototype.forEach.call(document.querySelectorAll("[class^=" + vizPrefix + "]"), function (x) {
+        x.style.display = 'none'
+        x.parentNode.style.backgroundColor = "transparent"
+        var engine;
+        x.getAttribute("class").split(" ").forEach(function (cls) {
+          if (cls.startsWith(vizPrefix)) {
+            engine = cls.substr(vizPrefix.length);
+          }
+        });
+        var viz = new Viz();
+        viz.renderSVGElement(x.innerText, { engine: engine })
+          .then(function (element) {
+            element.style.width = "100%";
+            x.parentNode.insertBefore(element, x);
+          })
+      });
+    }
+    
+    
+  });
+</script>
 <script>
   var listSide = document.getElementById('list-side');
   var listMain = document.getElementById('list-main');
-  var listMenu = document.getElementById('list-menu');
-  
+  var singleMenu = document.getElementById('single-menu');
+
   enquire.register("screen and (max-width:1280px)", {
     match: function () {
       listSide.className = 'r';
       listMain.className = 'm';
-      listMenu.className = 'l';
+      singleMenu.className = 'l';
     },
     unmatch: function () {
       listSide.className = 'r';
       listMain.className = 'm';
-      listMenu.className = 'l';
+      singleMenu.className = 'l';
     },
   }).register("screen and (max-width:960px)", {
     match: function () {
       listSide.className = 'hide';
       listMain.className = 'mr';
-      listMenu.className = 'l';
+      singleMenu.className = 'l';
     },
     unmatch: function () {
       listSide.className = 'r';
       listMain.className = 'm';
-      listMenu.className = 'l';
+      singleMenu.className = 'l';
     },
   }).register("screen and (max-width:600px)", {
     match: function () {
       listSide.className = 'hide';
       listMain.className = 'lmr';
-      listMenu.className = 'hide';
+      singleMenu.className = 'hide';
     },
     unmatch: function () {
       listSide.className = 'hide';
       listMain.className = 'mr';
-      listMenu.className = 'l';
+      singleMenu.className = 'l';
+
     },
   });
 </script>
+
 
         
 <div class="bot">
