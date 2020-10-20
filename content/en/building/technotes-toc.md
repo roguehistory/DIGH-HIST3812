@@ -32,13 +32,13 @@ We are going to use Jupyter Notebooks in this class. For a global overview of ho
 
 ## Retrieve and Visualize Data
 
+### Retrieving data
+
+If the data is already made available on the open web, and its in a reasonable format (json or csv) then it's not too difficult a task.
+
 + Loading simple Data into a Notebook that you've found online
 
 + [Working with Pandas to Manipulate Data](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=pandas-1.ipynb)
-
-+ Visualizing Data with Bokeh & Python
-    - This notebook is the one that accompanies the tutorial by Charlie Harper in [_The Programming Historian_](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)
-    - You can launch the notebook [here](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=viz-w-bokeh.ipynb); this will let you skip setting up the virtual environment (a way of keeping all of your lego pieces for each task separate so they don't cause conflicts).
 
 + Using OpenRefine to Obtain Data
   - This tutorial adapts the Programming Historian lesson by Evan Peter Williamson ["Fetching and Parsing Data from the Web with OpenRefine", especially its example 2](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine#example-2-url-queries-and-parsing-json).
@@ -52,6 +52,15 @@ We are going to use Jupyter Notebooks in this class. For a global overview of ho
 
 + Retrieve data from a 'datasette'-created API [launch binder here](http://mybinder.org/v2/gh/o-date/open-context-jupyter/master?urlpath=retrieving%20data%20from%20a%20datasette%20api.ipynb)
   - note that the 'api_search_url' variable might need to be changed to point to the survey markers datasette or the CARF excavation datasette re Fort Frontenac (see below for url)
+
++ Scraper. Adapt [this tutorial on beautiful soup](https://programminghistorian.org/en/lessons/intro-to-beautiful-soup) 
+
+### Visualize
+
++ Visualizing Data with Bokeh & Python
+    - This notebook is the one that accompanies the tutorial by Charlie Harper in [_The Programming Historian_](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)
+    - You can launch the notebook [here](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=viz-w-bokeh.ipynb); this will let you skip setting up the virtual environment (a way of keeping all of your lego pieces for each task separate so they don't cause conflicts).
+
 
 ## Documentation
 
