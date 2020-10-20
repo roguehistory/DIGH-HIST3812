@@ -50,7 +50,7 @@ We are going to use Jupyter Notebooks in this class. For a global overview of ho
   - Tutorial link [here](#). [Hathi Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=hathitrust.ipynb); [Internet Archive Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=internetarchive.ipynb)
   - memo to self: the json file for the notebooks is in the 'data' folder
 
-+ Retrieve data from a 'datasette'-created API [launch binder here](http://mybinder.org/v2/gh/o-date/open-context-jupyter/master?urlpath=retrieving data from a datasette api.ipynb)
++ Retrieve data from a 'datasette'-created API [launch binder here](http://mybinder.org/v2/gh/o-date/open-context-jupyter/master?urlpath=retrieving%20data%20from%20a%20datasette%20api.ipynb)
   - note that the 'api_search_url' variable might need to be changed to point to the survey markers datasette or the CARF excavation datasette re Fort Frontenac (see below for url)
 
 ## Documentation
@@ -62,15 +62,15 @@ We are going to use Jupyter Notebooks in this class. For a global overview of ho
 
 ## Creativity
 
-For when you're ready to push things further.
+For when you're ready/inclined to push things further.
 
-+ [Sonification](https://mybinder.org/v2/gh/o-date/sonification/master?urlpath=Intro to Sonification.ipynb)
++ [Sonification](https://mybinder.org/v2/gh/o-date/sonification/master?urlpath=Intro%20to%20Sonification.ipynb)
   - An overview of how and why you might sonify data
 
-+ [Image Glitching](https://mybinder.org/v2/gh/o-date/creativity/master?urlpath=Glitching an image with prism sorting.ipynb)
++ [Image Glitching](https://mybinder.org/v2/gh/o-date/creativity/master?urlpath=Glitching%20an%20image%20with%20prism%20sorting.ipynb)
   - An overview of why glitching an image might be one way of letting people play with collections
 
-+ [An introduction to 'Processing', a language for quick sketches, visualizations, and artwork](https://mybinder.org/v2/gh/o-date/processing/master?urlpath=python with processing.ipynb)
++ [An introduction to 'Processing', a language for quick sketches, visualizations, and artwork](https://mybinder.org/v2/gh/o-date/processing/master?urlpath=python%20with%20processing.ipynb)
   - A simple introduction to a language that enables creative expression (Brian Foo, the 'Data Driven DJ' uses processing to make visualizations to accompany his sonifications. See for instance his work, [Lee and Jackson](https://datadrivendj.com/tracks/painters/).)
 
 ## Ottawa Datasets
@@ -79,4 +79,4 @@ For when you're ready to push things further.
 
    + Survey markers from the CSTM (compiled by Sherwin et al) https://cstm-demo2.herokuapp.com/cstm-markers/
 
-   +This API makes available some 400 record cards from the CARF excavations of Fort Frontenac in Kingston. http://fort-frontenac-excavation.herokuapp.com/.
+   + This API makes available some 400 record cards from the CARF excavations of Fort Frontenac in Kingston. http://fort-frontenac-excavation.herokuapp.com/.
