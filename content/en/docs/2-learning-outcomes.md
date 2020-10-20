@@ -7,12 +7,12 @@ weight: 2
 ---
 ### Questions
 
-text to ber added
+text to be added
 
 _This course is a formalized exploration of these questions; I do not know the answers! I'm excited to figure these out with you._
 
 {{< alert theme="info" >}}
-**Nb** The process of teaching is also a process of collaboration between me and you. This is the _first time_ this course has been taught in this fashion. Sometimes -and we're expecting this, you and I- things won't work as we expect; tech might break; the world might impinge too much. We will adapt accordingly. Remember: the grade in this course is a function of your process and your evolution, so adapting and thinking through the implications of when things don't go according to plan is, in fact, _according to plan_.
+**Nb** The process of teaching is also a process of collaboration between me and you. Sometimes -and we're expecting this, you and I- things won't work as we expect; tech might break; the world might impinge too much. We will adapt accordingly. Remember: the grade in this course is a function of your process and your evolution, so adapting and thinking through the implications of when things don't go according to plan is, in fact, _according to plan_.
 {{< /alert >}}
 
 ### Outcomes

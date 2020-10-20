@@ -46,4 +46,6 @@ A good annotation draws connections between what you've read and other things yo
 
 ### Log your work
 
-Upload any of your technical work to your own private repo at the end of the week.
+Each week, I would like you to log your final thoughts on the discussion [using this form](https://forms.gle/jg2YzhLrnLMLYSqH7). **This is required, and counts towards your DL or CR portion of the grade**.
+
+On this same form, if you have technical work that you require help with or would like me to take a look, you can log the link to the repo you're working from.

@@ -10,15 +10,13 @@ weight: 3
 
 + Jan 6 term begins
 
-Individually curated readings to be assigned by Dr. Graham
+Select your topics & get your 'chi' lab (Hypothesis, Github, Discord) set up
 
-+ Wk 1 - Jan 11 
++ Wk 1 - Jan 11
 	- Foundations 1
-		- Preseeded annotations to show how it's done
-		- Sort out who will do the main annotations for each work (page annotation)
 	- Building 1
 		- Basic digital skills
-+ Wk 2 - Jan 18 
++ Wk 2 - Jan 18
 	- Foundations 2
 	- Building 2
 		- OZGlam Workbench
@@ -49,23 +47,23 @@ Individually curated readings to be assigned by Dr. Graham
 	- Building 7
 		- Documenting with Mkdocs, Python, and Github.io
 		- Simple data visualizations as data exploration
-
 + Wk 8 - Mar 8
 	- Creations 2
 	- Building 8
 		- supporting materials to be provided as per class interests, (direct students to consider craftingdh and digiarch materials), just more time to build the notebooks
-
 + Wk 9 - Mar 15
 	- Measuring 1
 	- Building 9
 		- supporting materials to be provided as per class interests, (direct students to consider craftingdh and digiarch materials), just more time to build the supporting website
+		- Jupyter Notebooks Due
 + Wk 10 - Mar 22
 	- Measuring 2
 	- Building 10
 		- nothing new assigned
+		- Dr Graham will present the bundled collection of notebooks to the class
 + Wk 11 - Mar 29
 	- Case Studies Develop (no new readings)
-		
 + Wk 12 - Apr 5
 	- Case Studies, Notebooks, presented to the world.
-		
+	- Case studies due
+	- Exit ticket due within 10 days after the final day of term.
