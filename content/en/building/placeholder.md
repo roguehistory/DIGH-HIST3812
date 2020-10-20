@@ -1,59 +1,81 @@
 +++
-author = "Hugo Authors"
-title = "Getting Started with Jupyter Notebooks"
+author = "Shawn Graham"
+title = "Your Guide to the Technical Notes"
 date = "2020-09-23"
 #description = "Lorem Ipsum Dolor Si Amet"
 
 image = "images/landscape.jpg"
 +++
 
-Click title to see the full Post
+## Basic Skills
 
+We are going to use Jupyter Notebooks in this class. For a global overview of how Jupyter notebooks work and are used in humanities research, see Quinn Dombrowski's lesson in [_The Programming Historian_](https://programminghistorian.org/en/lessons/jupyter-notebooks). The links below go to either live notebooks that you can work through, or guide you through some of the same steps that Dombrowski discusses, but with more detail.
 
-Lorem est tota propiore conpellat pectoribus de
-pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
-caluere tempus<!--more--> inhospita parcite confusaque translucet patri vestro qui optatis
-lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
++ Working with the Command Line (PC) or Terminal (Mac)
+  - A walkthrough, by Chantal Brousseau
 
-1. Exierant elisi ambit vivere dedere
-2. Duce pollice
-3. Eris modo
-4. Spargitque ferrea quos palude
++ [Introduction to Jupyter Notebooks](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/getting-started-with-jupyter.ipynb)
+    - Courtesy Nathan Kelber and Ted Lawless for JSTOR Labs, CC-BY
+    - This notebook introduces Jupyter notebooks and Python for absolute beginners.
+    - Going further: Kelber and Lawless have a number of notebooks for working with JSTOR's 'Data for Research' dataset creation service; [find out more here](https://tdm-pilot.org/)
 
-Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus
-silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria
-tractus malis.
++ [Running Jupyter Notebooks on Your Own Machine](#)
+  - A walkthrough, by Chantal Brousseau
 
-1. Comas hunc haec pietate fetum procerum dixit
-2. Post torum vates letum Tiresia
-3. Flumen querellas
-4. Arcanaque montibus omnes
-5. Quidem et
++ [Using Git on the Command Line to Keep your Notebook Under Version Control](#)
+  - A walkthrough, by Dr. Graham
 
-# Vagus elidunt
++ [How to launch your Notebook in a computational binder online with mybinder.org](#)
+  - A walkthrough, by Dr. Graham
 
-<svg class="canon" xmlns="http://www.w3.org/2000/svg" overflow="visible" viewBox="0 0 496 373" height="373" width="100%"><g fill="none"><path stroke="#000" stroke-width=".75" d="M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515"></path><path stroke="#ED1C24" stroke-width=".75" d="M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z"></path><path stroke="#000" stroke-width=".75" d="M.479.375h495v372h-495zM247.979.875v372"></path><ellipse cx="498.729" cy="177.625" rx=".75" ry="1.25"></ellipse><ellipse cx="247.229" cy="377.375" rx=".75" ry="1.25"></ellipse></g></svg>
++ [Introduction to Python](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=python-basics-1.ipynb)
 
-[The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
+## Retrieve and Visualize Data
 
-## Mane refeci capiebant unda mulcebat
++ Loading simple Data into a Notebook that you've found online
 
-Victa caducifer, malo vulnere contra
-dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere
-furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
++ [Working with Pandas to Manipulate Data](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=pandas-1.ipynb)
 
-Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli
-Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare
-Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert
-ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae
-vulnus haerentia iuste et exercebat, sui et.
++ Visualizing Data with Bokeh & Python
+    - This notebook is the one that accompanies the tutorial by Charlie Harper in [_The Programming Historian_](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)
+    - You can launch the notebook [here](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=viz-w-bokeh.ipynb); this will let you skip setting up the virtual environment (a way of keeping all of your lego pieces for each task separate so they don't cause conflicts).
 
-Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel **mitis temploque** vocatus, inque alis, *oculos nomen* non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem
-Propoetides **parte**.
++ Using OpenRefine to Obtain Data
+  - This tutorial adapts the Programming Historian lesson by Evan Peter Williamson ["Fetching and Parsing Data from the Web with OpenRefine", especially its example 2](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine#example-2-url-queries-and-parsing-json).
+  - Tutorial link [here](#).
 
-{{< css.inline >}}
-<style>
-.canon { background: white; width: 100%; height: auto;}
-</style>
-{{< /css.inline >}}
++ Extract Illustrated Pages from the Hathi Trust & Internet Archive
+  - This tutorial & associated notebooks are developed from Stephen Krewson's piece for the Programming Historian, ["Extracting Illustrated Pages from Digital Libraries with Python"](https://programminghistorian.org/en/lessons/extracting-illustrated-pages)
+  - You'll search for images related to "Ottawa".
+  - Tutorial link [here](#).
+
++ Retrieve data from a 'datasette'-created API [launch binder here](http://mybinder.org/v2/gh/o-date/open-context-jupyter/master?urlpath=retrieving data from a datasette api.ipynb)
+  - note that the 'api_search_url' variable might need to be changed to point to the survey markers datasette or the CARF excavation datasette re Fort Frontenac (see below for url)
+
+## Documentation
+
++ Building an API with Datasette
+
++ Building a documentation website with Mkdocs
+  - MKDocs is a python module that will turn a folder with markdown documents into a functioning website
+
+## Creativity
+
+For when you're ready to push things further.
+
++ [Sonification](https://mybinder.org/v2/gh/o-date/sonification/master?urlpath=Intro to Sonification.ipynb)
+  - An overview of how and why you might sonify data
+
++ [Image Glitching](https://mybinder.org/v2/gh/o-date/creativity/master?urlpath=Glitching an image with prism sorting.ipynb)
+  - An overview of why glitching an image might be one way of letting people play with collections
+
++ [An introduction to 'Processing', a language for quick sketches, visualizations, and artwork](https://mybinder.org/v2/gh/o-date/processing/master?urlpath=python with processing.ipynb)
+  - A simple introduction to a language that enables creative expression (Brian Foo, the 'Data Driven DJ' uses processing to make visualizations to accompany his sonifications. See for instance his work, [Lee and Jackson](https://datadrivendj.com/tracks/painters/).)
+
+## Ottawa Datasets
+
++ There are certain datasets already available for the Ottawa GLAM scene; some were created by students in the previous edition of this course.
+
+   + Survey markers from the CSTM (compiled by Sherwin et al) https://cstm-demo2.herokuapp.com/cstm-markers/
+
+   +This API makes available some 400 record cards from the CARF excavations of Fort Frontenac in Kingston. http://fort-frontenac-excavation.herokuapp.com/.

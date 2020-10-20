@@ -17,16 +17,13 @@
     
       
       <item>
-        <title>Getting Started with Jupyter Notebooks</title>
+        <title>Your Guide to the Technical Notes</title>
         <link>https://dhmuse.netlify.app/building/placeholder/</link>
         <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/building/placeholder/</guid>
-        <description>&lt;p&gt;Click title to see the full Post&lt;/p&gt;
-&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
-pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
-caluere tempus&lt;/p&gt;</description>
+        <description>Basic Skills We are going to use Jupyter Notebooks in this class. For a global overview of how Jupyter notebooks work and are used in humanities research, see Quinn Dombrowski&amp;rsquo;s lesson in The Programming Historian. The links below go to either live notebooks that you can work through, or guide you through some of the same steps that Dombrowski discusses, but with more detail.
+  Working with the Command Line (PC) or Terminal (Mac)</description>
       </item>
       
       <item>

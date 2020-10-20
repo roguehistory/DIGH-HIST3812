@@ -40,7 +40,7 @@ Select your topics & get your 'chi' lab (Hypothesis, Github, Discord) set up
 + Wk 6 - Feb 22
 	- Representations 4
 	- Building 6
-		- Project Management with Trello
+		- Project Management with Kanban boards
 		- Designing the OttGLAM Workbench
 + Wk 7 - Mar 1
 	- Creations 1
