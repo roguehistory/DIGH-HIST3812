@@ -20,13 +20,13 @@ There is no midterm. There is no final exam.
 
 2. Collaborative Readers. Each student is responsible each week to respond in a timely fashion (Monday to Wed) to overview annotations and seeded annotations such that the page preparer can respond in turn.
 
-3. Each student will craft at least one Jupyter notebook that engages with a source of GLAM data in Ottawa. The notebook should do something meaningful with the data (at least two examples of 'something meaningful' within a single notebook). It could be a visualization of a certain subset of information. It could show how to map the material. It might make the material more easily available. Other things are possible. 
+3. Each student will craft at least one Jupyter notebook that engages with a source of GLAM data in Ottawa. [See the 'Technical Notes' for more info on the mechanics](/building/). The notebook should do something meaningful with the data (at least two examples of 'something meaningful' within a single notebook). It could be a visualization of a certain subset of information. It could show how to map the material. It might make the material more easily available. Other things are possible.
 	- the notebook will combine both the code and the documentation explaining what is going on, where the data is coming from
-	- the jupyter notebook will be kept under version control in Github. 
+	- the jupyter notebook will be kept under version control in Github.
 
-4. Each student will write one case study using our glamworkbench that walks the user through the notebook, how to use it, and visualize results to suggest questions a user might want to pose, and why it might matter. Markdown document, cites readings, links to relevant annotations.
+4. Each student will write one case study using our [glam-workbench](/building/) that walks the user through the notebook, how to use it, and visualize results to suggest questions a user might want to pose, and why it might matter. This will be written as a text file using [Markdown conventions](https://www.markdownguide.org/cheat-sheet), that cites readings and other pertinent materials; it might also link to relevant annotations in our discussions.
 
-5. Each student will prepare an exit ticket reflecting on the entire process
+5. Each student will prepare an exit ticket reflecting on the entire process (see below).
 
 
 {{< alert theme="warning" >}}
@@ -35,7 +35,7 @@ There is no midterm. There is no final exam.
 
 ### The Exit Ticket
 
-You will produce an '[exit ticket](#)' for me at the end of the course (open format) reflecting on where you started and where you've gotten to, and you will indicate how you feel you've done against the [learning outcomes](docs/2-learning-outcomes). You are **required** to explicitly tie your exit ticket to evidence collected in your weekly work. The exit ticket is a summary assessment exercise that will pull all the different strings together into a strong cord. **Everyone's journey is different**. Digital methods are more a matter of practice and time than they are of aptitude.
+You will produce an '[exit ticket](#)' for me at the end of the course (open format) reflecting on where you started and where you've gotten to, and you will indicate how you feel you've done against the [learning outcomes](docs/2-learning-outcomes); see below for how meeting the outcomes translates to a grade. You are **required** to explicitly tie your exit ticket to the evidence of your journey (annotations, digital ephemera, etc). The exit ticket is a summary assessment exercise that will pull all the different strings together into a strong cord. **Everyone's journey is different**. Digital methods are more a matter of practice and time than they are of aptitude.
 
 If you've never done digital work before, it might be that you never quite manage to get as many of the tech things working as you might've wanted: but you now know _what you didn't know before_. That's a win. You might be a computer science minor and the tech materials don't present you with much challenge: but figuring out how to tell the compelling story was very difficult for you _but you're better at it now_. Your 'exit ticket' will explain to me your particular context, and it will point to the evidence that demonstrates how you've moved along from where you were at the beginning to where you are now.
 
@@ -69,6 +69,10 @@ In this example, based on my consideration of Jo Q Student's evidence and the fe
 
 I am required by the University to provide a percentage breakdown.
 
-**to come**
++ Discussion leading: 20%
++ Collaborative reading: 20%
++ Jupyter Notebook: 20%
++ Case Study: 20%
++ Exit Ticket: 20%
 
-I reserve the right to adjust those percentages to take into account the particular circumstances of the student.
+I reserve the right to adjust those percentages to take into account the particular circumstances of the student. Note that depending on your argument in the Exit Ticket, I can be persuaded the adjust those percentages to put more weight on one thing rather than another, etc.

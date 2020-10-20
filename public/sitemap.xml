@@ -3,6 +3,11 @@
   xmlns:xhtml="https://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dhmuse.netlify.app/week/get-started/instructions/</loc>
+    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dhmuse.netlify.app/week/eight/instructions/</loc>
     <lastmod>2020-01-28T00:10:37+09:00</lastmod>
   </url>
@@ -120,6 +125,11 @@
   <url>
     <loc>https://dhmuse.netlify.app/docs/8-reuse/</loc>
     <lastmod>2020-01-28T00:39:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dhmuse.netlify.app/week/get-started/</loc>
+    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
   </url>
   
   <url>
