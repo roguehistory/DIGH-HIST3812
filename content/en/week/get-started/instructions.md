@@ -61,7 +61,7 @@ Lay claim to the topic for which you want to be '[Discussion Leader](docs/4-asse
 2.6 Metadata & Paradata
 2.7 Linked Open Data
 
-#### Engagement
+#### Creative Engagement
 
 > in which we develop our own cultural heritage informatics infrastructure and explore the ways such infrastructure permits research and creativity
 
