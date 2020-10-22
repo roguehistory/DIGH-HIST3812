@@ -19,7 +19,7 @@ Select your topics & get your 'chi' lab (Hypothesis, Github, Discord) set up
 + Wk 2 - Jan 18
 	- Foundations 2
 	- Building 2
-		- OZGlam Workbench
+		- Explore the OZGlam Workbench
 + Wk 3 - Jan 25
 	- Representations 1
 	- Building 3

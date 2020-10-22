@@ -23,11 +23,6 @@ _This course is a formalized exploration of these questions; I do not know the a
 4. Develop how-to for the workbench that communicate the results of these investigations as an act of public digital history
 5. Given that this is an online course, another outcome will be your ability to conduct such research independently. However, no one operates in a vacuum; digital historians collaborate to troubleshoot or develop technologies, and through open practices to data sharing and reuse, learn to build upon each others’ work in a collaborative fashion.
 
-
-### Texts
-
-**to be completed**
-
 ### Real Names Policy
 
 You do not need to use your real name or identity on any public-facing work that you do in this course. Nor do you need to explain to me that you wish to use a pseudonym. It is sufficient that you send an email to me with the following message:

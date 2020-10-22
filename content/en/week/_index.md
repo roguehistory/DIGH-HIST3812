@@ -5,18 +5,7 @@ date: 2020-01-28T00:08:29+09:00
 draft: false
 ---
 
-<table >
-	<tbody>
-		<tr>
-			<td><img src="/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"> </td>
-			<td><img src="/images/scott-webb-ab80p262fFM-unsplash.jpg"</td>
-		</tr>
-	</tbody>
-</table>
-
-_A clever bit of visual juxtaposition. Yes...? Anyone...?_
-
-(Photos by Scott Web https://unsplash.com/photos/ab80p262fFM and Ilya Pavlov https://unsplash.com/photos/OqtafYT5kTw )
+![](images/in-museum.png)
 
 The course has four parts:
 

@@ -6,10 +6,21 @@ draft: false
 weight: 1
 ---
 
-<p align="center">course promo video will go here</p>
+<table >
+	<tbody>
+		<tr>
+			<td><img src="/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"> </td>
+			<td><img src="/images/scott-webb-ab80p262fFM-unsplash.jpg"</td>
+		</tr>
+	</tbody>
+</table>
+
+_A clever bit of visual juxtaposition. Yes...? Anyone...?_
+
+(Photos by Scott Web https://unsplash.com/photos/ab80p262fFM and Ilya Pavlov https://unsplash.com/photos/OqtafYT5kTw )
+
 
 ## HIST4916a Museums and Digital History
-#### Department of History, Carleton University
 
 How do museums and other organizations in the ‘GLAM’ sector (galleries, libraries, archives, museums) keep track of their collections? To what purpose? What might happen if we release these collections into the wild (via the internet)? If we mash these collections together what might we see, and why might it matter? Where are the dangers - and to whom could it be dangerous?
 

@@ -9,9 +9,7 @@ weight: 4
 There is no midterm. There is no final exam.
 {{< /notice >}}
 
-### Outputs
-
-**to be added**
+You are assessed on the following elements.
 
 1. Discussion Leaders. Each student will be responsible to 'page prep' cetain readings. Page prep involves:
 	- Creating the Reading Overview: a brief overview page note attached to the assigned reading using Hypothes.is page notes
@@ -35,7 +33,7 @@ There is no midterm. There is no final exam.
 
 ### The Exit Ticket
 
-You will produce an '[exit ticket](#)' for me at the end of the course (open format) reflecting on where you started and where you've gotten to, and you will indicate how you feel you've done against the [learning outcomes](docs/2-learning-outcomes); see below for how meeting the outcomes translates to a grade. You are **required** to explicitly tie your exit ticket to the evidence of your journey (annotations, digital ephemera, etc). The exit ticket is a summary assessment exercise that will pull all the different strings together into a strong cord. **Everyone's journey is different**. Digital methods are more a matter of practice and time than they are of aptitude.
+You will produce an '[exit ticket](/building/et-guidance/)' for me at the end of the course (open format) reflecting on where you started and where you've gotten to, and you will indicate how you feel you've done against the [learning outcomes](docs/2-learning-outcomes); see below for how meeting the outcomes translates to a grade. You are **required** to explicitly tie your exit ticket to the evidence of your journey (annotations, digital ephemera, etc). The exit ticket is a summary assessment exercise that will pull all the different strings together into a strong cord. **Everyone's journey is different**. Digital methods are more a matter of practice and time than they are of aptitude.
 
 If you've never done digital work before, it might be that you never quite manage to get as many of the tech things working as you might've wanted: but you now know _what you didn't know before_. That's a win. You might be a computer science minor and the tech materials don't present you with much challenge: but figuring out how to tell the compelling story was very difficult for you _but you're better at it now_. Your 'exit ticket' will explain to me your particular context, and it will point to the evidence that demonstrates how you've moved along from where you were at the beginning to where you are now.
 
@@ -44,6 +42,8 @@ If I agree with your assessment, then that is the grade you will receive (thus, 
 **When I have disagreed in previous courses** this has been, 9.5 times out of 10, to _raise_ the grade: y'all are too hard on yourselves. If I have disagreed and felt that you've overstated things - if you were the 0.5 out of 10 - we would talk and come to an agreement.
 
 The Exit Ticket should be submitted within one week of the last day of the fall term.
+
+Further guidance on the Exit Ticket is available under the [Technical Notes](/building/et-guidance/).
 
 ### Grading
 
