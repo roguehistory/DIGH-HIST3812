@@ -1,7 +1,7 @@
 +++
 author = "Dr. Graham"
-title = "Tutorial 2"
-date = "2020-08-02"
+title = "Guidance for your Case Study"
+date = "2020-02-02"
 #description = "second thing"
 
 image = "images/IMG_0607 3.png"

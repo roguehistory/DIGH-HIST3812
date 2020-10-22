@@ -1,6 +1,6 @@
 +++
 author = "Shawn Graham"
-title = "Your Guide to the Technical Notes"
+title = "Computational Notebooks List"
 date = "2020-10-10"
 #description = "Lorem Ipsum Dolor Si Amet"
 
@@ -36,7 +36,7 @@ We are going to use Jupyter Notebooks in this class. For a global overview of ho
 
 If the data is already made available on the open web, and its in a reasonable format (json or csv) then it's not too difficult a task.
 
-+ Loading simple Data into a Notebook that you've found online
++ Loading simple data that you've found online into a Notebook
 
 + [Working with Pandas to Manipulate Data](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=pandas-1.ipynb)
 
@@ -53,7 +53,7 @@ If the data is already made available on the open web, and its in a reasonable f
 + Retrieve data from a 'datasette'-created API [launch binder here](http://mybinder.org/v2/gh/o-date/open-context-jupyter/master?urlpath=retrieving%20data%20from%20a%20datasette%20api.ipynb)
   - note that the 'api_search_url' variable might need to be changed to point to the survey markers datasette or the CARF excavation datasette re Fort Frontenac (see below for url)
 
-+ Scraper. Adapt [this tutorial on beautiful soup](https://programminghistorian.org/en/lessons/intro-to-beautiful-soup) 
++ Scraper. Adapt [this tutorial on beautiful soup](https://programminghistorian.org/en/lessons/intro-to-beautiful-soup)
 
 ### Visualize
 
@@ -89,3 +89,7 @@ For when you're ready/inclined to push things further.
    + Survey markers from the CSTM (compiled by Sherwin et al) https://cstm-demo2.herokuapp.com/cstm-markers/
 
    + This API makes available some 400 record cards from the CARF excavations of Fort Frontenac in Kingston. http://fort-frontenac-excavation.herokuapp.com/.
+
+## A Notebook of Your Own
+
+Use these notebooks. Repurpose them. Expand them. Add commentary, reflection, citations, links, videos. Your notebook can be a how-to; it can be a 'hey, look at this interesting pattern if you do x,y,z'; it can be a full-on argument with code & data. [See the Guidance for Notebooks document](building/nb-guidance).

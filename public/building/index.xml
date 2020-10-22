@@ -17,7 +17,7 @@
     
       
       <item>
-        <title>Your Guide to the Technical Notes</title>
+        <title>Computational Notebooks List</title>
         <link>https://dhmuse.netlify.app/building/technotes-toc/</link>
         <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
@@ -27,23 +27,55 @@
       </item>
       
       <item>
-        <title>Tutorial Walk Through 1</title>
-        <link>https://dhmuse.netlify.app/building/update1/</link>
+        <title>Guidance for Discussion Leaders</title>
+        <link>https://dhmuse.netlify.app/building/dl-guidance/</link>
         <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/building/update1/</guid>
-        <description>(click the title to see the full post, not just this preview)
-blah blah these pages are ordered by date, most recent date on top.</description>
+        <guid>https://dhmuse.netlify.app/building/dl-guidance/</guid>
+        <description>The role of the Discussion Leader is to set us up for a deeper engagement with the task. You are the trailblazer, the guide, the scout, the point of first-contact, with a new and puzzling text. If there are two discussion leaders for a week, divy up the work between you equitably.
+The seminar discussions all happen through the medium of Hypothes.is annotations: it is critical that you get these prepared in advance of your official &amp;lsquo;week&amp;rsquo; so that Collaborative Readers can respond.</description>
       </item>
       
       <item>
-        <title>Tutorial 2</title>
-        <link>https://dhmuse.netlify.app/building/update2/</link>
+        <title>Guidance for Collaborative Readers</title>
+        <link>https://dhmuse.netlify.app/building/cr-guidance/</link>
         <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/building/update2/</guid>
+        <guid>https://dhmuse.netlify.app/building/cr-guidance/</guid>
+        <description>If you&amp;rsquo;re not a Discussion Leader in a given week, you&amp;rsquo;re a Collaborative Reader, and your task is to enrichen our understanding of the material by engaging with the texts in a generous way. Following Kathleen Fitzpatrick, I understand &amp;lsquo;generous thinking&amp;rsquo; to work like this:
+ Generous Thinking [begins] by proposing that rooting the humanities in generosity, and in particular in the practices of thinking with rather than reflexively against [emphasis added] both the people and the materials with which we work, might invite more productive relationships and conversations not just among scholars but between scholars and the surrounding community.</description>
+      </item>
+      
+      <item>
+        <title>Guidance on Building your own Notebook</title>
+        <link>https://dhmuse.netlify.app/building/nb-guidance/</link>
+        <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/nb-guidance/</guid>
         <description>(click the title to see the full post, not just this preview)
 blah blah</description>
+      </item>
+      
+      <item>
+        <title>Guidance for your Case Study</title>
+        <link>https://dhmuse.netlify.app/building/cs-guidance/</link>
+        <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/cs-guidance/</guid>
+        <description>(click the title to see the full post, not just this preview)
+blah blah</description>
+      </item>
+      
+      <item>
+        <title>Guidance for the Exit Ticket</title>
+        <link>https://dhmuse.netlify.app/building/et-guidance/</link>
+        <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/et-guidance/</guid>
+        <description>Photo by Agus Dietrich, unsplash.com
+Format The format of the exit ticket is up to you. Text, audio, video, multimedia: go wild.
+Content Collect evidence detailing your journey in this course, and use the frame, &amp;lsquo;So what is Cultural Heritage Informatics, anyway?&amp;rsquo; to situate your response. You might want to go back to the course description to see what you now think of that description.
+This evidence might be individual annotations (yours or someone else&amp;rsquo;s; remember, each annotation has its own permalink) that changed how you thought or make some argument you wish to engage with; it might be your own digital ephemera that emerges out of your contribution to our larger GLAM notebook infrastructure.</description>
       </item>
       
     

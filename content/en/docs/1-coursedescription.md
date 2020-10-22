@@ -8,10 +8,18 @@ weight: 1
 
 <p align="center">course promo video will go here</p>
 
-### HIST4916a Museums and Digital History
+## HIST4916a Museums and Digital History
 #### Department of History, Carleton University
 
 How do museums and other organizations in the ‘GLAM’ sector (galleries, libraries, archives, museums) keep track of their collections? To what purpose? What might happen if we release these collections into the wild (via the internet)? If we mash these collections together what might we see, and why might it matter? Where are the dangers - and to whom could it be dangerous?
+
+## What _is_ Cultural Heritage Informatics?
+
+The intersection of digital history and museums might be found within the broader field of ‘cultural heritage informatics’. Cultural heritage materials require careful description and organization to permit effective curation, preservation, management, and research. You may have heard the term ‘bioinformatics’ before; [that field defines itself](https://academic.oup.com/jamia/article/19/6/931/729127) as
+
+> ‘the interdisciplinary field that studies and pursues the effective uses of biomedical data, information, and knowledge for scientific inquiry, problem solving and decision making, motivated by efforts to improve human health.’ ([Kulikowski et al 2012](https://doi.org/10.1136/amiajnl-2012-001053))
+
+…in which case, we could define CHI similarly as an interdisciplinary field studying and pursuing the effective use of cultural heritage data, information, and knowledge for humanistic or scientific inquiry, problem solving, and decision making, _motivated by efforts to improve human welfare_. I added the emphasis there to make an important point. The decisions we make about _information_ are necessarily _ethical_ decisions. Computers operate by replicating the decisions we make, at enormous speed and scale. The consequences can be unintended and unforeseen, and so we have to begin from an ethical perspective that considers from the outset: who will this harm?
 
 {{< alert theme="info" >}}
 **You do not need to be 'techy' to be successful in this course! You just need to be diligent, honest, and open.**
