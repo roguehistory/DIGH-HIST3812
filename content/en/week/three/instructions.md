@@ -6,6 +6,8 @@ draft: false
 weight: -10
 ---
 
+> in which we consider the ways cultural heritage is represented and the creative work of curation and interpretation
+
 ### Goals for this week
 
 1. this

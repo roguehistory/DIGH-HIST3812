@@ -6,6 +6,8 @@ draft: false
 weight: -10
 ---
 
+> in which we develop our own cultural heritage informatics infrastructure and explore the ways such infrastructure permits research and creativity
+
 ### Goals for this week
 
 1. this

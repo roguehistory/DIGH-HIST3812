@@ -6,6 +6,7 @@ draft: false
 weight: -10
 ---
 
+> in which we lay the groundwork for what this course will explore, its larger contexts, and what the major research questions are.
 
 ### Goals for this week
 
@@ -52,6 +53,6 @@ Basic Digital Skills
 
 ### Log your work
 
-Each week, I would like you to log your final thoughts on the discussion [using this form](https://forms.gle/jg2YzhLrnLMLYSqH7). **This is required, and counts towards your DL or CR portion of the grade**. 
+Each week, I would like you to log your final thoughts on the discussion [using this form](https://forms.gle/jg2YzhLrnLMLYSqH7). **This is required, and counts towards your DL or CR portion of the grade**.
 
 On this same form, if you have technical work that you require help with or would like me to take a look, you can log the link to the repo you're working from.

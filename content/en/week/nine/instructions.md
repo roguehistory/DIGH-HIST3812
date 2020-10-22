@@ -6,6 +6,7 @@ draft: false
 weight: -10
 ---
 
+> in which we consider how to measure, why, and why it matters
 
 ### Goals for this week
 
