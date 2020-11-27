@@ -28,7 +28,9 @@ The National Library of Scotland has made all kinds of materials available throu
 2. Explore '[Edinburgh Ladies' Debating Society](https://data.nls.uk/tools/jupyter-notebooks/exploring-edinburgh-ladies-debating-society/)'
 3. Copy these notebooks to your own Github repo by visiting the appropriate repo, and while logged into Github, hitting the 'fork' button.
 
-As you explore, take care to note how the notebooks are structured. What lessons might we draw from these for the creation of our _own_ notebooks? Make your observations in a journal entry, see below.
+As you explore, take care to note how the notebooks are structured. What lessons might we draw from these for the creation of our _own_ notebooks? Make your observations in a journal entry, see below. Discuss in our discord space any points where there seems to be some tacit assumptions about what you know how to do, or where you need more information.
+
+> Think of it like this: at the end of this course you'll be making a notebook on some aspect of Ottawa's GLAM scene for the January 11th version of yourself. What does pastYou need to know? 
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}

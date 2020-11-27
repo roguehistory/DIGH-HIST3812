@@ -1,63 +1,27 @@
 ---
-title: "Representations 3"
-description: "Raw Data, Metadata, & Paradata"
+title: "Async Seminar is Go!"
+description: "Collaborative Reading as Asynchronous Seminar"
 date: 2020-01-28T00:10:37+09:00
 draft: false
 weight: -10
 ---
 
+>A seminar is a form of academic instruction, either at an academic institution or offered by a commercial or professional organization.[citation needed] It has the function of bringing together small groups for recurring meetings, focusing each time on some particular subject, in which everyone present is requested to participate. This is often accomplished through an ongoing Socratic dialogue with a seminar leader or instructor, or through a more formal presentation of research. It is essentially a place where assigned readings are discussed, questions can be raised and debates can be conducted.
+
+Thus spake Wikipedia (Wikipedia has a surprising amount of [GLAM projects going on](https://en.wikipedia.org/wiki/Wikipedia:GLAM/Projects) by the way).
+
+Over these next four weeks, we transform that conventional model from live face to face to a distributed, asynchronous model through [collaborative reading & generous thinking](building/cr-guidance/)
 
 ### Goals for this week
 
-1. this
-2. that
-3. the other thing
-
-
+1. Engage meaningfully with the discussion as prepared for you by your peers
 
 ### Read
 
-
-
-#### 2.5 APIs and Catalogues: Raw Data?
-
-Hogarty, Sarah Bailey, Keir Winesmith, Matthew Hrudka, Beth Schechter. 2015. Art + Data: Building the SFMOMA Collection API Museums and the Web https://mw2015.museumsandtheweb.com/paper/art-data-building-the-sfmoma-collection-api/
-
-Morgan, Richard. 2009. What is Your Museum Good at, and How Do You Build an API for It? Museums and the Web https://www.museumsandtheweb.com/mw2009/papers/morgan/morgan.html
-
-Moskvin, Illya, and nikhil trivedi. 2019. Building a Data Hub: Microservices, APIs, and System Integration at the Art Institute of Chicago Museums and the Web https://mw19.mwconf.org/paper/building-a-data-hub-microservices-apis-and-system-integration-at-the-art-institute-of-chicago/
-
-#### 2.6 Metadata & Paradata
-
-Gilliland, Anne J. 2016.‘Setting the Stage’ in Murtha Baca, ed. Introduction to Metadata 3rd edition https://www.getty.edu/publications/intrometadata/setting-the-stage/
-
-Woodley. Mary S. 2016. ‘Metadata Matters: Connecting People and Information’ in Murtha Baca, ed. Introduction to Metadata 3rd edition https://www.getty.edu/publications/intrometadata/metadata-matters/
-
-Practical Principles for Metadata Creation and Maintenance https://www.getty.edu/publications/intrometadata/practical-principles/
-
-London Charter http://www.londoncharter.org/principles/documentation.html
-
-Zhang, Jane, and Dayne Mauney. “When Archival Description Meets Digital Object Metadata: A Typological Study of Digital Archival Representation.” The American Archivist 76, no. 1 (2013): 174-95. http://www.jstor.org/stable/43489654
-
-Each reading is 'seeded' with annotations by this week's Discussion Leader; some of the annotations may contain video from the Discussion Leader directing you to pay attention to particular issues or ideas. **Annotate** with your own reactions and thoughts, react to the Discussion Leader's annotations, and anything else interesting you find with Hypothes.is, keeping in mind what you've already heard/read. **Remember** you must be logged into our reading group.
-
-A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. Also add anything you read or anything interesting you find to your Zotero library.
-
+Dr. Graham will update this page to direct you to the appropriate materials once we have settled our schedule.
 
 ### Do
 
-GLAMorous Ottawa
+**Discussion Leaders**: Discussion leaders will remain alert and will respond to posts and queries on their respective articles. They should not spend more than an hour total on responses this week.
 
-
-1. GLAMorous Ottawa
-2. Your First Jupyter Notebook
-3. SWOT of Ottawa: What could your notebook _be_?
-
-{{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
-{{< /notice >}}
-
-### Log your work
-
-Each week, I would like you to log your final thoughts on the discussion [using this form](https://forms.gle/jg2YzhLrnLMLYSqH7). **This is required, and counts towards your DL or CR portion of the grade**.
-
-On this same form, if you have technical work that you require help with or would like me to take a look, you can log the link to the repo you're working from.
+**Collaborative Readers**: The discussion leaders for this week have prepared a motley of materials. Begin by reading their 'page level' annotations - the overview - and then use that to guide your deeper engagement. I'm looking for at least three meaningful interactions with _the discussion leader's thoughts_. Is that clear? I'm not saying 3 per article, etc. Rather, this week you are engaging with what your peer has observed, thought, drawn attention to, etc.

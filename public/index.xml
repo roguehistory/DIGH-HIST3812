@@ -257,7 +257,9 @@ The seminar discussions all happen through the medium of Hypothes.is annotations
         <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/building/github-guidance/</guid>
-        <description>If any of the instructions below are unclear, annotate this page with hypothesis while being logged into our course reading group. If you spot someone asking for help and you can offer advice, respond to the annotation. Introduction Github is a code sharing website often used by digital historians. &amp;lsquo;Git&amp;rsquo; is a program that takes snapshots of the current state of a folder, and stores them in sequence, allowing you to revert your changes to an earlier state.</description>
+        <description>If any of the instructions below are unclear, annotate this page with hypothesis while being logged into our course reading group. If you spot someone asking for help and you can offer advice, respond to the annotation.
+Read completely through before trying to set things up.
+ Introduction Github is a code sharing website often used by digital historians. &amp;lsquo;Git&amp;rsquo; is a program that takes snapshots of the current state of a folder, and stores them in sequence, allowing you to revert your changes to an earlier state.</description>
       </item>
       
       <item>

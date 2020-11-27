@@ -35,10 +35,10 @@ These week, we introduce you to Jupyter Notebooks. We will use a variety of comp
 
 For your digital work, it is critical that you keep notes on what works, what doesn't, what error messages you received, what help you received from others, what websites you went to, and so on.
 
-Create a repository on Github; you can make it private.
++ Create a repository on Github; you can make it private.
 
-Make a text file and call it `journal.md`. Put the date in it, write brief notes so that when you come back to all of this, you'll know what you were doing.
++ Make a text file and call it `journal.md`. Put the date in it, write brief notes so that when you come back to all of this, you'll know what you were doing. Bullet points are fine; whatever works for you. (You can also [do this in your browser while logged into Github](building/github-guidance/#making-a-new-text-file-on-github).)
 
-Drag and drop this file, and any other supporting materials you wish, onto your repository; once they've uploaded, hit the 'commit' button.
++ Drag and drop this file, and any other supporting materials you wish, onto your repository; once they've uploaded, hit the 'commit' button. (Here's a [video showing this in action](building/github-guidance/#uploading-a-file-into-github).)
 
 **While this isn't graded, per se**, you _will_ need this material when it comes to writing the documentation for your eventual GLAM notebook you create. Get in the habit of keeping careful _process_ notes.

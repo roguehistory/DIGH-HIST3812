@@ -19,7 +19,10 @@ Episode 2 of course podcast goes here.
 
 ### Do
 
-1. [Choose Your Own DHMuse Adventure](https://padlet.com/shawngraham1/jnpyi1hmkjbtzbp0). Open that link in a new window. Add a tile by selecting 3 possible readings from at least two areas in [our library](building/library); find something we should watch; and find something to explore. Then we will arrive at a path through these materials by consensus, resolving any conflicts, discussing in the appropriate discord space. I'll then wire them up as appropriately, and assign dates. Click on the giant plus sign to begin.
+1. [Choose Your Own DHMuse Adventure](https://padlet.com/shawngraham1/jnpyi1hmkjbtzbp0). Open that link in a new window.
+  -> Add a tile by clicking on the big plus sign, bottom right.
+  -> Select 3 possible readings that intersect with your interests from at least two areas in [our library](building/library), and paste them in; find something we should watch; and find something to explore.
+  -> We will arrive at a path through these materials by consensus, resolving any conflicts, discussing in the appropriate discord space. I'll then add connections as per our discussion so you can see the logic, and assign dates. I will update the relevant weeks on this course website as well so you can schedule appropriately.
 2. Explore the [Glam Workbench](https://glam-workbench.github.io/). One of the outcomes for this course is for us, as a class, to create a simpler version of this. What kinds of 'tacit knowledge' are required to be made explicit for you to work with this material? Discuss in our discord space.
 
 {{< notice success "Important" >}} By all means, try some of the more technical aspects of the GLAMWorkbench. But remember: with tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.

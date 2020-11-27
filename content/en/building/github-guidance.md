@@ -7,6 +7,8 @@ date = "2020-02-02"
 
 {{< alert theme="info" >}}
 If any of the instructions below are unclear, annotate this page with hypothesis while being logged into our course reading group. If you spot someone asking for help and you can offer advice, respond to the annotation.
+
+Read completely through **before** trying to set things up.
 {{< /alert >}}
 
 #### Introduction
@@ -18,7 +20,7 @@ Github is a code sharing website often used by digital historians. 'Git' is a pr
 A branch (a copy, a duplicate) of your work uploaded to Github could therefore be copied to say my account (a **fork**); then I might download to my machine to work on it (I've **pulled** it). Once I'm happy with my changes, I **commit** them (save them to the sequence of changes that Git tracks), and then I could **push** those changes to the **fork** in my account. I would then send you a **pull** request or notification, asking you to pull my changes back to your account; you could then decide whether or not to **merge**.
 
 {{< alert theme="info" >}}
-For our purposes, you will use Github mostly as a place to put your reflections or other pieces of work.
+For our purposes, you will use Github mostly as a place to put your reflections or other pieces of work; when we combine Github repos with other things, like [Binder](https://mybinder.org), we have the foundation for our own digital infrastructure.
 {{< /alert >}}
 
 I might sometimes fork your work, pull it down onto my machine, make changes that I commit, push it back online, and ask you to pull the changes back. But that won't happen very often. **It takes a while to get comfortable with this.** There's a lot of useful code, in the cultural heritage informatics space, that gets shared on Github. Knowing the basics enables you to enter this world.
@@ -55,7 +57,7 @@ I might sometimes fork your work, pull it down onto my machine, make changes tha
 
 ---
 
-6. Give it a reasonable name; tick the 'initialize with a readme' box, tick off the 'private' box, and hit the green commit button. (**Nb** It's your choice to choose public OR private):
+6. Give it a reasonable name; below I just called it `week-one`. Tick the 'initialize with a readme' box, tick off the 'private' box, and hit the green commit button. (**Nb** It's your choice to choose public OR private):
 
 ![new repo settings](/images/github/github-new-repo-settings.png)
 
@@ -65,7 +67,7 @@ I might sometimes fork your work, pull it down onto my machine, make changes tha
 
 ![dismiss actions](/images/github/github-dismiss-actions.png)
 
-Ta Da! You now have a github account, and you've created your first repository. **Going Forward** create a new repository for each week's work/reflection. You can create a new repository from the plus sign in the top right corner:
+Ta Da! You now have a github account, and you've created your first repository. **Going Forward** you can create a new repository for any week's work, for a distinct project, and so on. You can create a new repository from the plus sign in the top right corner:
 
 ![another new repo](/images/github/new-repo.png)
 
