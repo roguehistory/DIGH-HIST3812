@@ -1,13 +1,15 @@
 +++
 author = "Dr. Graham"
-title = "Guidance for your Case Study"
+title = "Guidance for your Notebook Documentation"
 date = "2020-02-02"
 
 +++
 
-## Your Case Study Is Due Before the End of Week 12
+## Your Case Study Is Due at the End of Week 12
 
-You will have submitted the link to your Jupyter Notebook at the end of week 9. If all goes according to plan, I will have bundled these altogether into a supporting website, the Ottawa GLAM Workbench ([fyi, repo here](https://github.com/XLabCU/GLAM-Ottawa)) and used the [My Binder](https://mybinder.org) service to make these live online, by the end of week 10. This gives you 2 weeks to create a 'case study' document that can then be integrated into the workbench.
+...but I will accept it up to a week after the final day of the Winter term (which this year is April 14; thus, April 21st.)
+
+I will bundle everyone's notebooks and documentation together into a supporting website, the Ottawa GLAM Workbench ([fyi, repo here](https://github.com/XLabCU/GLAM-Ottawa)) and used the [My Binder](https://mybinder.org) service to make these live online.
 
 ## Goal
 

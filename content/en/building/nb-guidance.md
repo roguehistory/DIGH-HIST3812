@@ -7,4 +7,6 @@ date = "2020-08-02"
 
 ![](images/paper-notebook.png)
 
-## Your Notebook Is Due Before the End of Week 9
+## Your Notebook Is Due ...
+
+- notebook needs to be thoroughly commented, explaining what is going on in each cell, and explain how it is to be used. 

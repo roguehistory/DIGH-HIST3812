@@ -1,6 +1,6 @@
 ---
-title: "Measuring Engagement"
-description: "Counting Visitors and Views"
+title: "Data Wrangling"
+description: "Getting Things in Shape"
 date: 2020-01-28T00:10:37+09:00
 draft: false
 weight: -10
@@ -8,34 +8,35 @@ weight: -10
 
 ### Goals for this week
 
-1. this
-2. that
-3. the other thing
+1. Scraping data / Cleaning Data
+2. Pushing data to the web
 
-### Read
+### Listen
 
-#### 4.3 Measuring Engagement & Analytics
-
-Seneler, Cagla. 2017. The Effects Of Learning Styles And Cultural Background On Understanding The Information Architectures (IAs) Of Information Rich Websites Museums and the Web https://mw17.mwconf.org/paper/the-effects-of-learning-styles-and-cultural-background-on-understanding-the-information-architectures-ias-of-information-rich-websites/
-
-Kelly, Lynda. 2016. The (post) digital visitor: What has (almost) twenty years of museum audience research revealed? Museums and the Web https://mw2016.museumsandtheweb.com/paper/the-post-digital-visitor-what-has-almost-20-years-of-museum-audience-research-revealed
-
-Each reading is 'seeded' with annotations by this week's Discussion Leader; some of the annotations may contain video from the Discussion Leader directing you to pay attention to particular issues or ideas. **Annotate** with your own reactions and thoughts, react to the Discussion Leader's annotations, and anything else interesting you find with Hypothes.is, keeping in mind what you've already heard/read. **Remember** you must be logged into our reading group.
-
-A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. Also add anything you read or anything interesting you find to your Zotero library.
+6th episode of the podcast
 
 
 ### Do
 
-1. supporting materials to be provided as per class interests, (direct students to consider craftingdh and digiarch materials), just more time to build the supporting website
-2. that
-3. the other thing
+1. Scraping Data Exercise
+2. Cleaning Data with Open Refine
+3. Publishing Data with Datasette
+
+I don't expect you to do these on your own in splendid isolation; I also don't expect that everyone will complete them. Just push yourself until you get stuck, then talk about it / look for help in Discord.
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}
 
 ### Log your work
 
-Each week, I would like you to log your final thoughts on the discussion [using this form](https://forms.gle/jg2YzhLrnLMLYSqH7). **This is required, and counts towards your DL or CR portion of the grade**.
+For your digital work, it is critical that you keep notes on what works, what doesn't, what error messages you received, what help you received from others, what websites you went to, and so on.
 
-On this same form, if you have technical work that you require help with or would like me to take a look, you can log the link to the repo you're working from.
+Share your repo in our Discord space if you want me or someone else to have a look if there are problems or victories!
+
+Create a repository on Github; you can make it private.
+
+Make a text file and call it `journal.md`. Put the date in it, write brief notes so that when you come back to all of this, you'll know what you were doing.
+
+Drag and drop this file, and any other supporting materials you wish, onto your repository; once they've uploaded, hit the 'commit' button.
+
+**While this isn't graded, per se**, you _will_ need this material when it comes to writing the documentation for your eventual GLAM notebook you create. Get in the habit of keeping careful _process_ notes.

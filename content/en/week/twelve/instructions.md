@@ -8,26 +8,22 @@ weight: -10
 
 ### Goals for this week
 
-1. this
+1. Write up documentation for your notebook.
 2. that
 3. the other thing
 
-### Read
+### Listen
 
-Nothing to read this week.
+Listen to the final episode of the podcast
 
 
 ### Do
 
-1. Finish your case study.
-2. Submit both to the OTTGlam github repo (ie, use the form below to send me the link to your work)
-3. Write your Exit Ticket
+1. Write up a document that _contextualizes_ what your notebook does, and how it fits into broader trends within the GLAM sector. Suggest questions the notebook might answer for a user; suggest why that matters. You might also want to suggest ways in which the user might extend the notebook further.
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}
 
-### Log your work
+### Submit your notebook and documentation links to me
 
-Each week, I would like you to log your final thoughts on the discussion [using this form](https://forms.gle/jg2YzhLrnLMLYSqH7). **This is required, and counts towards your DL or CR portion of the grade**.
-
-On page two of the form, you'll find the spot to submit the link to your case study; you'll also see that you can submit the link to your Exit Ticket there as well. (You can come back to the form and submit just the Exit Ticket when it's ready).
+I would like you to log those links to me [using this form](https://forms.gle/jg2YzhLrnLMLYSqH7).
