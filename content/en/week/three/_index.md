@@ -1,6 +1,6 @@
 ---
 title: "03. January 25"
-description: "Representations 1"
+description: "Prepping your materials"
 date: 2020-01-28T00:10:51+09:00
 draft: false
 author: "Shawn Graham"

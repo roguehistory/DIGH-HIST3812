@@ -9,12 +9,24 @@
     <managingEditor>shawn.graham@carleton.ca (Dr. Shawn Graham)</managingEditor>
     <webMaster>shawn.graham@carleton.ca (Dr. Shawn Graham)</webMaster>
     <copyright>Original content by Shawn Graham licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;. &lt;br&gt;Site logo &#39;archaeological information&#39; by corpus delicti, GR, The Noun Project.</copyright>
-    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://dhmuse.netlify.app/building/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>Our Library</title>
+        <link>https://dhmuse.netlify.app/building/library/</link>
+        <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/library/</guid>
+        <description>Photo by Jez Timms, unsplash.com
+The possible readings are grouped under four broad headings. They represent merely a starting point, not a canon.
+Foundations: Cultural Heritage &amp;amp; Information  in which we lay the groundwork for our understanding of CHI, its larger contexts, and what the major research questions are.
+ 1.1 Cultural Heritage and its Institutions   Abt, Jeffrey. 2008. ‘The Origins of the Public Museum’ in Sharon Macdonald, ed.</description>
+      </item>
       
       <item>
         <title>Computational Notebooks List</title>
@@ -52,8 +64,16 @@ The seminar discussions all happen through the medium of Hypothes.is annotations
         <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/building/nb-guidance/</guid>
-        <description>(click the title to see the full post, not just this preview)
-blah blah</description>
+        <description>Your Notebook Is Due Before the End of Week 9 </description>
+      </item>
+      
+      <item>
+        <title>Guidance for Github</title>
+        <link>https://dhmuse.netlify.app/building/github-guidance/</link>
+        <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/github-guidance/</guid>
+        <description>If any of the instructions below are unclear, annotate this page with hypothesis while being logged into our course reading group. If you spot someone asking for help and you can offer advice, respond to the annotation. Introduction Github is a code sharing website often used by digital historians. &amp;lsquo;Git&amp;rsquo; is a program that takes snapshots of the current state of a folder, and stores them in sequence, allowing you to revert your changes to an earlier state.</description>
       </item>
       
       <item>
@@ -62,8 +82,7 @@ blah blah</description>
         <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/building/cs-guidance/</guid>
-        <description>(click the title to see the full post, not just this preview)
-blah blah</description>
+        <description>Your Case Study Is Due Before the End of Week 12 You will have submitted the link to your Jupyter Notebook at the end of week 9. If all goes according to plan, I will have bundled these altogether into a supporting website, the Ottawa GLAM Workbench (fyi, repo here) and used the My Binder service to make these live online, by the end of week 10. This gives you 2 weeks to create a &amp;lsquo;case study&amp;rsquo; document that can then be integrated into the workbench.</description>
       </item>
       
       <item>

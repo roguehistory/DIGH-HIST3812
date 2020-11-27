@@ -3,11 +3,6 @@
   xmlns:xhtml="https://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dhmuse.netlify.app/week/get-started/instructions/</loc>
-    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dhmuse.netlify.app/week/eight/instructions/</loc>
     <lastmod>2020-01-28T00:10:37+09:00</lastmod>
   </url>
@@ -23,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://dhmuse.netlify.app/week/two/instructions/</loc>
+    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dhmuse.netlify.app/week/seven/instructions/</loc>
     <lastmod>2020-01-28T00:10:37+09:00</lastmod>
   </url>
@@ -33,17 +33,7 @@
   </url>
   
   <url>
-    <loc>https://dhmuse.netlify.app/week/two/instructions/</loc>
-    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dhmuse.netlify.app/week/ten/instructions/</loc>
-    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dhmuse.netlify.app/week/six/instructions/</loc>
     <lastmod>2020-01-28T00:10:37+09:00</lastmod>
   </url>
   
@@ -54,6 +44,11 @@
   
   <url>
     <loc>https://dhmuse.netlify.app/week/four/instructions/</loc>
+    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dhmuse.netlify.app/week/six/instructions/</loc>
     <lastmod>2020-01-28T00:10:37+09:00</lastmod>
   </url>
   
@@ -78,6 +73,11 @@
   </url>
   
   <url>
+    <loc>https://dhmuse.netlify.app/docs/2.5-glamworkbench/</loc>
+    <lastmod>2020-07-01T00:38:51+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dhmuse.netlify.app/docs/3-schedule/</loc>
     <lastmod>2020-01-28T00:38:48+09:00</lastmod>
   </url>
@@ -88,12 +88,17 @@
   </url>
   
   <url>
-    <loc>https://dhmuse.netlify.app/building/technotes-toc/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <loc>https://dhmuse.netlify.app/building/library/</loc>
+    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dhmuse.netlify.app/building/</loc>
+    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dhmuse.netlify.app/building/technotes-toc/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -110,6 +115,11 @@
   <url>
     <loc>https://dhmuse.netlify.app/building/nb-guidance/</loc>
     <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dhmuse.netlify.app/building/github-guidance/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -135,11 +145,6 @@
   <url>
     <loc>https://dhmuse.netlify.app/docs/8-reuse/</loc>
     <lastmod>2020-01-28T00:39:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dhmuse.netlify.app/week/get-started/</loc>
-    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
   </url>
   
   <url>

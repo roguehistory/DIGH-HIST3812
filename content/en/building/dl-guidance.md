@@ -14,6 +14,12 @@ The seminar discussions all happen through the medium of [Hypothes.is](https://h
 ![](images/discussion.png)
 _Photo by Harli Marten, [unsplash.com](https://unsplash.com/photos/M9jrKDXOQoU)_
 
+While the tips below assume you are _writing_ your annoations, an annotation can also display video or audio. Optionally, you are welcome to use video or audio as well, if you'd like; this might work best for the page-level annotations (see below). 
+
+You can post video to youtube and mark it 'unlisted'; then paste the URL to the video in the annotation. Hypothesis will automatically display the video in the annotation.
+
+For audio, you might use something like soundcloud. Other options are available.
+
 ## Tips for annotating passages in the text
 
 1. Look for what is puzzling, intriguing, or ambiguous in the text. If you read a passage, and you find yourself pausing because you're not sure what you just read, that's a good sign that _here_ is something that needs unpacking.

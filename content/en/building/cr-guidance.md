@@ -29,3 +29,5 @@ That means I'm **not** looking for annotations that are combative or 'critical' 
 7. Respond with generosity. If for instance, someone's annotation is not clear to you, or goes off on a tangent etc (you feel), then try to understand the core idea, restate it and ask for clarification.
 
 8. No combat. You are not meant to fight for dominance or establish superiority of one idea over another here. No mansplaining.
+
+A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. Also add anything you read or anything interesting you find to your Zotero library (not using [Zotero](https://zotero.org)? You should!)

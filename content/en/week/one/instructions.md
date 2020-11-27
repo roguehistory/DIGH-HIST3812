@@ -1,5 +1,5 @@
 ---
-title: "Foundations of CHI 1"
+title: "Getting Started"
 description: "in which we lay the groundwork for what this course will explore, its larger contexts, and what the major research questions are."
 date: 2020-01-28T00:10:37+09:00
 draft: false
@@ -10,49 +10,88 @@ weight: -10
 
 ### Goals for this week
 
-1. this
-2. that
-3. the other thing
+1. Get up and running with Hypothesis, Discord, and Github
+2. Understand what this course is about
+3. Start thinking about your goals for this course
 
+This week is about reading the syllabus and understanding what is expected of you in this course. Get Hypothesis, Discord, and Github set up; introduce yourself to the class in the `social` channel in Discord. Take a look at [our library](/building/library) and start thinking about the readings for which you might like to take the [discussion leader role](building/dl-guidance/). In Week 2, you'll make your selection.
 
-### Read
+Take your time, read through the instructions, and ask for help of your peers or send me a note. **You are encouraged to collaborate throughout in this course; just acknowledge help you receive from others**.
 
-#### 1.1 Cultural Heritage and its Institutions
+### Listen
 
-+ Abt, Jeffrey. 2008. ‘The Origins of the Public Museum’ in Sharon Macdonald, ed. ‘Companion to Museum Studies’. Available online from Macodrum Library.
+The course podcast will be my opportunity to speak to you each week about what's going on in this course, things I want you to pay attention to, and individuals in the wider GLAM world that I want to introduce you to through a series of interviews. Make sure to listen to each episode.
 
-+ Bennett, Tony. 1990. “The Political Rationality of the Museum,” Continuum: The Australian Journal of Media and Culture 2, no. 1 (1990), http://wwwmcc.murdoch.edu.au/ReadingRoom/3.1/Bennett.html.
+_insert course podcast here_
 
-+ Daniel Buren, 1973. “Function of the Museum,” Artforum XII, September 1973, 68. https://tinyurl.com/ydbl2rwn http://faculty.winthrop.edu/stockk/contemporary%20art/Buren%20museum.pdf
+I will sometimes also provide links to other interesting podcasts as I find them, and I encourage you to listen to them as well. For instance, this is a good one for us to start with:
 
-+ Hooper-Greenhill, Eilean. 1990. “The Space of the Museum,” Continuum: The Australian Journal of Media and Culture 3, no. 1 (1990), http://wwwmcc.murdoch.edu.au/ReadingRoom/3.1/Hooper.html
+[New Thinking about Museums](https://www.bbc.co.uk/programmes/p08v3fl5)
 
-#### 1.2 Legal, Ethical Frameworks for Cultural Heritage
+> What are people saving and what's missing from museums? Eleanor Rosamund Barraclough talks to researchers Fiona Candlin, Henrietta Lidchi, Sarah Maltby, & Edward Harcourt.  https://www.bbc.co.uk/programmes/p08v3fl5
 
-+ Besterman, Tristram. 2008. ‘Museum Ethics’ in Sharon Macdonald, ed. ‘Companion to Museum Studies’. Available online from Macodrum Library
-
-+ Gerstenblith, Patty. 2008. ‘Museum Practice: Legal Issues’ in Sharon Macdonald, ed. ‘Companion to Museum Studies’. Available online from Macodrum Library
-
-+ Kreps, Christina. 2008. ‘Non-western Models of Museums and Curation in Cross-cultural Perspective’in Sharon Macdonald, ed. ‘Companion to Museum Studies’. Available online from Macodrum Library.
-
-Each reading is 'seeded' with annotations by this week's Discussion Leader; some of the annotations may contain video from the Discussion Leader directing you to pay attention to particular issues or ideas. **Annotate** with your own reactions and thoughts, react to the Discussion Leader's annotations, and anything else interesting you find with Hypothes.is, keeping in mind what you've already heard/read. **Remember** you must be logged into our reading group.
-
-A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. Also add anything you read or anything interesting you find to your Zotero library.
-
+UK based, but useful material to think about.
 
 ### Do
 
-Basic Digital Skills
+Tech Set Up Time!
 
-1. this
-2. that
-3. the other thing
+#### 1. Get Hypothesis & Join Our Class Group
 
-{{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
+Create an account at [hypothes.is](http://hypothes.is):
+
+![](https://d242fdlp0qlcia.cloudfront.net/uploads/2015/08/28181440/signin.png)
+
+Get the Chrome app or the Firefox bookmarklet:
+
+![](https://d242fdlp0qlcia.cloudfront.net/uploads/2015/08/28181440/install.png)
+
+Make sure you're logged in:
+
+![](https://d242fdlp0qlcia.cloudfront.net/uploads/2015/08/28181440/signin2.png)
+
+Then join [our HIST4916a reading group](https://hypothes.is/groups/AQerk76W/4916a-museums-dh). If you happen to be reading something, and see an existing annotation that interests you, hit the 'reply' button on the annotation to start a conversation! Sometimes, the person to whom you're replying might be a previous year's student, but that's ok; they might enter into conversation with you. Sometimes, it might be a person who isn't a Carleton student but is following along with the course. That's ok too. Be respectful!
+
+[There is a student guide to Hypothes.is behind this link](https://web.hypothes.is/quick-start-guide-for-students/). Read that for the full information how using Hypothesis.
+
+{{< notice success "Important" >}} Hypothesis is the main tool we use to enable an asynchronous seminar discussion. Hypothesis exists on the open web, so make sure you're always making your annotations in the **group space**, not the **public** space. Finally, you may want to use the [crowdlaaers](https://crowdlaaers.org/) service to keep track of the global development of our annotation space - go to that site, click on 'Groups', and follow the prompts to connect your Hypothesis account to the service.
 {{< /notice >}}
 
-### Log your work
+#### 2. Join our Discord
 
-Each week, I would like you to log your final thoughts on the discussion [using this form](https://forms.gle/jg2YzhLrnLMLYSqH7). **This is required, and counts towards your DL or CR portion of the grade**.
+Discord is a chat server that also allows voice, video, and screensharing. We will use it in this class mostly as a social space and a space to get help, especially in the more technical aspects of what we're doing.
 
-On this same form, if you have technical work that you require help with or would like me to take a look, you can log the link to the repo you're working from.
+{{< notice success "Important" >}} I don't want heroic lone scholars. If you are struggling with something - whether it's the ideas in the readings or the tech - look for help; DM me privately, or post in the relevant week's channel. If you can help someone, jump in. **I encourage collaboration**. If you get help from someone, just acknowledge it in your own work. Also: **in tech work, if it doesn't come in 30 minutes, it won't come in 3 hours** Asking for help is not a weakness: it's a sign of strength & scholarly maturity.
+{{< /notice >}}
+
+You can download Discord [here](https://discordapp.com/apps) or you can [use it in a broswer](https://discordapp.com/app).
+
+You will receive an invitation email in your Carleton account. It expires after one day, so do join once you get it. It will ask to verify your email; check your spam folder.
+
+Once you're in, there's a welcome message with a reaction emoji at the end - click on the thumbs up to confirm that you've read the message. This will unlock the various channels in the server, including voice and screensharing.
+
+And yes, I recycled screenshots from my Crafting Digital History course, but the Digital Archaeology version is more or less the same and hey, I built this course website by hand.
+
+![welcome-message](/images/discord/first-welcome-message.png)
+![click-the-reaction](/images/discord/click-here.png)
+(Alex is a student who works for me on [the bone trade project](http://bonetrade.github.io) if you were wondering.)
+
+You can customize your profile by clicking on the cogwheel icon at the bottom of the navigation:
+
+![options](/images/discord/options-location.png)
+
+![user-info](/images/discord/user-info.png)
+
+and you can customize how you'd like to use voice and video:
+
+![voice](/images/discord/voice-settings.png)
+
+There's a channel for each week's materials, a channel for general museum or Carleton chat, and a social channel just for shooting the breeze. If you want to chat or stream your machine (eg to show us what you're trying to do and how it's not working) just click on one of the side-chats - make sure you're unmuted! Dr. Graham also has a private office for voice and video and you can ask him directly to speak there.
+
+What all the buttons do [help file](https://support.discordapp.com/hc/en-us/categories/200404398)
+
+Discord has accessibility features, [more details here](https://support.discordapp.com/hc/en-us/articles/360035966492-Screen-Reader-Data-Toggle)
+
+#### 3. Github
+
+Github can be a bit tricky, so I've given it its own page, which you can [consult over here](/building/github-guidance). Just take your time. You should be able to do this in about 30 - 45 minutes.

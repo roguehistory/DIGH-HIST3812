@@ -1,56 +1,46 @@
 ---
-title: "Representations 2"
-description: "Interpretation & Curation"
+title: "Prepare your pieces 2"
+description: "the second of two weeks for you to get your pieces ready for discussion"
 date: 2020-01-28T00:10:37+09:00
 draft: false
 weight: -10
 ---
-## Communities
+
+In weeks 5 - 8, we are going to use Hypothesis as a platform to collaboratively explore the materials that you selected in week 3 for your adventure.
+
+In order to do that, you need to prepare your materials. I am giving you two weeks to prepare for this. Consider the amount of work as being similar to what you would do for a very good seminar presentation.
 
 ### Goals for this week
 
-1. this
-2. that
-3. the other thing
+1. Read and think about your selected materials carefully
+2. Prep them for the rest of us
+3. Continue to improve your digital literacy
 
+### Listen
 
-
-### Read
-
-#### 2.3 Interpretation
-
-Anderson, Annie, and Ashley Rogers, Emily Potter, Elon Cook, Karleen Gardner, Mike Murawski, Swarupa Anila, and Alyssa Machida. 2019. “Interpretation: Liberating the Narrative” in MASSAction, Museums As Site for Social Action, toolkit, https://static1.squarespace.com/static/58fa685dff7c50f78be5f2b2/t/59dcdd27e5dd5b5a1b51d9d8/1507646780650/TOOLKIT_10_2017.pdf
-
-Canning, Erin. 2019. Affect in Information Systems: A Knowledge Organization System Approach to Documenting Visitor-Artwork Experiences. Museums and the Web https://mw19.mwconf.org/paper/affect-in-information-systems-a-knowledge-organization-system-approach-to-documenting-visitor-artwork-experiences/
-
-#### 2.4 Online Exhibits: Cooked Data
-
-Drucker, Johanna. 2011. Humanities Approaches to Graphical Display. DHQ. http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
-
-Trofanko, Brenda. 2014.“Reconsidering the Educational Promise of Public History Exhibits” in K. Kee, ed. Pastplay. https://www.jstor.org/stable/j.ctv65swr0.16
-
-Warren, Rob, David Evans, Minsi Chen, Mark Farrell, Daniel Mayles. 2015. Data-driven Enriched Exhibits Using Augmented Reality Museums in the Web https://mw2015.museumsandtheweb.com/paper/data-driven-augmented-reality-for-museum-exhibits-and-lost-heritage-sites
-
-Wong, Amelia. 2015. The Whole Story, and Then Some: ‘Digital Storytellin’ in Evolving Museum Practice Museums in the Web https://mw2015.museumsandtheweb.com/paper/the-whole-story-and-then-some-digital-storytelling-in-evolving-museum-practice
-
-Each reading is 'seeded' with annotations by this week's Discussion Leader; some of the annotations may contain video from the Discussion Leader directing you to pay attention to particular issues or ideas. **Annotate** with your own reactions and thoughts, react to the Discussion Leader's annotations, and anything else interesting you find with Hypothes.is, keeping in mind what you've already heard/read. **Remember** you must be logged into our reading group.
-
-A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. Also add anything you read or anything interesting you find to your Zotero library.
-
+Episode 4 of course podcast goes here
 
 ### Do
 
-Explore the National Library of Scotland Digital Notebooks
+The National Library of Scotland has made all kinds of materials available through what they call '[The Data Foundry](https://data.nls.uk/).' They have made [some Jupyter Notebooks to enable exploration and analysis](https://data.nls.uk/tools/jupyter-notebooks/) of some of their holdings
 
-1. this
-2. that
-3. the other thing
+1. Explore '[A Medical History of British India](https://data.nls.uk/tools/jupyter-notebooks/exploring-a-medical-history-of-british-india/)'
+2. Explore '[Edinburgh Ladies' Debating Society](https://data.nls.uk/tools/jupyter-notebooks/exploring-edinburgh-ladies-debating-society/)'
+3. Copy these notebooks to your own Github repo by visiting the appropriate repo, and while logged into Github, hitting the 'fork' button.
+
+As you explore, take care to note how the notebooks are structured. What lessons might we draw from these for the creation of our _own_ notebooks? Make your observations in a journal entry, see below.
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}
 
 ### Log your work
 
-Each week, I would like you to log your final thoughts on the discussion [using this form](https://forms.gle/jg2YzhLrnLMLYSqH7). **This is required, and counts towards your DL or CR portion of the grade**.
+For your digital work, it is critical that you keep notes on what works, what doesn't, what error messages you received, what help you received from others, what websites you went to, and so on.
 
-On this same form, if you have technical work that you require help with or would like me to take a look, you can log the link to the repo you're working from.
+Create a repository on Github; you can make it private.
+
+Make a text file and call it `journal.md`. Put the date in it, write brief notes so that when you come back to all of this, you'll know what you were doing.
+
+Drag and drop this file, and any other supporting materials you wish, onto your repository; once they've uploaded, hit the 'commit' button.
+
+**While this isn't graded, per se**, you _will_ need this material when it comes to writing the documentation for your eventual GLAM notebook you create. Get in the habit of keeping careful _process_ notes.
