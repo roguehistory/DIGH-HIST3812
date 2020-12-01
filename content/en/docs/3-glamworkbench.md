@@ -1,9 +1,9 @@
 ---
-title: "2.5. A GLAM Workbench"
+title: "3. A GLAM Workbench"
 description: "what we are working towards"
 date: 2020-07-01T00:38:51+09:00
 draft: false
-weight: 2.5
+weight: 3
 ---
 ![](images/paper-notebook.png)
 

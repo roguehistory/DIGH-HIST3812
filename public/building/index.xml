@@ -64,7 +64,7 @@ The seminar discussions all happen through the medium of Hypothes.is annotations
         <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/building/nb-guidance/</guid>
-        <description>Your Notebook Is Due Before the End of Week 9 </description>
+        <description>Your Notebook Is Due &amp;hellip;  notebook needs to be thoroughly commented, explaining what is going on in each cell, and explain how it is to be used.  </description>
       </item>
       
       <item>
@@ -79,12 +79,14 @@ Read completely through before trying to set things up.
       </item>
       
       <item>
-        <title>Guidance for your Case Study</title>
+        <title>Guidance for your Notebook Documentation</title>
         <link>https://dhmuse.netlify.app/building/cs-guidance/</link>
         <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/building/cs-guidance/</guid>
-        <description>Your Case Study Is Due Before the End of Week 12 You will have submitted the link to your Jupyter Notebook at the end of week 9. If all goes according to plan, I will have bundled these altogether into a supporting website, the Ottawa GLAM Workbench (fyi, repo here) and used the My Binder service to make these live online, by the end of week 10. This gives you 2 weeks to create a &amp;lsquo;case study&amp;rsquo; document that can then be integrated into the workbench.</description>
+        <description>Your Case Study Is Due at the End of Week 12 &amp;hellip;but I will accept it up to a week after the final day of the Winter term (which this year is April 14; thus, April 21st.)
+I will bundle everyone&amp;rsquo;s notebooks and documentation together into a supporting website, the Ottawa GLAM Workbench (fyi, repo here) and used the My Binder service to make these live online.
+Goal The goal here is to create a kind of guide to a selected notebook that shows what the notebook can do.</description>
       </item>
       
       <item>
@@ -94,9 +96,9 @@ Read completely through before trying to set things up.
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/building/et-guidance/</guid>
         <description>Photo by Agus Dietrich, unsplash.com
+Optional This is an optional exercise.
 Format The format of the exit ticket is up to you. Text, audio, video, multimedia: go wild.
-Content Collect evidence detailing your journey in this course, and use the frame, &amp;lsquo;So what is Cultural Heritage Informatics, anyway?&amp;rsquo; to situate your response. You might want to go back to the course description to see what you now think of that description.
-This evidence might be individual annotations (yours or someone else&amp;rsquo;s; remember, each annotation has its own permalink) that changed how you thought or make some argument you wish to engage with; it might be your own digital ephemera that emerges out of your contribution to our larger GLAM notebook infrastructure.</description>
+Content Collect evidence detailing your journey in this course, and use the frame, &amp;lsquo;So what is Cultural Heritage Informatics, anyway?&amp;rsquo; to situate your response. You might want to go back to the course description to see what you now think of that description.</description>
       </item>
       
     

@@ -33,59 +33,61 @@ HIST4916a Museums and Digital History How do museums and other organizations in 
         <pubDate>Wed, 01 Jul 2020 00:38:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/docs/2-learning-outcomes/</guid>
-        <description>Questions text to be added
-This course is a formalized exploration of these questions; I do not know the answers! I&amp;rsquo;m excited to figure these out with you.
-Nb The process of teaching is also a process of collaboration between me and you. Sometimes -and we&amp;rsquo;re expecting this, you and I- things won&amp;rsquo;t work as we expect; tech might break; the world might impinge too much. We will adapt accordingly. Remember: the grade in this course is a function of your process and your evolution, so adapting and thinking through the implications of when things don&amp;rsquo;t go according to plan is, in fact, according to plan.</description>
+        <description>Questions How do institutions in the GLAM sector use digital media to support their missions?
+Do digital techs push us towards particular voices in GLAM materials?
+Can/do digital techs in the service of GLAM harm different communities? And if so, how? And what can we do about it?
+Where are the new frontiers in CHI and GLAM?
+This course is an opportunity to explore these questions; I do not know the answers!</description>
       </item>
       
       <item>
-        <title>2.5. A GLAM Workbench</title>
-        <link>https://dhmuse.netlify.app/docs/2.5-glamworkbench/</link>
+        <title>3. A GLAM Workbench</title>
+        <link>https://dhmuse.netlify.app/docs/3-glamworkbench/</link>
         <pubDate>Wed, 01 Jul 2020 00:38:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/docs/2.5-glamworkbench/</guid>
+        <guid>https://dhmuse.netlify.app/docs/3-glamworkbench/</guid>
         <description>Tangible Output of this Class Each of you will produce a computational notebook - a kind of website that has code within it that can be run, together with text and images describing what&amp;rsquo;s going on - that is focussed on the Ottawa GLAM scene.
 All of these notebooks will be gathered together by me into an &amp;lsquo;Ottawa GLAM Workbench&amp;rsquo; (taking our cue from the inspiring work of Tim Sherratt and his GLAM Workbench on Australian and New Zealand&amp;rsquo;s cultural heritage).</description>
       </item>
       
       <item>
-        <title>3. Course Schedule</title>
-        <link>https://dhmuse.netlify.app/docs/3-schedule/</link>
+        <title>4. Course Schedule</title>
+        <link>https://dhmuse.netlify.app/docs/4-schedule/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/docs/3-schedule/</guid>
-        <description>** to be figured out **
- Jan 6 term begins  Select your topics &amp;amp; get your &amp;lsquo;chi&amp;rsquo; lab (Hypothesis, Github, Discord) set up
- Wk 1 - Jan 11  Foundations 1 Building 1  Basic digital skills     Wk 2 - Jan 18  Foundations 2 Building 2  Explore the OZGlam Workbench     Wk 3 - Jan 25  Representations 1 Building 3  Introduction to Jupyter Notebooks     Wk 4 - Feb 1  Representations 2 Building 4  National Library of Scotland Jupyter Notebooks     Wk 5 - Feb 8  Representations 3 Building 5  GLAMorous Ottawa Your first notebook SWOT of Ottawa: What kinds of things could you do?</description>
+        <guid>https://dhmuse.netlify.app/docs/4-schedule/</guid>
+        <description>Check out the weekly instructions for detailed guidance for what you should be doing each week.
+TL;DR Remember to join our discord so we can actually have some social contact and remember that other breathing human beings are part of this course!
+The first third of this course is about getting started and choosing your own adventure through the materials I have already gathered for you. You will do a deep annotation on the materials.</description>
       </item>
       
       <item>
-        <title>4. Assessment</title>
-        <link>https://dhmuse.netlify.app/docs/4-assessment/</link>
+        <title>5. Assessment</title>
+        <link>https://dhmuse.netlify.app/docs/5-assessment/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/docs/4-assessment/</guid>
-        <description>There is no midterm. There is no final exam. You are assessed on the following elements.
+        <guid>https://dhmuse.netlify.app/docs/5-assessment/</guid>
+        <description>There is no midterm. There is no final exam. You grade emerges from the following elements.
   Discussion Leaders. Each student will be responsible to &amp;lsquo;page prep&amp;rsquo; cetain readings. Page prep involves:
  Creating the Reading Overview: a brief overview page note attached to the assigned reading using Hypothes.is page notes Creating the Reading Pre-seed: at least five rich annotations on the assigned readings In the relevant week, when the other students read the papers, the student responsible for &amp;lsquo;page prep&amp;rsquo; will engage and respond to the annotations of their peers in such a fashion as to dig deeper into the topic at hand    Collaborative Readers.</description>
       </item>
       
       <item>
-        <title>5. Common Regulations</title>
-        <link>https://dhmuse.netlify.app/docs/5-commonregs/</link>
+        <title>6. Common Regulations</title>
+        <link>https://dhmuse.netlify.app/docs/6-commonregs/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/docs/5-commonregs/</guid>
+        <guid>https://dhmuse.netlify.app/docs/6-commonregs/</guid>
         <description>The following are the University regulations common to all History courses, that I am obligated to share with you. COPIES OF WRITTEN WORK SUBMITTED Always retain for yourself a copy of all essays, term papers, written assignments or take-home tests submitted in your courses.
 PLAGIARISM The University Senate defines plagiarism as “presenting, whether intentionally or not, the ideas, expression of ideas or work of others as one’s own.” This can include:</description>
       </item>
       
       <item>
-        <title>6. Contacting Dr. Graham</title>
-        <link>https://dhmuse.netlify.app/docs/6-contact/</link>
+        <title>7. Contacting Dr. Graham</title>
+        <link>https://dhmuse.netlify.app/docs/7-contact/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/docs/6-contact/</guid>
+        <guid>https://dhmuse.netlify.app/docs/7-contact/</guid>
         <description>Dr. Graham can be found online at
 shawn dot graham at carleton dot ca
 or on Twitter at @electricarchae.
@@ -95,23 +97,23 @@ Online Office Hours Dr. Graham will be present in our Discord server every Wedne
       </item>
       
       <item>
-        <title>7. Colophon</title>
-        <link>https://dhmuse.netlify.app/docs/7-colophon/</link>
+        <title>8. Colophon</title>
+        <link>https://dhmuse.netlify.app/docs/8-colophon/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/docs/7-colophon/</guid>
+        <guid>https://dhmuse.netlify.app/docs/8-colophon/</guid>
         <description>As a general philosophy of learning, I do not aim for coverage. Rather, I am trying to help you learn the skills that you will need to uncover whatever aspect of method and thought that will help you with your research goals. A big part of that is trying to teach how to deal with what might feel like &amp;lsquo;failure&amp;rsquo;, on first blush. I want you to swing for the bleachers, and not to be afraid of whiffing on the ball.</description>
       </item>
       
       <item>
-        <title>8. Reuse</title>
-        <link>https://dhmuse.netlify.app/docs/8-reuse/</link>
+        <title>9. Reuse</title>
+        <link>https://dhmuse.netlify.app/docs/9-reuse/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/docs/8-reuse/</guid>
+        <guid>https://dhmuse.netlify.app/docs/9-reuse/</guid>
         <description>Original content by Shawn Graham, is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 Please feel free to reuse exercises in your own course materials, with a link back to the original page.
-Corrections, modifications, additions are welcome; please fork, and then modify accordingly. Once you&amp;rsquo;re ready, make a pull request. The original repository is at [https://github.com/shawngraham/hist3908](https://github.com/shawngraham/hist3908.
+Corrections, modifications, additions are welcome; please fork, and then modify accordingly. Once you&amp;rsquo;re ready, make a pull request. The original repository is at https://github.com/shawngraham/hist4916.
 All contributions will be duly credited.</description>
       </item>
       

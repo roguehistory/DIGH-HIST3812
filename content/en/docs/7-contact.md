@@ -1,5 +1,5 @@
 ---
-title: "6. Contacting Dr. Graham"
+title: "7. Contacting Dr. Graham"
 description: "how to find him"
 date: 2020-01-28T00:39:06+09:00
 draft: false
@@ -19,4 +19,4 @@ If we ever get out of quarantine, and you're in Ottawa, he often haunts the Libr
 
 ### Online Office Hours  
 
-Dr. Graham will be present in our [Discord server](/week/1/discord) every Wednesday from 1 until 3, and quite possibly the evenings too. 
+Dr. Graham will be present in our [Discord server](/week/1/discord) every Wednesday from 1 until 3, and quite possibly the evenings too.

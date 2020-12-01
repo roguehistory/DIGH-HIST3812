@@ -1,5 +1,5 @@
 ---
-title: "5. Common Regulations"
+title: "6. Common Regulations"
 description: "university rules"
 date: 2020-01-28T00:39:06+09:00
 draft: false

@@ -17,13 +17,13 @@
     
       
       <item>
-        <title>Case Studies</title>
+        <title>Visualizing Data</title>
         <link>https://dhmuse.netlify.app/week/eleven/instructions/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/week/eleven/instructions/</guid>
-        <description>Goals for this week  this that the other thing  Read No readings this week. However, look at the rich body of annotation you have. Use the readings and the annotations to help structure and support your Notebook case study.
-Do  Write your case study that the other thing  With tech work, if it doesn&amp;rsquo;t come together in about 30 minutes, it won&amp;rsquo;t come in an hour. So take a break.</description>
+        <description>Goals for this week  Simple data visualization Other forms of &amp;lsquo;experiencing&amp;rsquo; data  Listen 7th episode of the podcast
+Do  Try the Visualizaing Data with Bokeh and Python notebook (see here) or try sonification on your data Pull your notebook together.  I don&amp;rsquo;t expect you to do these on your own in splendid isolation; I also don&amp;rsquo;t expect that everyone will complete them. Just push yourself until you get stuck, then talk about it / look for help in Discord.</description>
       </item>
       
     

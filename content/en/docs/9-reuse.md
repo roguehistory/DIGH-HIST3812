@@ -1,5 +1,5 @@
 ---
-title: "8. Reuse"
+title: "9. Reuse"
 description: "Reusing these materials"
 date: 2020-01-28T00:39:06+09:00
 draft: false
@@ -11,6 +11,6 @@ Original content by Shawn Graham, is licensed under a [Creative Commons Attribut
 
 Please feel free to reuse exercises in your own course materials, with a link back to the original page.
 
-Corrections, modifications, additions are welcome; please fork, and then modify accordingly. Once you're ready, [make a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). The original repository is at [https://github.com/shawngraham/hist3908](https://github.com/shawngraham/hist3908.
+Corrections, modifications, additions are welcome; please fork, and then modify accordingly. Once you're ready, [make a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). The original repository is at [https://github.com/shawngraham/hist4916](https://github.com/shawngraham/hist4916).
 
 All contributions will be duly credited.

@@ -63,3 +63,7 @@ The two slide shows on the [Glam Workbench main page](https://glam-workbench.git
 ---
 
 8. Remember to address the goals for this exercise. The most important of these: the 'so what?', also known as the 'what's in it for me?'.
+
+---
+
+9. When its ready, you can submit it [here](https://forms.gle/RZH4o6H18L1sMBz88)

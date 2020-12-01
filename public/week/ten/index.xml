@@ -17,14 +17,13 @@
     
       
       <item>
-        <title>Measuring Engagement</title>
+        <title>Data Wrangling</title>
         <link>https://dhmuse.netlify.app/week/ten/instructions/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/week/ten/instructions/</guid>
-        <description>Goals for this week  this that the other thing  Read 4.3 Measuring Engagement &amp;amp; Analytics Seneler, Cagla. 2017. The Effects Of Learning Styles And Cultural Background On Understanding The Information Architectures (IAs) Of Information Rich Websites Museums and the Web https://mw17.mwconf.org/paper/the-effects-of-learning-styles-and-cultural-background-on-understanding-the-information-architectures-ias-of-information-rich-websites/
-Kelly, Lynda. 2016. The (post) digital visitor: What has (almost) twenty years of museum audience research revealed? Museums and the Web https://mw2016.museumsandtheweb.com/paper/the-post-digital-visitor-what-has-almost-20-years-of-museum-audience-research-revealed
-Each reading is &amp;lsquo;seeded&amp;rsquo; with annotations by this week&amp;rsquo;s Discussion Leader; some of the annotations may contain video from the Discussion Leader directing you to pay attention to particular issues or ideas.</description>
+        <description>Goals for this week  Scraping data / Cleaning Data Pushing data to the web  Listen 6th episode of the podcast
+Do  Scraping Data Exercise Cleaning Data with Open Refine Publishing Data with Datasette  I don&amp;rsquo;t expect you to do these on your own in splendid isolation; I also don&amp;rsquo;t expect that everyone will complete them. Just push yourself until you get stuck, then talk about it / look for help in Discord.</description>
       </item>
       
     
