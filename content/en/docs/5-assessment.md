@@ -37,7 +37,7 @@ If I agree with your assessment, then that is the grade you will receive (thus, 
 
 **When I have disagreed in previous courses** this has been, 9.5 times out of 10, to _raise_ the grade: y'all are too hard on yourselves. If I have disagreed and felt that you've overstated things - if you were the 0.5 out of 10 - we would talk and come to an agreement.
 
-The Exit Ticket, if you choose to do it, should be submitted within one week of the last day of the fall term.
+The Exit Ticket, if you choose to do it, should be submitted within one week of the last day of the winter term.
 
 Further guidance on the Exit Ticket is available under the [Technical Notes](/building/et-guidance/).
 
@@ -68,7 +68,7 @@ I am required by the University to provide a percentage breakdown.
 + Discussion leading: 20% (graded: satisfactory / meh /unsatisfactory)
 + Collaborative reading: 20% (graded: satisfactory / meh / unsatisfactory )
 + Jupyter Notebook: 20%  
-+ Notebook Reflection: 40% 
++ Notebook Reflection: 40%
 + Exit Ticket: optional
 
 Important dates:
