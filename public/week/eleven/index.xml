@@ -17,13 +17,13 @@
     
       
       <item>
-        <title>Visualizing Data</title>
+        <title>Some Other Visualizations</title>
         <link>https://dhmuse.netlify.app/week/eleven/instructions/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/week/eleven/instructions/</guid>
-        <description>Goals for this week  Simple data visualization Other forms of &amp;lsquo;experiencing&amp;rsquo; data  Listen 7th episode of the podcast
-Do  Try the Visualizaing Data with Bokeh and Python notebook (see here) or try sonification on your data Pull your notebook together.  I don&amp;rsquo;t expect you to do these on your own in splendid isolation; I also don&amp;rsquo;t expect that everyone will complete them. Just push yourself until you get stuck, then talk about it / look for help in Discord.</description>
+        <description>Goals for this week  Some more data visualization Other forms of &amp;lsquo;experiencing&amp;rsquo; data  Listen 7th episode of the podcast
+Do  Make a new notebook (or modify an existing one) to load data from the Datasette you pushed to Heroku. Visualize the provenance of your data using Leaflet (SG memo: Rachel Opitz workbooks) Or go for something complete different; try out some sonification on your data  I don&amp;rsquo;t expect you to do these on your own in splendid isolation; I also don&amp;rsquo;t expect that everyone will complete them.</description>
       </item>
       
     

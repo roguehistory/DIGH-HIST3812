@@ -8,8 +8,7 @@ weight: -10
 
 ### Goals for this week
 
-1. Scraping data / Cleaning Data
-2. Pushing data to the web
+1. Pushing data to the web
 
 ### Listen
 
@@ -18,9 +17,8 @@ weight: -10
 
 ### Do
 
-1. Scraping Data Exercise
-2. Cleaning Data with Open Refine
-3. Publishing Data with Datasette
+1. Cleaning Data with R
+2. Publishing Data with Datasette
 
 I don't expect you to do these on your own in splendid isolation; I also don't expect that everyone will complete them. Just push yourself until you get stuck, then talk about it / look for help in Discord.
 
@@ -31,12 +29,12 @@ I don't expect you to do these on your own in splendid isolation; I also don't e
 
 For your digital work, it is critical that you keep notes on what works, what doesn't, what error messages you received, what help you received from others, what websites you went to, and so on.
 
-Share your repo in our Discord space if you want me or someone else to have a look if there are problems or victories!
-
 Create a repository on Github; you can make it private.
 
 Make a text file and call it `journal.md`. Put the date in it, write brief notes so that when you come back to all of this, you'll know what you were doing.
 
 Drag and drop this file, and any other supporting materials you wish, onto your repository; once they've uploaded, hit the 'commit' button.
+
+Share your repo in our Discord space if you want me or someone else to have a look if there are problems - or victories!
 
 **While this isn't graded, per se**, you _will_ need this material when it comes to writing the documentation for your eventual GLAM notebook you create. Get in the habit of keeping careful _process_ notes.

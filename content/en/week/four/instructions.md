@@ -26,11 +26,13 @@ The National Library of Scotland has made all kinds of materials available throu
 
 1. Explore '[A Medical History of British India](https://data.nls.uk/tools/jupyter-notebooks/exploring-a-medical-history-of-british-india/)'
 2. Explore '[Edinburgh Ladies' Debating Society](https://data.nls.uk/tools/jupyter-notebooks/exploring-edinburgh-ladies-debating-society/)'
-3. Copy these notebooks to your own Github repo by visiting the appropriate repo, and while logged into Github, hitting the 'fork' button.
+3. Copy these notebooks to your own Github repo by visiting the appropriate repo, and while logged into Github, hitting the 'fork' button. See if you can launch a version from your own Repo using [Binder](https://mybinder.org).
+4. Using the ['Simple Scraper' notebook](notebooks/simple-scraper), put together a dataset of materials from the Museum of History. (If you run the scraper using Binder, make sure to download the results to your own machine).
+
 
 As you explore, take care to note how the notebooks are structured. What lessons might we draw from these for the creation of our _own_ notebooks? Make your observations in a journal entry, see below. Discuss in our discord space any points where there seems to be some tacit assumptions about what you know how to do, or where you need more information.
 
-> Think of it like this: at the end of this course you'll be making a notebook on some aspect of Ottawa's GLAM scene for the January 11th version of yourself. What does pastYou need to know? 
+> Think of it like this: at the end of this course you'll be making a notebook on some aspect of Ottawa's GLAM scene for the January 11th version of yourself. What does pastYou need to know?
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}
@@ -44,5 +46,7 @@ Create a repository on Github; you can make it private.
 Make a text file and call it `journal.md`. Put the date in it, write brief notes so that when you come back to all of this, you'll know what you were doing.
 
 Drag and drop this file, and any other supporting materials you wish, onto your repository; once they've uploaded, hit the 'commit' button.
+
+DO NOT PUT images from the Museum into your repo (right? There could be serious permissions issues!).
 
 **While this isn't graded, per se**, you _will_ need this material when it comes to writing the documentation for your eventual GLAM notebook you create. Get in the habit of keeping careful _process_ notes.

@@ -8,9 +8,10 @@ weight: -10
 
 ### Goals for this week
 
-1. Write up documentation for your notebook.
-2. that
-3. the other thing
+1. Finish crafting your notebook; I will collate these into a OttawaGLAM Workbench.
+2. Write up documentation for your notebook; the 'notebook reflection' aka the 'case study'.
+
+Remember to consult the [Guidance on Building Your Own Notebook](building/nb-guidance) and the [Guidance for your Notebook Documentation](building/cs-guidance). TALK about what you're doing in Discord; ask for help from others or from me. I am happy for you to collaborate on both these tasks; just talk to me so that we can be clear about expectations.
 
 ### Listen
 
