@@ -2,7 +2,7 @@
 author = "Dr. Graham"
 title = "Guidance for Discussion Leaders"
 date = "2020-09-01"
-#description = "Guidance Note"
+description = "How to prep your selected materials"
 +++
 
 The role of the Discussion Leader is to set us up for a deeper engagement with the task. You are the trailblazer, the guide, the scout, the point of first-contact, with a new and puzzling text. If there are two discussion leaders for a week, divy up the work between you equitably.
@@ -14,7 +14,7 @@ The seminar discussions all happen through the medium of [Hypothes.is](https://h
 ![](images/discussion.png)
 _Photo by Harli Marten, [unsplash.com](https://unsplash.com/photos/M9jrKDXOQoU)_
 
-While the tips below assume you are _writing_ your annoations, an annotation can also display video or audio. Optionally, you are welcome to use video or audio as well, if you'd like; this might work best for the page-level annotations (see below). 
+While the tips below assume you are _writing_ your annoations, an annotation can also display video or audio. Optionally, you are welcome to use video or audio as well, if you'd like; this might work best for the page-level annotations (see below).
 
 You can post video to youtube and mark it 'unlisted'; then paste the URL to the video in the annotation. Hypothesis will automatically display the video in the annotation.
 

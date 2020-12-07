@@ -2,7 +2,7 @@
 author = "Dr. Graham"
 title = "Guidance for your Notebook Documentation"
 date = "2020-02-02"
-
+description = "Expectations for content and format"
 +++
 
 ## Your Case Study Is Due at the End of Week 12

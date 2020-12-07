@@ -2,6 +2,7 @@
 author = "Dr. Graham"
 title = "Our Library"
 date = "2020-11-27"
+description = "A non-exhaustive, non-canonical list of readings that you might draw from"
 
 +++
 

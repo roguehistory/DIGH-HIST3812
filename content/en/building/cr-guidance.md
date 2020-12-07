@@ -2,6 +2,7 @@
 author = "Dr. Graham"
 title = "Guidance for Collaborative Readers"
 date = "2020-08-02"
+description = "On what it means to respond to someone else's prepared materials"
 +++
 
 If you're not a Discussion Leader in a given week, you're a Collaborative Reader, and your task is to enrichen our understanding of the material by engaging with the texts in a generous way. Following [Kathleen Fitzpatrick](http://www.plannedobsolescence.net/generous-thinking-the-university-and-the-public-good/), I understand 'generous thinking' to work like this:

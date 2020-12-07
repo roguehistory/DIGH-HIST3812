@@ -34,8 +34,20 @@ Foundations: Cultural Heritage &amp;amp; Information  in which we lay the ground
         <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/building/technotes-toc/</guid>
-        <description>Basic Skills We are going to use Jupyter Notebooks in this class. For a global overview of how Jupyter notebooks work and are used in humanities research, see Quinn Dombrowski&amp;rsquo;s lesson in The Programming Historian. The links below go to either live notebooks that you can work through, or guide you through some of the same steps that Dombrowski discusses, but with more detail.
-  Working with the Command Line (PC) or Terminal (Mac)</description>
+        <description>A list of interesting / useful notebooks and other things
+Basic Skills We are going to use Jupyter Notebooks in this class. For a global overview of how Jupyter notebooks work and are used in humanities research, see Quinn Dombrowski&amp;rsquo;s lesson in The Programming Historian. The links below go to either live notebooks that you can work through, or guide you through some of the same steps that Dombrowski discusses, but with more detail.</description>
+      </item>
+      
+      <item>
+        <title>The Sequence of Technical Work</title>
+        <link>https://dhmuse.netlify.app/building/tech-req-at-a-gland/</link>
+        <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/tech-req-at-a-gland/</guid>
+        <description>This page gathers in one place the sequence of technical work I want you to do or attempt.
+You&amp;rsquo;ll see that some things are mission critical, while others are for you to push yourself.
+You are not expected to do this on your own, or to suffer through them not understanding why something doesn&amp;rsquo;t work. Collaborate. Talk to each other. Ask for help. Share screenshots. Divy up the task.
+The indications of time are not prescriptive in the sense that if it takes you longer than this you are somehow not a clever person.</description>
       </item>
       
       <item>

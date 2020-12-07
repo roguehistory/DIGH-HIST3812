@@ -2,9 +2,7 @@
 author = "Dr. Graham"
 title = "Guidance for the Exit Ticket"
 date = "2020-01-02"
-#description = "second thing"
-
-
+description = "This is an optional exercise."
 +++
 
 ![](images/passport.png)

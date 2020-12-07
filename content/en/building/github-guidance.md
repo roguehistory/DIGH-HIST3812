@@ -2,6 +2,7 @@
 author = "Dr. Graham"
 title = "Guidance for Github"
 date = "2020-02-02"
+description = "Github nuts and bolts"
 
 +++
 

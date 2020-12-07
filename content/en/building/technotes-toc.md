@@ -2,10 +2,11 @@
 author = "Shawn Graham"
 title = "Computational Notebooks List"
 date = "2020-10-10"
-#description = "Lorem Ipsum Dolor Si Amet"
+description = "A collection of notebooks and other useful materials"
 
-image = "images/landscape.jpg"
 +++
+
+A list of interesting / useful notebooks and other things
 
 ## Basic Skills
 
