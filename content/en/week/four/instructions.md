@@ -26,8 +26,8 @@ The National Library of Scotland has made all kinds of materials available throu
 
 1. Explore '[A Medical History of British India](https://data.nls.uk/tools/jupyter-notebooks/exploring-a-medical-history-of-british-india/)'
 2. Explore '[Edinburgh Ladies' Debating Society](https://data.nls.uk/tools/jupyter-notebooks/exploring-edinburgh-ladies-debating-society/)'
-3. Copy these notebooks to your own Github repo by visiting the appropriate repo, and while logged into Github, hitting the 'fork' button. See if you can launch a version from your own Repo using [Binder](https://mybinder.org).
-4. Using the ['Simple Scraper' notebook](notebooks/simple-scraper), put together a dataset of materials from the Museum of History. (If you run the scraper using Binder, make sure to download the results to your own machine).
+3. Log into your Github account. Copy these notebooks to your own Github repo by visiting the appropriate repo (ie, the NLS' github repo), and then hit the 'fork' button. Copy the url; go to [Binder](https://mybinder.org) and paste the url into the appropriate box, then hit launch. You now have your own copy in a live computational environment! Nb: any changes or data you put together while in the computational environment has to be downloaded to your local machine if you want to keep it.
+4. Using the ['Simple Scraper' notebook](notebooks/simple-scraper), put together a dataset of materials from the Museum of History. Run it either locally or via Binder. (If you run the scraper using Binder, make sure to download the results to your own machine).
 
 
 As you explore, take care to note how the notebooks are structured. What lessons might we draw from these for the creation of our _own_ notebooks? Make your observations in a journal entry, see below. Discuss in our discord space any points where there seems to be some tacit assumptions about what you know how to do, or where you need more information.
@@ -41,12 +41,12 @@ As you explore, take care to note how the notebooks are structured. What lessons
 
 For your digital work, it is critical that you keep notes on what works, what doesn't, what error messages you received, what help you received from others, what websites you went to, and so on.
 
-Create a repository on Github; you can make it private.
+Create a repository on Github; you can make it private. If you want anyone else to see a private repo, you have to add their username, remember.
 
 Make a text file and call it `journal.md`. Put the date in it, write brief notes so that when you come back to all of this, you'll know what you were doing.
 
 Drag and drop this file, and any other supporting materials you wish, onto your repository; once they've uploaded, hit the 'commit' button.
 
-DO NOT PUT images from the Museum into your repo (right? There could be serious permissions issues!).
+DO NOT PUT images from the Museum into your repo (right? There could be serious permissions issues!)
 
 **While this isn't graded, per se**, you _will_ need this material when it comes to writing the documentation for your eventual GLAM notebook you create. Get in the habit of keeping careful _process_ notes.

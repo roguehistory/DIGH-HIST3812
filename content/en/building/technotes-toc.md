@@ -47,14 +47,14 @@ If the data is already made available on the open web, and its in a reasonable f
 
 + Extract Illustrated Pages from the Hathi Trust & Internet Archive
   - This tutorial & associated notebooks are developed from Stephen Krewson's piece for the Programming Historian, ["Extracting Illustrated Pages from Digital Libraries with Python"](https://programminghistorian.org/en/lessons/extracting-illustrated-pages)
-  - You'll search for images related to "Ottawa".
+  - Try searching for images related to "Ottawa".
   - Tutorial link [here](#). [Hathi Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=hathitrust.ipynb); [Internet Archive Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=internetarchive.ipynb)
   - memo to self: the json file for the notebooks is in the 'data' folder
 
 + Retrieve data from a 'datasette'-created API [launch binder here](http://mybinder.org/v2/gh/o-date/open-context-jupyter/master?urlpath=retrieving%20data%20from%20a%20datasette%20api.ipynb)
   - note that the 'api_search_url' variable might need to be changed to point to the survey markers datasette or the CARF excavation datasette re Fort Frontenac (see below for url)
 
-+ Scraper. Adapt [this tutorial on beautiful soup](https://programminghistorian.org/en/lessons/intro-to-beautiful-soup)
++ Scraper. [This notebook](https://dhmuse.netlify.app/notebooks/simple-scraper) adapts [this tutorial on beautiful soup](https://programminghistorian.org/en/lessons/intro-to-beautiful-soup) to work with data from the Museum of History.
 
 ### Visualize
 

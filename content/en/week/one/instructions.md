@@ -22,15 +22,13 @@ Take your time, read through the instructions, and ask for help of your peers or
 
 The course podcast will be my opportunity to speak to you each week about what's going on in this course, things I want you to pay attention to, and individuals in the wider GLAM world that I want to introduce you to through a series of interviews. Make sure to listen to each episode.
 
-_insert course podcast here_
+<iframe src="https://anchor.fm/dr-graham/embed/episodes/HIST4916a-Episode-1-Welcome--Or--What-Is-This-All-About-enhoog/a-a42noid" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-I will sometimes also provide links to other interesting podcasts as I find them, and I encourage you to listen to them as well. For instance, this is a good one for us to start with:
+[Episode 1 Script/Transcript](transcripts/episode1)
 
-[New Thinking about Museums](https://www.bbc.co.uk/programmes/p08v3fl5)
+I will sometimes also provide links to other interesting podcasts as I find them, and I encourage you to listen to them as well. For instance, this is a good one for us to start with: [New Thinking about Museums](https://www.bbc.co.uk/programmes/p08v3fl5). This is optional.
 
 > What are people saving and what's missing from museums? Eleanor Rosamund Barraclough talks to researchers Fiona Candlin, Henrietta Lidchi, Sarah Maltby, & Edward Harcourt.  https://www.bbc.co.uk/programmes/p08v3fl5
-
-UK based, but useful material to think about.
 
 ### Do
 

@@ -1,7 +1,7 @@
 +++
 author = "Shawn Graham"
 title = "The Sequence of Technical Work"
-date = "2020-10-10"
+date = "2020-11-10"
 description = "Technical tasks listed by week with an estimate of how much time they will take"
 +++
 
@@ -9,13 +9,15 @@ This page gathers in one place the sequence of technical work I want you to do o
 
 You'll see that some things are mission critical, while others are for you to push yourself.
 
-You are not expected to do this on your own, or to suffer through them not understanding why something doesn't work. Collaborate. Talk to each other. Ask for help. Share screenshots. Divy up the task.
+You are not expected to do all of this work in heroic isolation, or to suffer through these exercises not understanding why something doesn't work. Collaborate. Talk to each other. Ask for help. Share screenshots. Divy up the task.
+
+**Explaining that you had trouble with something, and identifying the source of the trouble, and/or reaching out for help** is a sign of **strength**, not weakness.
 
 {{< notice warning "Attention!" >}}
 The indications of time are **not prescriptive** in the sense that if it takes you longer than this you are somehow not a clever person. Rather, it's an indication of how long I estimate a task might take if everything goes more or less according to plan. But if after 30 minutes you're flummoxed, STOP. Ask for help. Share what's going on, with me or with a peer. YOU DO NOT HAVE TO DO THIS ALONE.
 {{< /notice >}}
 
-There's more to a task than just running code; I do want you to think about what the process implies in the context of our readings, or other things you've done. You might encounter problems that slow you down, meaning you might take longer than my estimated time, **and that's ok**. I've been doing this for a while; my estimates might be out of whack. Key thing: **I don't want to hear that you laboured at something for ages before you reached out for help.**
+There's more to a task than just running code; I do want you to think and talk about what the process implies in the context of our readings, or other things you've done. You might encounter problems that slow you down, meaning you might take longer than my estimated time, **and that's ok**. I've been doing this for a while; my estimates might be out of whack. Key thing: **I don't want to hear that you laboured at something for ages before you reached out for help.**
 
 {{< notice success "Important" >}}
 Again, **you have my explicit permission** to quit these tasks when things stop making sense and to ask for help from your peers, friends, family, random strangers, me, anyone. Just record what happened, the kinds of errors, screenshots, or anything else that will help me troubleshoot with you.

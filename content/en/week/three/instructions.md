@@ -22,7 +22,7 @@ Episode 3 of course podcast goes here
 
 ### Do
 
-These week, we introduce you to Jupyter Notebooks. We will use a variety of computational notebooks in this course. These combine code with our observations and narrative as text files; the code in these can be run when opened in the correct environment. On the [Basic Skills](/building/technotes-toc) page, there is a guide to many notebooks that we will learn from and sometimes adapt or modify.
+These week, we introduce you to Jupyter Notebooks. We will use a variety of computational notebooks in this course. These combine code with our observations and narrative as text files; the code in these can be run when opened in the correct environment. On the [Computational Notebooks List](/building/technotes-toc) page, there is a guide to many notebooks that we will learn from and sometimes adapt or modify. You are always welcome to use these as models for things you might like to try that I do not explicitly mention in a given week. That is to say, if you're up for a challenge, let's talk!
 
 1. Complete the [Introduction to Jupyter Notebooks](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/getting-started-with-jupyter.ipynb) by Kelber and Lawless
 2. Complete [An Introduction to Python](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=python-basics-1.ipynb)

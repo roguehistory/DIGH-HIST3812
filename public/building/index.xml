@@ -17,7 +17,17 @@
     
       
       <item>
-        <title>Our Library</title>
+        <title>2. Publishing Data to the Web with Heroku and Datasette</title>
+        <link>https://dhmuse.netlify.app/building/datasette-guidance/</link>
+        <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/datasette-guidance/</guid>
+        <description>Prerequisites You need to have the following installed on your machine:
+ Python. I recommend using Anaconda to manage all of your python related work. Get Anaconda here and get the 3.7 version. In the instructions below, you will also be installing Homebrew if you are on a Mac. Both PC and Windows people will need to install the command line interface (CLI) for Heroku. I recommend Mac people install Homebrew so that they can download the CLI from their terminal (also, lots of useful software is distributed using Homebrew).</description>
+      </item>
+      
+      <item>
+        <title>1. Our Library</title>
         <link>https://dhmuse.netlify.app/building/library/</link>
         <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
@@ -46,8 +56,7 @@ Basic Skills We are going to use Jupyter Notebooks in this class. For a global o
         <guid>https://dhmuse.netlify.app/building/tech-req-at-a-gland/</guid>
         <description>This page gathers in one place the sequence of technical work I want you to do or attempt.
 You&amp;rsquo;ll see that some things are mission critical, while others are for you to push yourself.
-You are not expected to do this on your own, or to suffer through them not understanding why something doesn&amp;rsquo;t work. Collaborate. Talk to each other. Ask for help. Share screenshots. Divy up the task.
-The indications of time are not prescriptive in the sense that if it takes you longer than this you are somehow not a clever person.</description>
+You are not expected to do all of this work in heroic isolation, or to suffer through these exercises not understanding why something doesn&amp;rsquo;t work. Collaborate. Talk to each other. Ask for help. Share screenshots. Divy up the task.</description>
       </item>
       
       <item>

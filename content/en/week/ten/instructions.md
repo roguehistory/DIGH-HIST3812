@@ -18,7 +18,7 @@ weight: -10
 ### Do
 
 1. Cleaning Data with R
-2. Publishing Data with Datasette
+2. Publishing [Data with Datasette](/building/datasette-guidance/)
 
 I don't expect you to do these on your own in splendid isolation; I also don't expect that everyone will complete them. Just push yourself until you get stuck, then talk about it / look for help in Discord.
 
