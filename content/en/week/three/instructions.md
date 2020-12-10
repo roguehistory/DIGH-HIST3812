@@ -18,7 +18,9 @@ In order to do that, you need to prepare your materials. I am giving you two wee
 
 ## Listen
 
-Episode 3 of course podcast goes here
+<div align="center"><iframe src="https://anchor.fm/dr-graham/embed/episodes/HIST4916a-Episode-3-Prepare-Yourself-enkl9o" height="102px" width="400px" frameborder="0" scrolling="no"></iframe></div>
+
+[Episode 3 Script/Transcript](transcripts/episode3)
 
 ### Do
 

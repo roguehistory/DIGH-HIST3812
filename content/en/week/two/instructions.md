@@ -21,6 +21,8 @@ Make sure to listen to each episode - talk about the podcast in Discord! It can 
 
 <div align="center"><iframe src="https://anchor.fm/dr-graham/embed/episodes/HIST4916a-Episode-2-Choose-Your-Own-Adventure-enkh6r" height="102px" width="400px"  frameborder="0" scrolling="no"></iframe></div>
 
+[Episode 2 Script/Transcript](transcripts/episode2)
+
 ### Do
 
 1. [Choose Your Own DHMuse Adventure](https://padlet.com/shawngraham1/jnpyi1hmkjbtzbp0). Open that link in a new window.
