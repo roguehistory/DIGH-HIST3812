@@ -15,13 +15,17 @@ I wanted this course to be about exploration and figuring out what this field, C
 
 ### Listen
 
-Episode 2 of course podcast goes here.
+{{< notice success "Important" >}}
+Make sure to listen to each episode - talk about the podcast in Discord! It can be hard to start a conversation from scratch with strangers in an online class, I get that; maybe post some observations or statements from the podcast that surprised you or immediately challenge your ideas about what this course might be about. Try to do this each week, and our Discord will start to feel like a 'real' place!
+{{< /notice >}}
+
+<div align="center"><iframe src="https://anchor.fm/dr-graham/embed/episodes/HIST4916a-Episode-2-Choose-Your-Own-Adventure-enkh6r" height="102px" width="400px"  frameborder="0" scrolling="no"></iframe></div>
 
 ### Do
 
 1. [Choose Your Own DHMuse Adventure](https://padlet.com/shawngraham1/jnpyi1hmkjbtzbp0). Open that link in a new window.
   -> Add a tile by clicking on the big plus sign, bottom right.
-  -> Select 3 possible readings that intersect with your interests from at least two areas in [our library](building/library), and paste them in; find something we should watch; and find something to explore.
+  -> Select 3 possible readings that intersect with your interests from at least two areas in [our library](building/library), and paste them in; find something we should watch; and find something to explore. So five things, ok?
   -> We will arrive at a path through these materials by consensus, resolving any conflicts, discussing in the appropriate discord space. I'll then add connections as per our discussion so you can see the logic, and assign dates. I will update the relevant weeks on this course website as well so you can schedule appropriately.
 2. Explore the [Glam Workbench](https://glam-workbench.github.io/). One of the outcomes for this course is for us, as a class, to create a simpler version of this. What kinds of 'tacit knowledge' are required to be made explicit for you to work with this material? Discuss in our discord space.
 

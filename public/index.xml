@@ -141,13 +141,23 @@ Do  Make a new notebook (or modify an existing one) to load data from the Datase
       </item>
       
       <item>
-        <title>2. Publishing Data to the Web with Heroku and Datasette</title>
-        <link>https://dhmuse.netlify.app/building/datasette-guidance/</link>
-        <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+        <title>4916a W21 Episode 1</title>
+        <link>https://dhmuse.netlify.app/transcripts/episode1/</link>
+        <pubDate>Tue, 08 Dec 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/building/datasette-guidance/</guid>
-        <description>Prerequisites You need to have the following installed on your machine:
- Python. I recommend using Anaconda to manage all of your python related work. Get Anaconda here and get the 3.7 version. In the instructions below, you will also be installing Homebrew if you are on a Mac. Both PC and Windows people will need to install the command line interface (CLI) for Heroku. I recommend Mac people install Homebrew so that they can download the CLI from their terminal (also, lots of useful software is distributed using Homebrew).</description>
+        <guid>https://dhmuse.netlify.app/transcripts/episode1/</guid>
+        <description>Transcript of this week&amp;rsquo;s podcast episode.
+Part One When I was a kid, I lived in the hinterland of Ottawa. One year, when I was in elementary school, I got selected to go to Ottawa to hear Marc Garneau speak at the Science and Technology Museum - he had just returned from his first mission on the space shuttle. It was very exciting. After the talk, I got separated from the rest of the group.</description>
+      </item>
+      
+      <item>
+        <title>4916a W21 Episode 2</title>
+        <link>https://dhmuse.netlify.app/transcripts/episode2/</link>
+        <pubDate>Tue, 08 Dec 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/transcripts/episode2/</guid>
+        <description>Transcript of this week&amp;rsquo;s podcast episode.
+Part One So this week is an important week in the class. This is the week where you get to choose your own DHMuse adventure. And by choose your own adventure. I mean- you know the first time I did this class I had a huge list of readings that I wanted everybody to get through. It was in fact quite overwhelming. Both for the students and for myself.</description>
       </item>
       
       <item>
@@ -207,7 +217,7 @@ The first third of this course is about getting started and choosing your own ad
       </item>
       
       <item>
-        <title>1. Our Library</title>
+        <title>Our Library</title>
         <link>https://dhmuse.netlify.app/building/library/</link>
         <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
@@ -219,6 +229,17 @@ Foundations: Cultural Heritage &amp;amp; Information  in which we lay the ground
       </item>
       
       <item>
+        <title>The Sequence of Technical Work</title>
+        <link>https://dhmuse.netlify.app/building/tech-req-at-a-gland/</link>
+        <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/tech-req-at-a-gland/</guid>
+        <description>This page gathers in one place the sequence of technical work I want you to do or attempt.
+You&amp;rsquo;ll see that some things are mission critical, while others are for you to push yourself.
+You are not expected to do all of this work in heroic isolation, or to suffer through these exercises not understanding why something doesn&amp;rsquo;t work. Collaborate. Talk to each other. Ask for help. Share screenshots. Divy up the task.</description>
+      </item>
+      
+      <item>
         <title>Computational Notebooks List</title>
         <link>https://dhmuse.netlify.app/building/technotes-toc/</link>
         <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
@@ -226,17 +247,6 @@ Foundations: Cultural Heritage &amp;amp; Information  in which we lay the ground
         <guid>https://dhmuse.netlify.app/building/technotes-toc/</guid>
         <description>A list of interesting / useful notebooks and other things
 Basic Skills We are going to use Jupyter Notebooks in this class. For a global overview of how Jupyter notebooks work and are used in humanities research, see Quinn Dombrowski&amp;rsquo;s lesson in The Programming Historian. The links below go to either live notebooks that you can work through, or guide you through some of the same steps that Dombrowski discusses, but with more detail.</description>
-      </item>
-      
-      <item>
-        <title>The Sequence of Technical Work</title>
-        <link>https://dhmuse.netlify.app/building/tech-req-at-a-gland/</link>
-        <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/building/tech-req-at-a-gland/</guid>
-        <description>This page gathers in one place the sequence of technical work I want you to do or attempt.
-You&amp;rsquo;ll see that some things are mission critical, while others are for you to push yourself.
-You are not expected to do all of this work in heroic isolation, or to suffer through these exercises not understanding why something doesn&amp;rsquo;t work. Collaborate. Talk to each other. Ask for help. Share screenshots. Divy up the task.</description>
       </item>
       
       <item>
@@ -298,6 +308,16 @@ Read completely through before trying to set things up.
         <description>Your Case Study Is Due at the End of Week 12 &amp;hellip;but I will accept it up to a week after the final day of the Winter term (which this year is April 14; thus, April 21st.)
 I will bundle everyone&amp;rsquo;s notebooks and documentation together into a supporting website, the Ottawa GLAM Workbench (fyi, repo here) and used the My Binder service to make these live online.
 Goal The goal here is to create a kind of guide to a selected notebook that shows what the notebook can do.</description>
+      </item>
+      
+      <item>
+        <title>Publishing Data to the Web with Heroku and Datasette</title>
+        <link>https://dhmuse.netlify.app/building/datasette-guidance/</link>
+        <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/datasette-guidance/</guid>
+        <description>Prerequisites You need to have the following installed on your machine:
+ Python. I recommend using Anaconda to manage all of your python related work. Get Anaconda here and get the 3.7 version. In the instructions below, you will also be installing Homebrew if you are on a Mac. Both PC and Windows people will need to install the command line interface (CLI) for Heroku. I recommend Mac people install Homebrew so that they can download the CLI from their terminal (also, lots of useful software is distributed using Homebrew).</description>
       </item>
       
       <item>

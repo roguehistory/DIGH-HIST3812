@@ -63,8 +63,13 @@
   </url>
   
   <url>
-    <loc>https://dhmuse.netlify.app/building/datasette-guidance/</loc>
-    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+    <loc>https://dhmuse.netlify.app/transcripts/episode1/</loc>
+    <lastmod>2020-12-08T00:10:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dhmuse.netlify.app/transcripts/episode2/</loc>
+    <lastmod>2020-12-08T00:10:51+09:00</lastmod>
   </url>
   
   <url>
@@ -103,12 +108,12 @@
   </url>
   
   <url>
-    <loc>https://dhmuse.netlify.app/building/technotes-toc/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <loc>https://dhmuse.netlify.app/building/tech-req-at-a-gland/</loc>
+    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dhmuse.netlify.app/building/tech-req-at-a-gland/</loc>
+    <loc>https://dhmuse.netlify.app/building/technotes-toc/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -139,6 +144,11 @@
   
   <url>
     <loc>https://dhmuse.netlify.app/building/cs-guidance/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dhmuse.netlify.app/building/datasette-guidance/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -220,6 +230,11 @@
   <url>
     <loc>https://dhmuse.netlify.app/week/twelve/</loc>
     <lastmod>2020-01-28T00:10:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dhmuse.netlify.app/transcripts/</loc>
+    <lastmod>2020-01-28T00:08:29+09:00</lastmod>
   </url>
   
   <url>

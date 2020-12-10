@@ -20,7 +20,12 @@ Take your time, read through the instructions, and ask for help of your peers or
 
 ### Listen
 
-The course podcast will be my opportunity to speak to you each week about what's going on in this course, things I want you to pay attention to, and individuals in the wider GLAM world that I want to introduce you to through a series of interviews. Make sure to listen to each episode.
+The course podcast will be my opportunity to speak to you each week about what's going on in this course, things I want you to pay attention to, and individuals in the wider GLAM world that I want to introduce you to through a series of interviews.
+
+{{< notice success "Important" >}}
+Make sure to listen to each episode - talk about the podcast in Discord! It can be hard to start a conversation from scratch with strangers in an online class, I get that; maybe post some observations or statements from the podcast that surprised you or immediately challenge your ideas about what this course might be about. Try to do this each week, and our Discord will start to feel like a 'real' place!
+{{< /notice >}}
+
 
 <iframe src="https://anchor.fm/dr-graham/embed/episodes/HIST4916a-Episode-1-Welcome--Or--What-Is-This-All-About-enhoog/a-a42noid" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
@@ -68,7 +73,7 @@ You can download Discord [here](https://discordapp.com/apps) or you can [use it 
 
 Once you're in, there's a welcome message with a reaction emoji at the end - click on the thumbs up to confirm that you've read the message. This will unlock the various channels in the server, including voice and screensharing.
 
-And yes, I recycled screenshots from my Crafting Digital History course, but the Digital Archaeology version is more or less the same and hey, I built this course website by hand.
+And yes, I recycled screenshots from my Crafting Digital History course, but the DHMuse version is more or less the same and hey, I built this course website by hand.
 
 ![welcome-message](/images/discord/first-welcome-message.png)
 ![click-the-reaction](/images/discord/click-here.png)
