@@ -31,13 +31,13 @@ This might be the first time you've done anything more complicated with your mac
 
 I'd like everyone to make sure they get through, and understand:
 
-- Week 1: Hypothesis; Github; Discord. 1 hr
+- Week 1: [Hypothesis](https://dhmuse.netlify.app/week/one/instructions/#1-get-hypothesis--join-our-class-group); [Github](/building/github-guidance); [Discord](https://dhmuse.netlify.app/week/one/instructions/#2-join-our-discord). 1 hr
 
 ---
 
 In Week 2, I want you to at least explore. If you can go further, do so!
 
-- Week 2: Explore the GLAM Workbench. 1 hr
+- Week 2: [Explore the GLAM Workbench](https://glam-workbench.github.io/). 1 hr
 
 **Go further**: see if you can figure out how to run some of the notebooks in the GLAM workbench
 **Going even further**: make some changes to those notebooks, and save the changes. 2 hrs
@@ -47,8 +47,8 @@ In Week 2, I want you to at least explore. If you can go further, do so!
 
 I'd like everyone to make sure they get through, and understand, these two tasks:
 
-- Week 3: The Introduction to Jupyter Notebooks. 30 - 40 minutes
-- Week 3: The Introduction to Python Notebook. 1 hr
+- Week 3: [The Introduction to Jupyter Notebooks](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/getting-started-with-jupyter.ipynb). 30 - 40 minutes
+- Week 3: [The Introduction to Python Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=python-basics-1.ipynb). 1 hr
 
 **If you're feeling good about things**: Push yourself, and follow the install and run Jupyter on your own machine instructions; download one of the notebooks and see if you can run it locally. 1 hr. Not a requirement.
 
@@ -56,9 +56,9 @@ I'd like everyone to make sure they get through, and understand, these two tasks
 
 Please complete, and understand:
 
-- Week 4: Explore the two notebooks from the National Library of Scotland; copy to your own Github; see if you can launch from your own repo using the Binder service. 45 min.  **If you're feeling good about this**: Push yourself, and modify (and save) the code to visualize some other aspect of the data: 45 min.
+- Week 4: Explore the two notebooks from the National Library of Scotland [(1)](https://data.nls.uk/tools/jupyter-notebooks/exploring-a-medical-history-of-british-india/) [(2)](https://data.nls.uk/tools/jupyter-notebooks/exploring-edinburgh-ladies-debating-society/); copy to your own Github; see if you can launch from your own repo using the Binder service. 45 min.  **If you're feeling good about this**: Push yourself, and modify (and save) the code to visualize some other aspect of the data: 45 min.
 
-- Week 4: Build a dataset of materials from the Museum of History using the simple scraper notebook. 1.5 hrs.
+- Week 4: Build a pesonal dataset of materials from the Museum of History using the [simple scraper notebook](https://dhmuse.netlify.app/notebooks/simple-scraper). 1.5 hrs. Going further: subset the data you collect, and push it online for your own use, with [datasette](/building/datasette-guidance). Don't put images online; use the links to the image instead. 1.5 hrs
 
 {{< notice success "Important" >}}
 We take a break from the tech aspect during weeks 5 to 8. However, _if_ you find yourself with time and you are so inclined, I would encourage you to practice what you've already learned, and see if you can push the examples you've encountered further. 30 - 45 minutes per week say? You might wish to make a start on the next technical stuff now, if you know that your other courses will be heavy towards the end of term.
@@ -66,10 +66,8 @@ We take a break from the tech aspect during weeks 5 to 8. However, _if_ you find
 
 ### Build On What You've Learned
 
-- Week 9: Complete the notebook on visualizing data. 30 mins.
+- Week 9: Complete the [notebook on visualizing data](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=viz-w-bokeh.ipynb) (basic plots). 30 mins.
 - Week 9: Write a notebook from scratch that grabs open data from CSTM and then visualize one dimension (column) from the data. 2 hrs.
-
-**If you're feeling good about things**: Push yourself, and add more visualizations from the demo data for this week, or from the CSTM, or from the National Library of Scotland, or from the Museum of History. 2 hrs. Not a requirement.
 
 ---
 
@@ -79,7 +77,7 @@ We take a break from the tech aspect during weeks 5 to 8. However, _if_ you find
 
 ---
 
-- Week 11: Make a new notebook that _ingests_ data from a Datasette created by one of your peers, or from the example supplied by Dr. Graham. It should also visualize or otherwise work with the data. 2 hrs
+- Week 11: Make a new notebook that _ingests_ data from a Datasette created by one of your peers, or from [another Ottawa source](/building/technotes-toc) It should also visualize or otherwise work with the data. 2 hrs
 
 **If you're feeling good about things**: Push yourself, and see if you can visualize the provenance of your data (create a notebook that maps the origins of your data). 2 hrs. Not a requirement. Push yourself further: build a notebook that creatively warps/deforms the data (eg, sonification). 3 hrs. Not a requirement.
 
@@ -87,7 +85,7 @@ We take a break from the tech aspect during weeks 5 to 8. However, _if_ you find
 
 ### Build Your Contribution to the Ottawa GLAM Workbench
 
- - Week 12: Build your official notebook for submission (code + commentary). Write the documentation that contextualizes the notebook. Devote all of the time you have this week to this task. 5 hrs
+ - Week 12: Build your official notebook for submission (code + commentary). It can reuse elements from your earlier experiments, or expand one of your earlier experiments. Write the documentation that contextualizes the notebook. Devote all of the time you have this week to this task. 5 hrs
 
 ---
 

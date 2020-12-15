@@ -18,7 +18,7 @@ weight: -10
 
 ### Do
 
-1. Make a new notebook (or modify an existing one) to load data from the Datasette you pushed to Heroku.
+1. Make a new notebook (or modify an existing one) to load data from a new datasource.
 2. Visualize the provenance of your data using Leaflet (SG memo: Rachel Opitz workbooks)
 3. Or go for something complete different; try out some [sonification](https://mybinder.org/v2/gh/o-date/sonification/master?urlpath=Intro%20to%20Sonification.ipynb) on your data
 

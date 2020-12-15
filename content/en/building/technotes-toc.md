@@ -61,6 +61,9 @@ If the data is already made available on the open web, and it's in a reasonable 
 
 + GLAM Notebooks from [BVMC.Labs 'Inspiring computationally-driven research with the British Library's digital collections'](http://data.cervantesvirtual.com/blog/notebooks/) working with a wide variety of European datasets and archival sources.
 
++ National Library of Scotland, Data Foundry: [A Medical History of British India](https://data.nls.uk/tools/jupyter-notebooks/exploring-a-medical-history-of-british-india/)
+
++National Library of Scotland, Data Foundry: [Edinburgh Ladies' Debating Society](https://data.nls.uk/tools/jupyter-notebooks/exploring-edinburgh-ladies-debating-society/)
 
 ### Visualize
 

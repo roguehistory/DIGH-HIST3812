@@ -11,7 +11,7 @@ weight: -10
 1. Finish crafting your notebook; I will collate these into a OttawaGLAM Workbench.
 2. Write up documentation for your notebook; the 'notebook reflection' aka the 'case study'.
 
-Remember to consult the [Guidance on Building Your Own Notebook](building/nb-guidance) and the [Guidance for your Notebook Documentation](building/cs-guidance). TALK about what you're doing in Discord; ask for help from others or from me. I am happy for you to collaborate on both these tasks; just talk to me so that we can be clear about expectations.
+Remember to consult the [Guidance on Building Your Own Notebook](building/nb-guidance) and the [Guidance for your Notebook Documentation](building/cs-guidance), and the [Sequence of Technical Work document](https://dhmuse.netlify.app/building/tech-req-at-a-glance/). TALK about what you're doing in Discord; ask for help from others or from me. I am happy for you to collaborate on both these tasks; just talk to me so that we can be clear about expectations.
 
 ### Listen
 
