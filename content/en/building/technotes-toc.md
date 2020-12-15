@@ -1,6 +1,6 @@
 +++
 author = "Shawn Graham"
-title = "Computational Notebooks List"
+title = "Computational Notebooks Resources"
 date = "2020-10-10"
 description = "A collection of notebooks and other useful materials"
 
@@ -35,9 +35,10 @@ We are going to use Jupyter Notebooks in this class. For a global overview of ho
 
 ### Retrieving data
 
-If the data is already made available on the open web, and its in a reasonable format (json or csv) then it's not too difficult a task.
+If the data is already made available on the open web, and it's in a reasonable format (json or csv) then it's not too difficult a task.
 
 + Loading simple data that you've found online into a Notebook
+  - a [walkthrough](#)
 
 + [Working with Pandas to Manipulate Data](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=pandas-1.ipynb)
 
@@ -48,13 +49,18 @@ If the data is already made available on the open web, and its in a reasonable f
 + Extract Illustrated Pages from the Hathi Trust & Internet Archive
   - This tutorial & associated notebooks are developed from Stephen Krewson's piece for the Programming Historian, ["Extracting Illustrated Pages from Digital Libraries with Python"](https://programminghistorian.org/en/lessons/extracting-illustrated-pages)
   - Try searching for images related to "Ottawa".
-  - Tutorial link [here](#). [Hathi Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=hathitrust.ipynb); [Internet Archive Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=internetarchive.ipynb)
-  - memo to self: the json file for the notebooks is in the 'data' folder
+  - [Hathi Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=hathitrust.ipynb); [Internet Archive Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=internetarchive.ipynb)
+  - the json file for the notebooks is in the 'data' folder
 
 + Retrieve data from a 'datasette'-created API [launch binder here](http://mybinder.org/v2/gh/o-date/open-context-jupyter/master?urlpath=retrieving%20data%20from%20a%20datasette%20api.ipynb)
   - note that the 'api_search_url' variable might need to be changed to point to the survey markers datasette or the CARF excavation datasette re Fort Frontenac (see below for url)
 
 + Scraper. [This notebook](https://dhmuse.netlify.app/notebooks/simple-scraper) adapts [this tutorial on beautiful soup](https://programminghistorian.org/en/lessons/intro-to-beautiful-soup) to work with data from the Museum of History.
+
++ Working with web archives, a series of notebooks by Sherratt et al [https://glam-workbench.github.io/web-archives/](https://glam-workbench.github.io/web-archives/) (including the Internet Archive, so potentially you might find Ottawa things there.)
+
++ GLAM Notebooks from [BVMC.Labs 'Inspiring computationally-driven research with the British Library's digital collections'](http://data.cervantesvirtual.com/blog/notebooks/) working with a wide variety of European datasets and archival sources.
+
 
 ### Visualize
 
@@ -62,10 +68,11 @@ If the data is already made available on the open web, and its in a reasonable f
     - This notebook is the one that accompanies the tutorial by Charlie Harper in [_The Programming Historian_](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)
     - You can launch the notebook [here](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=viz-w-bokeh.ipynb); this will let you skip setting up the virtual environment (a way of keeping all of your lego pieces for each task separate so they don't cause conflicts).
 
++ There might be useful things in [Hands-On Data Visualization](https://handsondataviz.org); not explicitly about jupyter notebooks, but give it a look.
 
 ## Documentation
 
-+ Building an API with Datasette
++ Building an [API with Datasette](/building/datasette-guidance)
 
 + Building a documentation website with Mkdocs
   - MKDocs is a python module that will turn a folder with markdown documents into a functioning website
@@ -85,12 +92,47 @@ For when you're ready/inclined to push things further.
 
 ## Ottawa Datasets
 
-+ There are certain datasets already available for the Ottawa GLAM scene; some were created by students in the previous edition of this course.
+### Galleries
+- National scale
+  - [Inuit Artists' Print Database](https://www.gallery.ca/inuit_artists/home.jsp?Lang=EN)
+  - [Art in Canada to 1930](https://www.gallery.ca/indexartcanada/home.jsp?Lang=EN)
+  - [Canadian Souvenir View Albums](https://www.gallery.ca/sva/intro_e.htm)
+  - [NGC Database](http://archives.gallery.ca/?lang=en)
+  - [Artists in Canada](https://app.pch.gc.ca/application/aac-aic/?lang=en)
 
-   + Survey markers from the CSTM (compiled by Sherwin et al) https://cstm-demo2.herokuapp.com/cstm-markers/
+
+### Libraries & Archives
+- LAC
+  - [Notebook](https://nbviewer.jupyter.org/github/GLAM-Workbench/library-archives-canada/blob/master/lac-naturalisation-1915-1945-harvest-by-country.ipynb) that creates datasets from [LAC Naturalization Records, 1915-1946](https://www.bac-lac.gc.ca/eng/discover/immigration/citizenship-naturalization-records/naturalized-records-1915-1951/Pages/introduction.aspx) --> could likely be repurposed to extract later records as well
+  - [Black Loyalist Refugees, 1782-1807- Port Roseway Associates](https://www.bac-lac.gc.ca/eng/discover/military-heritage/loyalists/loyalist-port-roseway/Pages/port-roseway-associates-loyalists.aspx)
+  - [Canadian Illustrated News, 1869-1883](https://www.bac-lac.gc.ca/eng/discover/canadian-illustrated-news-1869-1883/Pages/canadian-illustrated-news.aspx)
+  - [Canadian Patents, 1869-1919](https://www.bac-lac.gc.ca/eng/discover/patents-1869-1919/Pages/canadian-patents-1869-1919.aspx)
+  - [Carleton Papers – Book of Negroes, 1783](https://www.bac-lac.gc.ca/eng/discover/military-heritage/loyalists/book-of-negroes/Pages/introduction.aspx)
+  - [Carleton Papers – Loyalists and British Soldiers, 1772-1784](https://www.bac-lac.gc.ca/eng/discover/military-heritage/loyalists/loyalists-british-soldiers-1722-1784/Pages/introduction.aspx)
+  - [Immigrants Before 1865](https://www.bac-lac.gc.ca/eng/discover/immigration/immigration-records/immigrants-before-1865/Pages/introduction.aspx)
+  - [Immigrants from the Russian Empire, 1898-1922](https://www.bac-lac.gc.ca/eng/discover/immigration/immigration-records/immigrants-russian-empire/Pages/introduction.aspx)
+  - [Ukrainian Immigrants, 1891-1930](https://www.bac-lac.gc.ca/eng/discover/immigration/immigration-records/immigrants-ukraine-1891-1930/Pages/introduction.aspx)
+  - [Marriage Bonds, 1779-1858 - Upper & Lower Canada](https://www.bac-lac.gc.ca/eng/discover/vital-statistics-births-marriages-deaths/marriage-bonds/Pages/marriage-bonds-upper-lower.aspx)
+  - [Open Data](https://search.open.canada.ca/en/od/?sort=score%20desc&page=1&search_text=&od-search-subjects=History%20and%20Archaeology&od-search-format=CSV)
+
+- [City of Ottawa Archives](http://ottawa.minisisinc.com/ottawa/scripts/mwimain.dll?logon&application=UNION_SEARCH&language=144&file=[ottawa_web]NewOPAC\index.html)
+  - Offers collections of artworks and items from Ottawa historical museums --> cannot find exportable data, would have to be scraped
+
+- [Canadiana.ca](https://www.canadiana.ca/)
+
+### Museums
+
+- [Canadian Museum of History](https://www.historymuseum.ca/collections/)
+
+- Ingenium Museum Network
+  - [Open data](https://ingeniumcanada.org/collection-research/artifact-open-data-set-mash-up)
+    - All artifacts in the collection of the Canada Agriculture and Food Museum, Canada Aviation and Space Museum and the Canada Science and Technology Museum
+    - Available in XML or CSV
+
+## Misc
+
++ Student created datasettes:
+
+   + Survey markers from the CSTM (compiled by Sherwin et al) [https://cstm-demo2.herokuapp.com/cstm-markers/](https://cstm-demo2.herokuapp.com/cstm-markers/)
 
    + This API makes available some 400 record cards from the CARF excavations of Fort Frontenac in Kingston. http://fort-frontenac-excavation.herokuapp.com/.
-
-## A Notebook of Your Own
-
-Use these notebooks. Repurpose them. Expand them. Add commentary, reflection, citations, links, videos. Your notebook can be a how-to; it can be a 'hey, look at this interesting pattern if you do x,y,z'; it can be a full-on argument with code & data. [See the Guidance for Notebooks document](building/nb-guidance).

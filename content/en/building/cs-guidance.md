@@ -5,12 +5,6 @@ date = "2020-02-02"
 description = "Expectations for content and format"
 +++
 
-## Your Case Study Is Due at the End of Week 12
-
-...but I will accept it up to a week after the final day of the Winter term (which this year is April 14; thus, April 21st.)
-
-I will bundle everyone's notebooks and documentation together into a supporting website, the Ottawa GLAM Workbench ([fyi, repo here](https://github.com/XLabCU/GLAM-Ottawa)) and used the [My Binder](https://mybinder.org) service to make these live online.
-
 ## Goal
 
 The goal here is to create a kind of guide to a selected notebook that shows what the notebook can do. **It walks the user through the notebook, how to use it, perhaps visualize results or ways to extend it, in order to suggest questions a user might want to pose, and why it might matter.** That last point is the most 'case study'-ish bit. By providing guidance on the 'so what' question, you will engage with the literature or issues and provide context for non-dh-minded folk should take this work seriously.
@@ -50,7 +44,7 @@ The two slide shows on the [Glam Workbench main page](https://glam-workbench.git
 
 ---
 
-5. Video walkthroughs can be helpful too. I use the free version of https://screencast-o-matic.com/ . The resulting file can be saved on your computer and then placed in your repository; it can also be uploaded to your userspace on screencast-o-matic and then can be embedded from there. If you load it to your own repo, just use `~insert video 1 here~` and I'll do the rest when I compile everything. Otherwise, use the embed code from screencast-o-matic. Mac users can also make quick videos using cmd+5; Windows 10 users can use the x-box app screenrecorder (press Windows+G) ([more info](https://www.theverge.com/2020/4/21/21222533/record-screen-pc-windows-laptop-xbox-game-bar-how-to)).
+5. Video walkthroughs can be helpful too. I use the free version of https://screencast-o-matic.com/ . The resulting file can be saved on your computer and then placed in your repository; it can also be uploaded to your userspace on screencast-o-matic and then can be embedded from there. If you load it to your own repo, just flag where the video should go, e.g., `~insert video 1 here~` and I'll do the rest when I compile everything. Otherwise, use the embed code from screencast-o-matic. Mac users can also make quick videos using cmd+5; Windows 10 users can use the x-box app screenrecorder (press Windows+G) ([more info for Windows](https://www.theverge.com/2020/4/21/21222533/record-screen-pc-windows-laptop-xbox-game-bar-how-to)).
 
 ---
 
@@ -62,8 +56,16 @@ The two slide shows on the [Glam Workbench main page](https://glam-workbench.git
 
 ---
 
-8. Remember to address the goals for this exercise. The most important of these: the 'so what?', also known as the 'what's in it for me?'.
+8. Remember to address the goals for this exercise. The most important of these: Imagine someone from the Ottawa GLAM community looking at your work; they'll (politely) be thinking 'so what?', also known as the 'what's in it for me?'. That is to say, why does this notebook matter?
 
 ---
 
 9. When its ready, you can submit it [here](https://forms.gle/RZH4o6H18L1sMBz88)
+
+---
+
+## Your Notebook Documentation Is Due at the End of the Course
+
+...but I will accept it up to ten days after the final day of the Winter term (which this year is April 14; thus, April 24th.)
+
+I will bundle everyone's notebooks and documentation together into a supporting website, the Ottawa GLAM Workbench ([fyi, repo here](https://github.com/XLabCU/GLAM-Ottawa)) and used the [My Binder](https://mybinder.org) service to make these live online.
