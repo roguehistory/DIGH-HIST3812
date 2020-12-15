@@ -15,7 +15,7 @@ We are going to use Jupyter Notebooks in this class. For a global overview of ho
 + Working with the Command Line (PC) or Terminal (Mac)
   - A walkthrough, by Chantal Brousseau
 
-+ [Introduction to Jupyter Notebooks](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/getting-started-with-jupyter.ipynb)
++ [Introduction to Jupyter Notebooks](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/getting-started-with-jupyter.ipynb); if that link breaks, launch [this](https://mybinder.org/v2/gh/shawngraham/tdm-notebooks/master) and then select the notebook from the list.
     - Courtesy Nathan Kelber and Ted Lawless for JSTOR Labs, CC-BY
     - This notebook introduces Jupyter notebooks and Python for absolute beginners.
     - Going further: Kelber and Lawless have a number of notebooks for working with JSTOR's 'Data for Research' dataset creation service; [find out more here](https://tdm-pilot.org/)
@@ -49,7 +49,8 @@ If the data is already made available on the open web, and it's in a reasonable 
 + Extract Illustrated Pages from the Hathi Trust & Internet Archive
   - This tutorial & associated notebooks are developed from Stephen Krewson's piece for the Programming Historian, ["Extracting Illustrated Pages from Digital Libraries with Python"](https://programminghistorian.org/en/lessons/extracting-illustrated-pages)
   - Try searching for images related to "Ottawa".
-  - [Hathi Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=hathitrust.ipynb); [Internet Archive Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=internetarchive.ipynb)
+  - [Hathi Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=hathitrust.ipynb);
+  - [Internet Archive Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=internetarchive.ipynb)
   - the json file for the notebooks is in the 'data' folder
 
 + Retrieve data from a 'datasette'-created API [launch binder here](http://mybinder.org/v2/gh/o-date/open-context-jupyter/master?urlpath=retrieving%20data%20from%20a%20datasette%20api.ipynb)

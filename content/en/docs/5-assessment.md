@@ -47,5 +47,5 @@ I reserve the right to adjust those percentages to take into account the particu
 + Discussion leader prep to be completed by the end of week 4
 + Collaborative reading - completed each week weeks 5 - 8
 + Jupyter Notebook - aim to complete by week 11; submit by end of week 12
-+ Notebook Reflection - due within 10 days after the end of term (term ends April 14).
++ Notebook Reflection - due by the end of the exam period (April 27th). But please try to be finished earlier than that.
 + see also the [page on the breakdown of dates and time estimates for the digital skills building aspects of the course](/building/tech-req-at-a-glance).

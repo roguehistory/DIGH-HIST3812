@@ -18,7 +18,7 @@ weight: -10
 ### Do
 
 1. Cleaning Data with R
-2. Publishing [Data with Datasette](/building/datasette-guidance/)
+2. Go further: put data online with [Datasette](/building/datasette-guidance/). Subset some data you've already collected from an Ottawa collection. Think about which columns of the data would be useful, which cases (rows) of the data might make a good collection. Don't include actual image files if you have them; instead use a link to the online location of the images. This will be more challenging than you might first expect, since it requires you to transform the data, documenting your decisions along the way, and then doing command line work to get it into online space you control. You might wish instead to treat this as more of a thought-experiment (noting the things you'd need to learn to achieve it).
 
 I don't expect you to do these on your own in splendid isolation; I also don't expect that everyone will complete them. Just push yourself until you get stuck, then talk about it / look for help in Discord.
 
