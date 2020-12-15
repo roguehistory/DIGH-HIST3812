@@ -30,10 +30,10 @@ Foundations: Cultural Heritage &amp;amp; Information  in which we lay the ground
       
       <item>
         <title>The Sequence of Technical Work</title>
-        <link>https://dhmuse.netlify.app/building/tech-req-at-a-gland/</link>
+        <link>https://dhmuse.netlify.app/building/tech-req-at-a-glance/</link>
         <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/building/tech-req-at-a-gland/</guid>
+        <guid>https://dhmuse.netlify.app/building/tech-req-at-a-glance/</guid>
         <description>This page gathers in one place the sequence of technical work I want you to do or attempt.
 You&amp;rsquo;ll see that some things are mission critical, while others are for you to push yourself.
 You are not expected to do all of this work in heroic isolation, or to suffer through these exercises not understanding why something doesn&amp;rsquo;t work. Collaborate. Talk to each other. Ask for help. Share screenshots. Divy up the task.</description>
@@ -108,18 +108,6 @@ Goal The goal here is to create a kind of guide to a selected notebook that show
         <guid>https://dhmuse.netlify.app/building/datasette-guidance/</guid>
         <description>Prerequisites You need to have the following installed on your machine:
  Python. I recommend using Anaconda to manage all of your python related work. Get Anaconda here and get the 3.7 version. In the instructions below, you will also be installing Homebrew if you are on a Mac. Both PC and Windows people will need to install the command line interface (CLI) for Heroku. I recommend Mac people install Homebrew so that they can download the CLI from their terminal (also, lots of useful software is distributed using Homebrew).</description>
-      </item>
-      
-      <item>
-        <title>Guidance for the Exit Ticket</title>
-        <link>https://dhmuse.netlify.app/building/et-guidance/</link>
-        <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/building/et-guidance/</guid>
-        <description>Photo by Agus Dietrich, unsplash.com
-Optional This is an optional exercise.
-Format The format of the exit ticket is up to you. Text, audio, video, multimedia: go wild.
-Content Collect evidence detailing your journey in this course, and use the frame, &amp;lsquo;So what is Cultural Heritage Informatics, anyway?&amp;rsquo; to situate your response. You might want to go back to the course description to see what you now think of that description.</description>
       </item>
       
     

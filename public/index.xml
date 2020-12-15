@@ -107,7 +107,7 @@ With tech work, if it doesn&amp;rsquo;t come together in about 30 minutes, it wo
         <guid>https://dhmuse.netlify.app/week/three/instructions/</guid>
         <description>In weeks 5 - 8, we are going to use Hypothesis as a platform to collaboratively explore the materials that you selected last week for your adventure.
 In order to do that, you need to prepare your materials. I am giving you two weeks to prepare for this. Consider the amount of work as being similar to what you would do for a very good seminar presentation.
-Goals for this week  Read and think about your selected materials carefully Prep them for the rest of us Improve your digital literacy  Listen Episode 3 of course podcast goes here</description>
+Goals for this week  Read and think about your selected materials carefully Prep them for the rest of us Improve your digital literacy  Listen  Episode 3 Script/Transcript</description>
       </item>
       
       <item>
@@ -118,7 +118,7 @@ Goals for this week  Read and think about your selected materials carefully Prep
         <guid>https://dhmuse.netlify.app/week/four/instructions/</guid>
         <description>In weeks 5 - 8, we are going to use Hypothesis as a platform to collaboratively explore the materials that you selected in week 3 for your adventure.
 In order to do that, you need to prepare your materials. I am giving you two weeks to prepare for this. Consider the amount of work as being similar to what you would do for a very good seminar presentation.
-Goals for this week  Read and think about your selected materials carefully Prep them for the rest of us Continue to improve your digital literacy  Listen Episode 4 of course podcast goes here</description>
+Goals for this week  Read and think about your selected materials carefully Prep them for the rest of us Continue to improve your digital literacy  Listen  Episode 4 Script/Transcript</description>
       </item>
       
       <item>
@@ -201,8 +201,8 @@ All of these notebooks will be gathered together by me into an &amp;lsquo;Ottawa
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/docs/4-schedule/</guid>
         <description>Check out the weekly instructions for detailed guidance for what you should be doing each week.
-TL;DR Remember to join our discord so we can actually have some social contact and remember that other breathing human beings are part of this course!
-The first third of this course is about getting started and choosing your own adventure through the materials I have already gathered for you. You will do a deep annotation on the materials.</description>
+I estimate that the technical aspects of this course (the computational notebooks) will take about 17 hours over the duration of the course; see the weekly breakdown at the Sequence of Technical Work page.
+TL;DR Remember to join our discord so we can actually have some social contact and remember that other breathing human beings are part of this course!</description>
       </item>
       
       <item>
@@ -212,8 +212,8 @@ The first third of this course is about getting started and choosing your own ad
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/docs/5-assessment/</guid>
         <description>There is no midterm. There is no final exam. You grade emerges from the following elements.
-  Discussion Leaders. Each student will be responsible to &amp;lsquo;page prep&amp;rsquo; cetain readings. Page prep involves:
- Creating the Reading Overview: a brief overview page note attached to the assigned reading using Hypothes.is page notes Creating the Reading Pre-seed: at least five rich annotations on the assigned readings In the relevant week, when the other students read the papers, the student responsible for &amp;lsquo;page prep&amp;rsquo; will engage and respond to the annotations of their peers in such a fashion as to dig deeper into the topic at hand    Collaborative Readers.</description>
+  Discussion Leaders. Each student will be responsible to &amp;lsquo;page prep&amp;rsquo; certain readings. Page prep involves:
+ Creating the Reading Overview: a brief overview page note attached to the assigned reading using Hypothes.is page notes Creating the Reading Pre-seed: at least five rich/deep annotations on your chosen readings/materials (five total, not five per document) In the relevant week, when the other students read the papers, the student responsible for &amp;lsquo;page prep&amp;rsquo; will engage and respond to the annotations/responses of their peers in such a fashion as to dig deeper into the topic at hand see the guidance note for more information    Collaborative Readers.</description>
       </item>
       
       <item>
@@ -230,10 +230,10 @@ Foundations: Cultural Heritage &amp;amp; Information  in which we lay the ground
       
       <item>
         <title>The Sequence of Technical Work</title>
-        <link>https://dhmuse.netlify.app/building/tech-req-at-a-gland/</link>
+        <link>https://dhmuse.netlify.app/building/tech-req-at-a-glance/</link>
         <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/building/tech-req-at-a-gland/</guid>
+        <guid>https://dhmuse.netlify.app/building/tech-req-at-a-glance/</guid>
         <description>This page gathers in one place the sequence of technical work I want you to do or attempt.
 You&amp;rsquo;ll see that some things are mission critical, while others are for you to push yourself.
 You are not expected to do all of this work in heroic isolation, or to suffer through these exercises not understanding why something doesn&amp;rsquo;t work. Collaborate. Talk to each other. Ask for help. Share screenshots. Divy up the task.</description>
@@ -363,18 +363,6 @@ Online Office Hours Dr. Graham will be present in our Discord server every Wedne
 Please feel free to reuse exercises in your own course materials, with a link back to the original page.
 Corrections, modifications, additions are welcome; please fork, and then modify accordingly. Once you&amp;rsquo;re ready, make a pull request. The original repository is at https://github.com/shawngraham/hist4916.
 All contributions will be duly credited.</description>
-      </item>
-      
-      <item>
-        <title>Guidance for the Exit Ticket</title>
-        <link>https://dhmuse.netlify.app/building/et-guidance/</link>
-        <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/building/et-guidance/</guid>
-        <description>Photo by Agus Dietrich, unsplash.com
-Optional This is an optional exercise.
-Format The format of the exit ticket is up to you. Text, audio, video, multimedia: go wild.
-Content Collect evidence detailing your journey in this course, and use the frame, &amp;lsquo;So what is Cultural Heritage Informatics, anyway?&amp;rsquo; to situate your response. You might want to go back to the course description to see what you now think of that description.</description>
       </item>
       
     

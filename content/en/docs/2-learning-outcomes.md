@@ -26,20 +26,20 @@ _This course is an opportunity to explore these questions; I do not know the ans
 1. Situate the practice, ethical, and intellectual trajectories of informatics within the cultural heritage field
 2. Implement and contribute to a ‘GLAM Workbench’, a series of interactive computational notebooks dealing with data from the Ottawa galleries-libraries-archives-museums sector
 3. Investigate open data sources, using the methods/techniques/perspectives of digital history and digital humanities
-4. Develop how-to for the workbench that communicate the results of these investigations as an act of public digital history
+4. Develop a how-to for the workbench that communicate the results of these investigations as an act of public digital history
 5. Given that this is an online course, another outcome will be your ability to conduct such research independently. However, no one operates in a vacuum; digital historians collaborate to troubleshoot or develop technologies, and through open practices to data sharing and reuse, learn to build upon each others’ work in a collaborative fashion.
 
 ### Real Names Policy
 
-You do not need to use your real name or identity on any public-facing work that you do in this course. Nor do you need to explain to me that you wish to use a pseudonym. It is sufficient that you send an email to me with the following message:
+You do not need to use your real name or identity on any public-facing work that you do in this course. Nor do you need to explain to me why you wish to use a pseudonym. It is sufficient that you send an email to me with the following message:
 
 ‘I would like to use the following username in all public-facing work: xxxxxxxx’
 
-…where xxxxx is the name you have selected. For safety’s sake, if you decide to use a pseudonym, do not use one that you have used on any other website or social media platform.
+…where xxxxx is the name you have selected. No questions asked. For safety’s sake, if you decide to use a pseudonym, do not use one that you have used on any other website or social media platform.
 
 ### When Life Intervenes
 
-There's nothing we can't roll with, in this class. That said, I can't help you if I don't know you need help, a breathing space, some direction. When something comes up, just let me know:
+There's nothing we can't roll with, in this class. That said, I can't help you if I don't know you need help, a breathing space, some direction. When something comes up, just let me know.
 
 {{< notice success "Important" >}} You don't have to share the details with me. It is enough for me to know that something has intervened. I trust you.
 {{< /notice >}}
