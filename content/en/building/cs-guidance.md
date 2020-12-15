@@ -1,6 +1,6 @@
 +++
 author = "Dr. Graham"
-title = "Guidance for your Notebook Documentation"
+title = "Guidance for your Notebook Reflection"
 date = "2020-02-02"
 description = "Expectations for content and format"
 +++
@@ -60,7 +60,7 @@ The two slide shows on the [Glam Workbench main page](https://glam-workbench.git
 
 ---
 
-9. When its ready, you can submit it [here](https://forms.gle/RZH4o6H18L1sMBz88)
+9. When its ready, put a copy of it in a github repo. You can submit the link to it [here](https://forms.gle/RZH4o6H18L1sMBz88) so I can keep track.
 
 ---
 

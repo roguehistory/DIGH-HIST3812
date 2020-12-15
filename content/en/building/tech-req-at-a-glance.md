@@ -85,7 +85,7 @@ We take a break from the tech aspect during weeks 5 to 8. However, _if_ you find
 
 ### Build Your Contribution to the Ottawa GLAM Workbench
 
- - Week 12: Build your official notebook for submission (code + commentary). It can reuse elements from your earlier experiments, or expand one of your earlier experiments. Write the documentation that contextualizes the notebook. Devote all of the time you have this week to this task. 5 hrs
+ - Week 12: Build your official notebook for submission (code + commentary). It can reuse elements from your earlier experiments, or expand one of your earlier experiments. Write the [Notebook Reflection](/building/cs-guidance) that contextualizes the notebook. Devote all of the time you have this week to this task. 5 hrs
 
 ---
 
