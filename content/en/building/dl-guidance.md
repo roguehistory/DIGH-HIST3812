@@ -44,7 +44,7 @@ Your whole-page annotation gives a global overview of why this document is impor
 
 1. You can make the annotation in text, or you can record yourself speaking about the document. If you choose the latter, you could make an 'unlisted' youtube video, and then paste the youtube URL into the annotation box. Hypothesis will embed the video directly. You could just record audio if you want; soundcloud.com can host those, and you could then just embed the link.
 
-2. use the THOMAS mnemonic to help you create a succinct overview (by [Danna Agmon](https://dannaagmon.files.wordpress.com/2014/08/thomas-a-useful-mnemonic-for-reading-historical-scholarship1.docx))
+2. When appropriate, use the THOMAS mnemonic to help you create a succinct overview (by [Danna Agmon](https://dannaagmon.files.wordpress.com/2014/08/thomas-a-useful-mnemonic-for-reading-historical-scholarship1.docx)). In some cases, only parts of the mnemonic will be useful.
 
 THOMAS stands for '**T**opic **H**istoriography **O**rganization **M**ethod **A**rgument **S**o what'
 

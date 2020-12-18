@@ -10,7 +10,9 @@ description = "A non-exhaustive, non-canonical list of readings that you might d
 
 _Photo by Jez Timms, [unsplash.com](https://unsplash.com/photos/8muUTAmcWU4)_
 
-The possible readings are grouped under four broad headings. They represent merely a starting point, not a canon.
+The possible readings are grouped under four broad headings. They represent merely a starting point, not a canon. This list is non-exhaustive, non-canonical, and is heavily tilted towards museums. Let's fix that balance.
+
+If a pdf is online, and you are able to open it in your browser, you should be able to use Hypothes.is on it. Sometimes you won't be able to. In those cases, get in touch with me right away so we can figure something out.
 
 ## Foundations: Cultural Heritage & Information
 >in which we lay the groundwork for our understanding of CHI, its larger contexts, and what the major research questions are.
@@ -24,6 +26,8 @@ The possible readings are grouped under four broad headings. They represent mere
 + Daniel Buren, 1973. “Function of the Museum,” Artforum XII, September 1973, 68. https://tinyurl.com/ydbl2rwn http://faculty.winthrop.edu/stockk/contemporary%20art/Buren%20museum.pdf
 
 + Hooper-Greenhill, Eilean. 1990. “The Space of the Museum,” Continuum: The Australian Journal of Media and Culture 3, no. 1 (1990), http://wwwmcc.murdoch.edu.au/ReadingRoom/3.1/Hooper.html
+
++ Hudson, David J. 2016. "On Dark Continents and Digital Divides: Information Inequality and the Reproduction of Racial Otherness in Library and Information Studies" https://atrium.lib.uoguelph.ca/xmlui/handle/10214/9862
 
 #### 1.2 Legal, Ethical Frameworks for Cultural Heritage
 
@@ -67,6 +71,8 @@ The possible readings are grouped under four broad headings. They represent mere
 + Houghton, Bernadette. 2016. Preservation Challenges in the Digital Age. D-Lib Magazine July/August 2016. 22:7/8 http://www.dlib.org/dlib/july16/houghton/07houghton.html
 
 + CHIN Digital Preservation Case Study – 8th Hussars Museum. Government of Canada. https://www.canada.ca/en/heritage-information-network/services/digital-preservation/hussars-museum-study.html
+
++ Digital Curation Decision Guide. NDSA. https://osf.io/q8c47/  
 
 #### 2.3 Interpretation
 
@@ -127,11 +133,17 @@ The possible readings are grouped under four broad headings. They represent mere
 
 + Rao, Seema. 2017. Interstitial Spaces: Social Media As A Tool For Community Engagement Museums and the Web https://mw17.mwconf.org/paper/interstitial-spaces-social-media-as-a-tool-for-community-engagement/
 
++ Stewart, Brenton, and Jessie Walker. 2018. "Build It and They Will Come? Patron Engagement Via Twitter at Historically Black College and University Libraries" https://doi.org/10.1016/j.acalib.2017.09.016
+
++ Shaffer, Elizabeth. 2011 'Developing an Organisational Information Policy to Mitigate the Risks Posed by Social Media Technologies'. Archives and Manuscripts, 39.2 https://publications.archivists.org.au/index.php/asa/article/view/10163
+
 #### 3.2 Web Archives
 
 + Coffey, Mark, Alan Watts, Duane Degler. 2018. Archives strengthening historical narratives: Sharing digital and linked data resources for broader reach and sustainability. Museums and the Web. https://mw18.mwconf.org/paper/archives-strengthening-historical-narrative-sharing-digital-and-linked-data-resources-for-broader-reach-and-sustainability
 
 + Ian Milligan, Nathalie Casemajor, Samantha Fritz, Jimmy Lin, Nick Ruest, Matthew S. Weber, and Nicholas Worby. 2019. “Building Community and Tools for Analyzing Web Archives through Datathons.”” Proceedings of the ACM/IEEE Joint Conference on Digital Libraries, 19: 265-268. https://cs.uwaterloo.ca/~jimmylin/publications/Milligan_etal_JCDL2019.pdf
+
++ Digital Blackness in the Archive: A Documenting the Now Symposium. 2017. https://www.docnow.io/meetings/stl-2017/
 
 #### 3.3 Computational Creativity
 

@@ -8,7 +8,8 @@ weight: -10
 
 ### Goals for this week
 
-1. Pushing data to the web
+1. Cleaning data to make it useable
+2. Pushing data to the web
 
 ### Listen
 
