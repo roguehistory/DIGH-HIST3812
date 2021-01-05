@@ -8,7 +8,7 @@
     <language>en</language>
     <managingEditor>shawn.graham@carleton.ca (Dr. Shawn Graham)</managingEditor>
     <webMaster>shawn.graham@carleton.ca (Dr. Shawn Graham)</webMaster>
-    <copyright>Original content by Shawn Graham licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;. &lt;br&gt;Site logo &#39;archaeological information&#39; by corpus delicti, GR, The Noun Project.</copyright>
+    <copyright>Original content by Shawn Graham licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;. &lt;br&gt;Site logo a combination of &#39;museum&#39; by iconsphere and &#39;computer&#39; by Chunk Icons, The Noun Project.</copyright>
     <lastBuildDate>Sun, 26 Jan 2020 04:15:05 +0900</lastBuildDate>
     
         <atom:link href="https://dhmuse.netlify.app/index.xml" rel="self" type="application/rss+xml" />
@@ -84,9 +84,8 @@ Do  Follow along the Programming Historian Tutorial on visualizing data; there i
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/week/ten/instructions/</guid>
-        <description>Goals for this week  Pushing data to the web  Listen 6th episode of the podcast
-Do  Cleaning Data with R Publishing Data with Datasette  I don&amp;rsquo;t expect you to do these on your own in splendid isolation; I also don&amp;rsquo;t expect that everyone will complete them. Just push yourself until you get stuck, then talk about it / look for help in Discord.
-With tech work, if it doesn&amp;rsquo;t come together in about 30 minutes, it won&amp;rsquo;t come in an hour.</description>
+        <description>Goals for this week  Cleaning data to make it useable Pushing data to the web  Listen 6th episode of the podcast
+Do  Cleaning Data with R Go further: put data online with Datasette. Subset some data you&amp;rsquo;ve already collected from an Ottawa collection. Think about which columns of the data would be useful, which cases (rows) of the data might make a good collection. Don&amp;rsquo;t include actual image files if you have them; instead use a link to the online location of the images.</description>
       </item>
       
       <item>
@@ -128,7 +127,7 @@ Goals for this week  Read and think about your selected materials carefully Prep
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/week/eleven/instructions/</guid>
         <description>Goals for this week  Some more data visualization Other forms of &amp;lsquo;experiencing&amp;rsquo; data  Listen 7th episode of the podcast
-Do  Make a new notebook (or modify an existing one) to load data from the Datasette you pushed to Heroku. Visualize the provenance of your data using Leaflet (SG memo: Rachel Opitz workbooks) Or go for something complete different; try out some sonification on your data  I don&amp;rsquo;t expect you to do these on your own in splendid isolation; I also don&amp;rsquo;t expect that everyone will complete them.</description>
+Do  Make a new notebook (or modify an existing one) to load data from a new datasource. Visualize the provenance of your data using Leaflet (SG memo: Rachel Opitz workbooks) Or go for something complete different; try out some sonification on your data  I don&amp;rsquo;t expect you to do these on your own in splendid isolation; I also don&amp;rsquo;t expect that everyone will complete them.</description>
       </item>
       
       <item>
@@ -137,7 +136,7 @@ Do  Make a new notebook (or modify an existing one) to load data from the Datase
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/week/twelve/instructions/</guid>
-        <description>Goals for this week  Finish crafting your notebook; I will collate these into a OttawaGLAM Workbench. Write up documentation for your notebook; the &amp;lsquo;notebook reflection&amp;rsquo; aka the &amp;lsquo;case study&amp;rsquo;.  Remember to consult the Guidance on Building Your Own Notebook and the Guidance for your Notebook Documentation. TALK about what you&amp;rsquo;re doing in Discord; ask for help from others or from me. I am happy for you to collaborate on both these tasks; just talk to me so that we can be clear about expectations.</description>
+        <description>Goals for this week  Finish crafting your notebook; I will collate these into a OttawaGLAM Workbench. Write up documentation for your notebook; the &amp;lsquo;notebook reflection&amp;rsquo; aka the &amp;lsquo;case study&amp;rsquo;.  Remember to consult the Guidance on Building Your Own Notebook and the Guidance for your Notebook Documentation, and the Sequence of Technical Work document. TALK about what you&amp;rsquo;re doing in Discord; ask for help from others or from me. I am happy for you to collaborate on both these tasks; just talk to me so that we can be clear about expectations.</description>
       </item>
       
       <item>
@@ -217,15 +216,24 @@ TL;DR Remember to join our discord so we can actually have some social contact a
       </item>
       
       <item>
+        <title>Installing Jupyter</title>
+        <link>https://dhmuse.netlify.app/building/jupyter/</link>
+        <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/jupyter/</guid>
+        <description>Step 1 You need to make yourself familiar with the command line. There are many such tutorials out there; I encourage you to follow this one from Melanie Walsh&amp;rsquo;s Intro to Cultural Analytics class
+Step 2 Anaconda is a package of different programming languages and utilities for &amp;lsquo;scientific computing&amp;rsquo;. Go to the installation page and find the version that is appropriate for your machine. Download and then run the installer.</description>
+      </item>
+      
+      <item>
         <title>Our Library</title>
         <link>https://dhmuse.netlify.app/building/library/</link>
         <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/building/library/</guid>
         <description>Photo by Jez Timms, unsplash.com
-The possible readings are grouped under four broad headings. They represent merely a starting point, not a canon.
-Foundations: Cultural Heritage &amp;amp; Information  in which we lay the groundwork for our understanding of CHI, its larger contexts, and what the major research questions are.
- 1.1 Cultural Heritage and its Institutions   Abt, Jeffrey. 2008. ‘The Origins of the Public Museum’ in Sharon Macdonald, ed.</description>
+The possible readings are grouped under four broad headings. They represent merely a starting point, not a canon. This list is non-exhaustive, non-canonical, and is heavily tilted towards museums. Let&amp;rsquo;s fix that balance.
+If a pdf is online, and you are able to open it in your browser, you should be able to use Hypothes.is on it. Sometimes you won&amp;rsquo;t be able to. In those cases, get in touch with me right away so we can figure something out.</description>
       </item>
       
       <item>
@@ -240,7 +248,7 @@ You are not expected to do all of this work in heroic isolation, or to suffer th
       </item>
       
       <item>
-        <title>Computational Notebooks List</title>
+        <title>Computational Notebooks Resources</title>
         <link>https://dhmuse.netlify.app/building/technotes-toc/</link>
         <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
@@ -275,7 +283,7 @@ The seminar discussions all happen through the medium of Hypothes.is annotations
         <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/building/nb-guidance/</guid>
-        <description>Your Notebook Is Due &amp;hellip;  notebook needs to be thoroughly commented, explaining what is going on in each cell, and explain how it is to be used.  </description>
+        <description>Goal The goal of your notebook is to produce a computational document that engages with GLAM data from Ottawa. It would be helpful - but not required - to coordinate with your peers so that we have a wide variety of final notebooks. But even if two people created notebooks working with the same data, you would in all likelihood go about it in different ways, and so a user/reader would still learn from your example.</description>
       </item>
       
       <item>
@@ -300,14 +308,12 @@ Read completely through before trying to set things up.
       </item>
       
       <item>
-        <title>Guidance for your Notebook Documentation</title>
+        <title>Guidance for your Notebook Reflection</title>
         <link>https://dhmuse.netlify.app/building/cs-guidance/</link>
         <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/building/cs-guidance/</guid>
-        <description>Your Case Study Is Due at the End of Week 12 &amp;hellip;but I will accept it up to a week after the final day of the Winter term (which this year is April 14; thus, April 21st.)
-I will bundle everyone&amp;rsquo;s notebooks and documentation together into a supporting website, the Ottawa GLAM Workbench (fyi, repo here) and used the My Binder service to make these live online.
-Goal The goal here is to create a kind of guide to a selected notebook that shows what the notebook can do.</description>
+        <description>Goal The goal here is to create a kind of guide to a selected notebook that shows what the notebook can do. It walks the user through the notebook, how to use it, perhaps visualize results or ways to extend it, in order to suggest questions a user might want to pose, and why it might matter. That last point is the most &amp;lsquo;case study&amp;rsquo;-ish bit. By providing guidance on the &amp;lsquo;so what&amp;rsquo; question, you will engage with the literature or issues and provide context for non-dh-minded folk should take this work seriously.</description>
       </item>
       
       <item>

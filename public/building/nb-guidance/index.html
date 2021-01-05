@@ -1080,6 +1080,29 @@
   
   
   <li class="">
+    <a href="https://dhmuse.netlify.app/building/jupyter/"
+      class="menu__title ">Installing Jupyter</a>
+  </li>
+  
+
+    
+      
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  <li class="">
     <a href="https://dhmuse.netlify.app/building/library/"
       class="menu__title ">Our Library</a>
   </li>
@@ -1127,7 +1150,7 @@
   
   <li class="">
     <a href="https://dhmuse.netlify.app/building/technotes-toc/"
-      class="menu__title ">Computational Notebooks List</a>
+      class="menu__title ">Computational Notebooks Resources</a>
   </li>
   
 
@@ -1242,7 +1265,7 @@
   
   <li class="">
     <a href="https://dhmuse.netlify.app/building/cs-guidance/"
-      class="menu__title ">Guidance for your Notebook Documentation</a>
+      class="menu__title ">Guidance for your Notebook Reflection</a>
   </li>
   
 
@@ -1618,6 +1641,29 @@
   
   
   <li class="">
+    <a href="https://dhmuse.netlify.app/building/jupyter/"
+      class="menu__title ">Installing Jupyter</a>
+  </li>
+  
+
+    
+      
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  <li class="">
     <a href="https://dhmuse.netlify.app/building/library/"
       class="menu__title ">Our Library</a>
   </li>
@@ -1665,7 +1711,7 @@
   
   <li class="">
     <a href="https://dhmuse.netlify.app/building/technotes-toc/"
-      class="menu__title ">Computational Notebooks List</a>
+      class="menu__title ">Computational Notebooks Resources</a>
   </li>
   
 
@@ -1780,7 +1826,7 @@
   
   <li class="">
     <a href="https://dhmuse.netlify.app/building/cs-guidance/"
-      class="menu__title ">Guidance for your Notebook Documentation</a>
+      class="menu__title ">Guidance for your Notebook Reflection</a>
   </li>
   
 
@@ -1836,10 +1882,63 @@
     <p><p class="md__image">
   <img src="/images/paper-notebook.png" alt=""  />
 </p></p>
-<h2 id="your-notebook-is-due-">Your Notebook Is Due &hellip;</h2>
+<h2 id="goal">Goal</h2>
+<p>The goal of your notebook is to produce a computational document that engages with GLAM data from Ottawa. It would be helpful - but not required - to coordinate with your peers so that we have a wide variety of final notebooks. But even if two people created notebooks working with the same data, you would in all likelihood go about it in different ways, and so a user/reader would still learn from your example.</p>
+<p><strong>The notebook should do something <em>meaningful</em> with the data, with two examples of &lsquo;something meaningful&rsquo; within a single notebook, from the same data source:</strong></p>
 <ul>
-<li>notebook needs to be thoroughly commented, explaining what is going on in each cell, and explain how it is to be used.</li>
+<li>What constitutes a &lsquo;thing&rsquo;? It could be a visualization of a certain subset of information. It could show how to map the material. It might make the material more easily available. It might do some sort of creative remixing. Other things are possible. See the <a href="/building/technotes-toc">examples in the wild</a>.</li>
+<li>What constitutes &lsquo;meaningful&rsquo;? Well, that&rsquo;s an argument you would make in full in your <a href="/building/cs-guidance">Notebook Reflection</a>. But you&rsquo;d also include a briefer indication within your notebook as well, summarizing what the notebook will do, what data it will work with, and where a user/reader might like to expand or change things or push further.</li>
 </ul>
+<h2 id="requirements">Requirements</h2>
+<ol>
+<li>The notebook will have the following subheadings</li>
+</ol>
+<ul>
+<li><code>Introduction</code> ~ This section will introduce your goals for the notebook, and briefly situate what your notebook does and why it matters.</li>
+<li><code>Data</code> ~ This section will discuss the source of your data, is strengths / limitations, and will include the necessary code to load the data up. The discussion here may be brief; you will want to address the same questions in more depth in your Notebook Reflection.
+<ul>
+<li>It may well be that you are loading data from some other website; it could be that you&rsquo;ve already downloaded, subsetted, and cleaned data from somewhere; in this case, you&rsquo;d be loading the data from your own github repository or Datasette on Heroku.</li>
+</ul>
+</li>
+<li>The body of your notebook will have subheadings as appropriate to the tasks you are doing. Each subheading should also include a text block that explains the overall task being done in the section.</li>
+<li>Code should be commented thoroughly.</li>
+<li><code>Conclusion</code> ~ This section will summarize what the reader/user has just accomplished, pointing out those points/places where they might wish to expand or modify to work with their own data.</li>
+<li><code>References</code> ~ Citations &amp; links to anything you drew upon to build the notebook.</li>
+<li><code>Further Readings</code> ~ links to three resources that will help your reader take your example further or think about it more deeply.</li>
+</ul>
+<ol start="2">
+<li>
+<p>Text blocks should be written using Markdown conventions. Here&rsquo;s a <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">cheatsheet</a>.</p>
+</li>
+<li>
+<p>A copy of your notebook should be kept in a Github repo. This repo may be public or private. If it is private, share it with user <code>shawn.graham</code>.</p>
+</li>
+</ol>
+<h2 id="other-considerations">Other Considerations</h2>
+<ol>
+<li>You should probably be writing the notebook on your own machine, having already installed python and jupyter notebooks locally. You would then lodge copies of your notebook in a repo on Github you&rsquo;ve created for the task, as you go. These copies can then be launched using <a href="https://mybinder.org" target="_blank">Binder</a> for live engagement.</li>
+</ol>
+<ul>
+<li>Alternatively, you can launch this <a href="http://mybinder.org/v2/gh/binder-examples/r_with_python/master" target="_blank">demo from Binder</a> which is preloaded with Python and R. It might take a few minutes to launch. You can create a new notebook by hitting &lsquo;new&rsquo; then under &lsquo;notebook&rsquo; select python 3:</li>
+</ul>
+<p><p class="md__image">
+  <img src="/images/new-notebook.png" alt=""  />
+</p></p>
+<div class="alert alert-info" role="alert" data-dir="ltr">Download your work <strong>TO YOUR OWN MACHINE</strong> if you are using an online binder. The Binder service can time-out after a certain amount of inactivity. If you just hit &lsquo;save&rsquo;, it&rsquo;s only saving on the temporary image at Binder and will be deleted. Hit save, then download from the file menu.</div>
+<ul>
+<li>Another alternative: if you have a google account, you can use <a href="/colab.research.google.com/">the Google colab service</a> to create your notebooks. These can be saved directly to your own gdrive or to your github account, as well as locally. Again, this service will time-out so it is important to save your work frequently to your own machine or gdrive. <strong>An advantage</strong> of using Colab is that it will give you access to a GPU, which is handy if you are doing anything computationally heavy, like image recognition.</li>
+</ul>
+<ol start="2">
+<li>You may wish to collaborate with one of your peers.</li>
+</ol>
+<ul>
+<li>This collaboration could take the form of co-authoring the notebook and the notebook reflection; in this case, you will also be required to discuss the nature of your collaboration, who did what and why and was this equitable, how you managed conflict, how you organized your time, and what lessons your collaboration might imply for GLAM organizations.</li>
+<li>Alternatively, you could coordinate your notebooks to work with the same data source to highlight different but complementary aspects. You would then work out an ideal sequence for how the user/reader might engage with the materials. What perspective emerges on the data by using your notebooks?</li>
+<li>I&rsquo;m open to other ideas; talk to me.</li>
+</ul>
+<ol start="3">
+<li>Even if you&rsquo;re not formally collaborating with anyone, <strong>talk about what&rsquo;s working, what isn&rsquo;t, and what troubles you&rsquo;ve run into</strong> in our Discord space. Help each other out. Brainstorm. Share. Kvetch. You are under no obligation to do this work in splendid isolation.</li>
+</ol>
 
   </article>
 </div>
@@ -1878,7 +1977,9 @@
   <div class="toc__body">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#your-notebook-is-due-">Your Notebook Is Due &hellip;</a></li>
+    <li><a href="#goal">Goal</a></li>
+    <li><a href="#requirements">Requirements</a></li>
+    <li><a href="#other-considerations">Other Considerations</a></li>
   </ul>
 </nav>
   </div>
@@ -2120,7 +2221,7 @@
       <div class="lmr">
         
           <p class="caption">
-            Original content by Shawn Graham licensed under a <a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'>Creative Commons Attribution-NonCommercial 4.0 International License</a><br><a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons License logo' style='border-width:0' src='https://i.creativecommons.org/l/by-nc/4.0/88x31.png' /></a>. <br>Site logo &lsquo;archaeological information&rsquo; by corpus delicti, GR, The Noun Project.
+            Original content by Shawn Graham licensed under a <a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'>Creative Commons Attribution-NonCommercial 4.0 International License</a><br><a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons License logo' style='border-width:0' src='https://i.creativecommons.org/l/by-nc/4.0/88x31.png' /></a>. <br>Site logo a combination of &lsquo;museum&rsquo; by iconsphere and &lsquo;computer&rsquo; by Chunk Icons, The Noun Project.
           </p>
           
               <p class="caption">Powered by <a href="https://gohugo.io/" rel="noreferrer">Hugo</a> and the <a href="https://github.com/zzossig/hugo-theme-zdoc" rel="noreferrer">zDoc theme</a></p>

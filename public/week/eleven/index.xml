@@ -8,7 +8,7 @@
     <language>en</language>
     <managingEditor>shawn.graham@carleton.ca (Dr. Shawn Graham)</managingEditor>
     <webMaster>shawn.graham@carleton.ca (Dr. Shawn Graham)</webMaster>
-    <copyright>Original content by Shawn Graham licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;. &lt;br&gt;Site logo &#39;archaeological information&#39; by corpus delicti, GR, The Noun Project.</copyright>
+    <copyright>Original content by Shawn Graham licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;. &lt;br&gt;Site logo a combination of &#39;museum&#39; by iconsphere and &#39;computer&#39; by Chunk Icons, The Noun Project.</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 00:10:51 +0900</lastBuildDate>
     
         <atom:link href="https://dhmuse.netlify.app/week/eleven/index.xml" rel="self" type="application/rss+xml" />
@@ -23,7 +23,7 @@
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/week/eleven/instructions/</guid>
         <description>Goals for this week  Some more data visualization Other forms of &amp;lsquo;experiencing&amp;rsquo; data  Listen 7th episode of the podcast
-Do  Make a new notebook (or modify an existing one) to load data from the Datasette you pushed to Heroku. Visualize the provenance of your data using Leaflet (SG memo: Rachel Opitz workbooks) Or go for something complete different; try out some sonification on your data  I don&amp;rsquo;t expect you to do these on your own in splendid isolation; I also don&amp;rsquo;t expect that everyone will complete them.</description>
+Do  Make a new notebook (or modify an existing one) to load data from a new datasource. Visualize the provenance of your data using Leaflet (SG memo: Rachel Opitz workbooks) Or go for something complete different; try out some sonification on your data  I don&amp;rsquo;t expect you to do these on your own in splendid isolation; I also don&amp;rsquo;t expect that everyone will complete them.</description>
       </item>
       
     

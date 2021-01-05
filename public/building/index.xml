@@ -8,7 +8,7 @@
     <language>en</language>
     <managingEditor>shawn.graham@carleton.ca (Dr. Shawn Graham)</managingEditor>
     <webMaster>shawn.graham@carleton.ca (Dr. Shawn Graham)</webMaster>
-    <copyright>Original content by Shawn Graham licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;. &lt;br&gt;Site logo &#39;archaeological information&#39; by corpus delicti, GR, The Noun Project.</copyright>
+    <copyright>Original content by Shawn Graham licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;. &lt;br&gt;Site logo a combination of &#39;museum&#39; by iconsphere and &#39;computer&#39; by Chunk Icons, The Noun Project.</copyright>
     <lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://dhmuse.netlify.app/building/index.xml" rel="self" type="application/rss+xml" />
@@ -17,15 +17,24 @@
     
       
       <item>
+        <title>Installing Jupyter</title>
+        <link>https://dhmuse.netlify.app/building/jupyter/</link>
+        <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/jupyter/</guid>
+        <description>Step 1 You need to make yourself familiar with the command line. There are many such tutorials out there; I encourage you to follow this one from Melanie Walsh&amp;rsquo;s Intro to Cultural Analytics class
+Step 2 Anaconda is a package of different programming languages and utilities for &amp;lsquo;scientific computing&amp;rsquo;. Go to the installation page and find the version that is appropriate for your machine. Download and then run the installer.</description>
+      </item>
+      
+      <item>
         <title>Our Library</title>
         <link>https://dhmuse.netlify.app/building/library/</link>
         <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/building/library/</guid>
         <description>Photo by Jez Timms, unsplash.com
-The possible readings are grouped under four broad headings. They represent merely a starting point, not a canon.
-Foundations: Cultural Heritage &amp;amp; Information  in which we lay the groundwork for our understanding of CHI, its larger contexts, and what the major research questions are.
- 1.1 Cultural Heritage and its Institutions   Abt, Jeffrey. 2008. ‘The Origins of the Public Museum’ in Sharon Macdonald, ed.</description>
+The possible readings are grouped under four broad headings. They represent merely a starting point, not a canon. This list is non-exhaustive, non-canonical, and is heavily tilted towards museums. Let&amp;rsquo;s fix that balance.
+If a pdf is online, and you are able to open it in your browser, you should be able to use Hypothes.is on it. Sometimes you won&amp;rsquo;t be able to. In those cases, get in touch with me right away so we can figure something out.</description>
       </item>
       
       <item>
@@ -40,7 +49,7 @@ You are not expected to do all of this work in heroic isolation, or to suffer th
       </item>
       
       <item>
-        <title>Computational Notebooks List</title>
+        <title>Computational Notebooks Resources</title>
         <link>https://dhmuse.netlify.app/building/technotes-toc/</link>
         <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
@@ -75,7 +84,7 @@ The seminar discussions all happen through the medium of Hypothes.is annotations
         <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/building/nb-guidance/</guid>
-        <description>Your Notebook Is Due &amp;hellip;  notebook needs to be thoroughly commented, explaining what is going on in each cell, and explain how it is to be used.  </description>
+        <description>Goal The goal of your notebook is to produce a computational document that engages with GLAM data from Ottawa. It would be helpful - but not required - to coordinate with your peers so that we have a wide variety of final notebooks. But even if two people created notebooks working with the same data, you would in all likelihood go about it in different ways, and so a user/reader would still learn from your example.</description>
       </item>
       
       <item>
@@ -90,14 +99,12 @@ Read completely through before trying to set things up.
       </item>
       
       <item>
-        <title>Guidance for your Notebook Documentation</title>
+        <title>Guidance for your Notebook Reflection</title>
         <link>https://dhmuse.netlify.app/building/cs-guidance/</link>
         <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/building/cs-guidance/</guid>
-        <description>Your Case Study Is Due at the End of Week 12 &amp;hellip;but I will accept it up to a week after the final day of the Winter term (which this year is April 14; thus, April 21st.)
-I will bundle everyone&amp;rsquo;s notebooks and documentation together into a supporting website, the Ottawa GLAM Workbench (fyi, repo here) and used the My Binder service to make these live online.
-Goal The goal here is to create a kind of guide to a selected notebook that shows what the notebook can do.</description>
+        <description>Goal The goal here is to create a kind of guide to a selected notebook that shows what the notebook can do. It walks the user through the notebook, how to use it, perhaps visualize results or ways to extend it, in order to suggest questions a user might want to pose, and why it might matter. That last point is the most &amp;lsquo;case study&amp;rsquo;-ish bit. By providing guidance on the &amp;lsquo;so what&amp;rsquo; question, you will engage with the literature or issues and provide context for non-dh-minded folk should take this work seriously.</description>
       </item>
       
       <item>

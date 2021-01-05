@@ -8,7 +8,7 @@
     <language>en</language>
     <managingEditor>shawn.graham@carleton.ca (Dr. Shawn Graham)</managingEditor>
     <webMaster>shawn.graham@carleton.ca (Dr. Shawn Graham)</webMaster>
-    <copyright>Original content by Shawn Graham licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;. &lt;br&gt;Site logo &#39;archaeological information&#39; by corpus delicti, GR, The Noun Project.</copyright>
+    <copyright>Original content by Shawn Graham licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;. &lt;br&gt;Site logo a combination of &#39;museum&#39; by iconsphere and &#39;computer&#39; by Chunk Icons, The Noun Project.</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 00:10:51 +0900</lastBuildDate>
     
         <atom:link href="https://dhmuse.netlify.app/week/ten/index.xml" rel="self" type="application/rss+xml" />
@@ -22,9 +22,8 @@
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/week/ten/instructions/</guid>
-        <description>Goals for this week  Pushing data to the web  Listen 6th episode of the podcast
-Do  Cleaning Data with R Publishing Data with Datasette  I don&amp;rsquo;t expect you to do these on your own in splendid isolation; I also don&amp;rsquo;t expect that everyone will complete them. Just push yourself until you get stuck, then talk about it / look for help in Discord.
-With tech work, if it doesn&amp;rsquo;t come together in about 30 minutes, it won&amp;rsquo;t come in an hour.</description>
+        <description>Goals for this week  Cleaning data to make it useable Pushing data to the web  Listen 6th episode of the podcast
+Do  Cleaning Data with R Go further: put data online with Datasette. Subset some data you&amp;rsquo;ve already collected from an Ottawa collection. Think about which columns of the data would be useful, which cases (rows) of the data might make a good collection. Don&amp;rsquo;t include actual image files if you have them; instead use a link to the online location of the images.</description>
       </item>
       
     
