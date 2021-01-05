@@ -72,6 +72,7 @@ We take a break from the tech aspect during weeks 5 to 8. However, _if_ you find
 ---
 
 - Week 10: Cleaning Data with R. 2 hrs
+- Week 10: Working with tabular data using [Walsh's tutorial](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Data-Analysis.html). 2 hrs
 
 **If you're feeling good about things**: Push yourself, and try pushing some of your data online with the [datasette](/building/datasette-guidance). 2 hrs. Not a requirement. Don't put images online; use the links to the image instead.
 
@@ -89,4 +90,4 @@ We take a break from the tech aspect during weeks 5 to 8. However, _if_ you find
 
 ---
 
-My estimate of the total time on tech tasks (not counting the 'push yourself' materials) over the 12 weeks: 17.25 hrs.
+My estimate of the total time on tech tasks (not counting the 'push yourself' materials) over the 12 weeks: 19.25 hrs.
