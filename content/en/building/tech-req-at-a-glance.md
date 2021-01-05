@@ -58,7 +58,7 @@ Please complete, and understand:
 
 - Week 4: Explore the two notebooks from the National Library of Scotland [(1)](https://data.nls.uk/tools/jupyter-notebooks/exploring-a-medical-history-of-british-india/) [(2)](https://data.nls.uk/tools/jupyter-notebooks/exploring-edinburgh-ladies-debating-society/); copy to your own Github; see if you can launch from your own repo using the Binder service. 45 min.  **If you're feeling good about this**: Push yourself, and modify (and save) the code to visualize some other aspect of the data: 45 min.
 
-- Week 4: Build a pesonal dataset of materials from the Museum of History using the [simple scraper notebook](https://dhmuse.netlify.app/notebooks/simple-scraper). 1.5 hrs. Going further: subset the data you collect, and push it online for your own use, with [datasette](/building/datasette-guidance). Don't put images online; use the links to the image instead. 1.5 hrs
+- Week 4: Build a pesonal dataset of materials from the Museum of History using the [simple scraper notebook](https://dhmuse.netlify.app/notebooks/simple-scraper). 1.5 hrs. Going further: try to build a new scraper from scratch on a webpage of your choice; this tutorial from [Melanie Walsh's class](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Web-Scraping-Part1.html) will walk you through that process. 1.5 hrs
 
 {{< notice success "Important" >}}
 We take a break from the tech aspect during weeks 5 to 8. However, _if_ you find yourself with time and you are so inclined, I would encourage you to practice what you've already learned, and see if you can push the examples you've encountered further. 30 - 45 minutes per week say? You might wish to make a start on the next technical stuff now, if you know that your other courses will be heavy towards the end of term.
@@ -73,7 +73,7 @@ We take a break from the tech aspect during weeks 5 to 8. However, _if_ you find
 
 - Week 10: Cleaning Data with R. 2 hrs
 
-**If you're feeling good about things**: Push yourself, and try pushing some of your data online with the Datasette package. 2 hrs. Not a requirement
+**If you're feeling good about things**: Push yourself, and try pushing some of your data online with the [datasette](/building/datasette-guidance). 2 hrs. Not a requirement. Don't put images online; use the links to the image instead.
 
 ---
 
