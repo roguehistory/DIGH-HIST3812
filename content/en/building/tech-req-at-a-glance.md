@@ -71,7 +71,7 @@ We take a break from the tech aspect during weeks 5 to 8. However, _if_ you find
 
 ---
 
-- Week 10: Cleaning Data with R. 2 hrs
+- Week 10: [Cleaning Data with R](https://notebooks.gesis.org/binder/jupyter/user/chantalmb-cleaning-data-r-a7752bq6/notebooks/clean-data-r.ipynb). 2 hrs
 - Week 10: Working with tabular data using [Walsh's tutorial](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Data-Analysis.html). 2 hrs
 
 **If you're feeling good about things**: Push yourself, and try pushing some of your data online with the [datasette](/building/datasette-guidance). 2 hrs. Not a requirement. Don't put images online; use the links to the image instead.
