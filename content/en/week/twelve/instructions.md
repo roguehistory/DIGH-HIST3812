@@ -21,7 +21,7 @@ Listen to the final episode of the podcast
 ### Do
 
 1. Submit your jupyter notebook by logging it [here](https://forms.gle/RZH4o6H18L1sMBz88) at the end of this week.
-1. Write up a notebook reflection document that _contextualizes_ what your notebook does, and how it fits into broader trends within the GLAM sector. See [the guidance](building/cs-guidance). This will be due no later than 10 days after the end of term, please.
+1. Write up a notebook reflection document that _contextualizes_ what your notebook does, and how it fits into broader trends within the GLAM sector. See [the guidance](building/cs-guidance). This will be due at the end of the exam period, but if you can please submit as early as possible.
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}
