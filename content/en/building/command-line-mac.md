@@ -1,7 +1,7 @@
 +++
 author = "Chantal Brousseau"
 title = "Using the Command Line on Mac OS"
-date = "2020-12-10"
+date = "2020-01-10"
 description = "A guide to getting started with the command line on Mac OS."
 +++
 
@@ -80,7 +80,7 @@ For the next step, we're just going to clean things up by typing `clear`. This g
 
 ## Step 3: Homebrew
 
-Okay so as macOS users, we're lucky in the sense that we have a good package manager called **Homebrew** that can be used in the command line, and this makes a lot of the software that we need for this course very easy and quick to install! 
+Okay so as macOS users, we're lucky in the sense that we have a good package manager called **Homebrew** that can be used in the command line, and this makes a lot of the software that we need for this course very easy and quick to install!
 
 A package manager is essentially a software that installs software-- to relate this to something you definitely know about, a package manager is like the App Store without a GUI (GUI stands for Graphical User Interface)! It has numerous apps in it, and lets you install the ones you want with a command instead of a click.
 
@@ -96,9 +96,9 @@ This may take a while to install-- to verify it's installed, just type `brew` an
 
 I WILL show you quickly how to install something using brew just so you know what a finshed install state looks like, and if you follow along with this part then you'll have a fun way to mess with your friends!
 
-To install via brew, the command will start with `brew`, summoning the package manager. 
+To install via brew, the command will start with `brew`, summoning the package manager.
 
-IF you are installing something that has a GUI then the next word would be `cask` but we aren't doing that right now so no need to add it. 
+IF you are installing something that has a GUI then the next word would be `cask` but we aren't doing that right now so no need to add it.
 
 The next thing you type is `install`, indicating the action you want to perform using homebrew, and finally the name of what you want to install, which in this case is `no-more-secrets`. The full command should look like:
 
@@ -110,35 +110,31 @@ Hit enter and run that, then once it's installed you should see this:
 
 ![](images/command-line/cmdlnm9.png)
 
-This paticular program just lists all of the files of the folder you're in by scrambling the names and slowly unscrambling them to make it look like stereotypical hollywood hacking. 
+This paticular program just lists all of the files of the folder you're in by scrambling the names and slowly unscrambling them to make it look like stereotypical hollywood hacking.
 
 You need to run `ls | nms`, where ls means the same as what we learned before, and the line is a "pipe" indicating the specific thing you want to run `ls` through, which for us is `nms` aka no-more-secrets. Don't worry, you can uninstall this just as easily as installing by entering `brew uninstall no-more-secrets`.
 
 ## Step 4: Manuals
 
-Lastly, if you ever need help using a tool you installed via the command line, you can easily access a manual on it within Terminal! 
+Lastly, if you ever need help using a tool you installed via the command line, you can easily access a manual on it within Terminal!
 
 For example, `git`, a version control system we'll be using in this course has a manual that can be accessed by entering `man git`, "man" telling the computer you want a manual, and the word following it indicating what you want a manual for. As soon as you hit enter, this should appear:
 
 ![](images/command-line/cmdlnm10.png)
 
-If you look at the highlighted text, you'll notice that this manual refers to *further* nested manuals that include more detail, and you can access these by exiting this manual by typing `q` (for quit) then going to that specific seciton by typing `man` and section name. For example, `gittutorials` would look like: 
+If you look at the highlighted text, you'll notice that this manual refers to *further* nested manuals that include more detail, and you can access these by exiting this manual by typing `q` (for quit) then going to that specific seciton by typing `man` and section name. For example, `gittutorials` would look like:
 
 ![](images/command-line/cmdlnm11.png)
 
-And that's all! hit `cmd + q` to quit the Terminal! Now you know how to use the command line well enough to succeed in this class. 
+And that's all! hit `cmd + q` to quit the Terminal! Now you know how to use the command line well enough to succeed in this class.
 
 
 ## Step 5: Additional Resources
 
-To help you get more familiar with the command line, firstly, [here's a cheatsheet](https://gist.github.com/poopsplat/7195274) that details the numerous other things you can do from the command line. 
+To help you get more familiar with the command line, firstly, [here's a cheatsheet](https://gist.github.com/poopsplat/7195274) that details the numerous other things you can do from the command line.
 
 Secondly, here are some links to how you can customize your Terminal to look more like mine:
 
 - [Colour Themes](https://github.com/lysyi3m/macos-terminal-themes)
 - [Make your Terminal easier to read with Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [Get a status update on how you're computer's doing when you open the terminal with Neofetch](https://github.com/dylanaraps/neofetch)
-
-
-
-

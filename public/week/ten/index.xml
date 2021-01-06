@@ -23,7 +23,7 @@
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/week/ten/instructions/</guid>
         <description>Goals for this week  Cleaning data to make it useable Pushing data to the web  Listen 6th episode of the podcast
-Do  Cleaning Data with R Go further: put data online with Datasette. Subset some data you&amp;rsquo;ve already collected from an Ottawa collection. Think about which columns of the data would be useful, which cases (rows) of the data might make a good collection. Don&amp;rsquo;t include actual image files if you have them; instead use a link to the online location of the images.</description>
+Do  [Cleaning Data with R]((https://notebooks.gesis.org/binder/jupyter/user/chantalmb-cleaning-data-r-a7752bq6/notebooks/clean-data-r.ipynb) Work with data in tabular format. For this, I&amp;rsquo;d like you to launch and follow along Melanie Walsh&amp;rsquo;s excellent four-part tutorial on working with tabular data in Python using the &amp;lsquo;pandas&amp;rsquo; data package. To launch the individual parts of that tutorial, look for the rocket ship icon and hit that (or download and run on your own machine).</description>
       </item>
       
     

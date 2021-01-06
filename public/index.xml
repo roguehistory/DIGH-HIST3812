@@ -85,7 +85,7 @@ Do  Follow along the Programming Historian Tutorial on visualizing data; there i
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/week/ten/instructions/</guid>
         <description>Goals for this week  Cleaning data to make it useable Pushing data to the web  Listen 6th episode of the podcast
-Do  Cleaning Data with R Go further: put data online with Datasette. Subset some data you&amp;rsquo;ve already collected from an Ottawa collection. Think about which columns of the data would be useful, which cases (rows) of the data might make a good collection. Don&amp;rsquo;t include actual image files if you have them; instead use a link to the online location of the images.</description>
+Do  [Cleaning Data with R]((https://notebooks.gesis.org/binder/jupyter/user/chantalmb-cleaning-data-r-a7752bq6/notebooks/clean-data-r.ipynb) Work with data in tabular format. For this, I&amp;rsquo;d like you to launch and follow along Melanie Walsh&amp;rsquo;s excellent four-part tutorial on working with tabular data in Python using the &amp;lsquo;pandas&amp;rsquo; data package. To launch the individual parts of that tutorial, look for the rocket ship icon and hit that (or download and run on your own machine).</description>
       </item>
       
       <item>
@@ -216,16 +216,6 @@ TL;DR Remember to join our discord so we can actually have some social contact a
       </item>
       
       <item>
-        <title>Installing Jupyter</title>
-        <link>https://dhmuse.netlify.app/building/jupyter/</link>
-        <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/building/jupyter/</guid>
-        <description>Step 1 You need to make yourself familiar with the command line. There are many such tutorials out there; I encourage you to follow this one from Melanie Walsh&amp;rsquo;s Intro to Cultural Analytics class
-Step 2 Anaconda is a package of different programming languages and utilities for &amp;lsquo;scientific computing&amp;rsquo;. Go to the installation page and find the version that is appropriate for your machine. Download and then run the installer.</description>
-      </item>
-      
-      <item>
         <title>Our Library</title>
         <link>https://dhmuse.netlify.app/building/library/</link>
         <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
@@ -327,6 +317,16 @@ Read completely through before trying to set things up.
       </item>
       
       <item>
+        <title>Installing Jupyter</title>
+        <link>https://dhmuse.netlify.app/building/jupyter/</link>
+        <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/jupyter/</guid>
+        <description>Step 1 You need to make yourself familiar with the command line. There are many such tutorials out there; I encourage you to follow this one from Melanie Walsh&amp;rsquo;s Intro to Cultural Analytics class
+Step 2 Anaconda is a package of different programming languages and utilities for &amp;lsquo;scientific computing&amp;rsquo;. Go to the installation page and find the version that is appropriate for your machine. Download and then run the installer.</description>
+      </item>
+      
+      <item>
         <title>6. Common Regulations</title>
         <link>https://dhmuse.netlify.app/docs/6-commonregs/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
@@ -369,6 +369,26 @@ Online Office Hours Dr. Graham will be present in our Discord server every Wedne
 Please feel free to reuse exercises in your own course materials, with a link back to the original page.
 Corrections, modifications, additions are welcome; please fork, and then modify accordingly. Once you&amp;rsquo;re ready, make a pull request. The original repository is at https://github.com/shawngraham/hist4916.
 All contributions will be duly credited.</description>
+      </item>
+      
+      <item>
+        <title>Using the Command Line on Mac OS</title>
+        <link>https://dhmuse.netlify.app/building/command-line-mac/</link>
+        <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/command-line-mac/</guid>
+        <description>Written Walkthrough If you&amp;rsquo;re brand new to this, I strongly recommend you start with watching the video first because it&amp;rsquo;s much more detailed. Of course, if you&amp;rsquo;re confident in your technical abilities or just looking for a refresher, then this written guide to the command line is for you!
+Step 1: Accessing the Command Line To navigate the command line in macOS, we use Terminal, which is a built-in application.</description>
+      </item>
+      
+      <item>
+        <title>Using the Command Line on Windows</title>
+        <link>https://dhmuse.netlify.app/building/command-line-win/</link>
+        <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/command-line-win/</guid>
+        <description>Written Walkthrough If you&amp;rsquo;re brand new to this, I strongly recommend you start with watching the video first because it&amp;rsquo;s much more detailed. Of course, if you&amp;rsquo;re confident in your technical abilities or just looking for a refresher, then this written guide to the command line is for you!
+Step 1: Accessing the Command Line So first thing we&amp;rsquo;re going to want to do is actually open the command line so you can see what it is.</description>
       </item>
       
     

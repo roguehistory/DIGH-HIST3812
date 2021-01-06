@@ -17,16 +17,6 @@
     
       
       <item>
-        <title>Installing Jupyter</title>
-        <link>https://dhmuse.netlify.app/building/jupyter/</link>
-        <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://dhmuse.netlify.app/building/jupyter/</guid>
-        <description>Step 1 You need to make yourself familiar with the command line. There are many such tutorials out there; I encourage you to follow this one from Melanie Walsh&amp;rsquo;s Intro to Cultural Analytics class
-Step 2 Anaconda is a package of different programming languages and utilities for &amp;lsquo;scientific computing&amp;rsquo;. Go to the installation page and find the version that is appropriate for your machine. Download and then run the installer.</description>
-      </item>
-      
-      <item>
         <title>Our Library</title>
         <link>https://dhmuse.netlify.app/building/library/</link>
         <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
@@ -115,6 +105,36 @@ Read completely through before trying to set things up.
         <guid>https://dhmuse.netlify.app/building/datasette-guidance/</guid>
         <description>Prerequisites You need to have the following installed on your machine:
  Python. I recommend using Anaconda to manage all of your python related work. Get Anaconda here and get the 3.7 version. In the instructions below, you will also be installing Homebrew if you are on a Mac. Both PC and Windows people will need to install the command line interface (CLI) for Heroku. I recommend Mac people install Homebrew so that they can download the CLI from their terminal (also, lots of useful software is distributed using Homebrew).</description>
+      </item>
+      
+      <item>
+        <title>Installing Jupyter</title>
+        <link>https://dhmuse.netlify.app/building/jupyter/</link>
+        <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/jupyter/</guid>
+        <description>Step 1 You need to make yourself familiar with the command line. There are many such tutorials out there; I encourage you to follow this one from Melanie Walsh&amp;rsquo;s Intro to Cultural Analytics class
+Step 2 Anaconda is a package of different programming languages and utilities for &amp;lsquo;scientific computing&amp;rsquo;. Go to the installation page and find the version that is appropriate for your machine. Download and then run the installer.</description>
+      </item>
+      
+      <item>
+        <title>Using the Command Line on Mac OS</title>
+        <link>https://dhmuse.netlify.app/building/command-line-mac/</link>
+        <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/command-line-mac/</guid>
+        <description>Written Walkthrough If you&amp;rsquo;re brand new to this, I strongly recommend you start with watching the video first because it&amp;rsquo;s much more detailed. Of course, if you&amp;rsquo;re confident in your technical abilities or just looking for a refresher, then this written guide to the command line is for you!
+Step 1: Accessing the Command Line To navigate the command line in macOS, we use Terminal, which is a built-in application.</description>
+      </item>
+      
+      <item>
+        <title>Using the Command Line on Windows</title>
+        <link>https://dhmuse.netlify.app/building/command-line-win/</link>
+        <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/command-line-win/</guid>
+        <description>Written Walkthrough If you&amp;rsquo;re brand new to this, I strongly recommend you start with watching the video first because it&amp;rsquo;s much more detailed. Of course, if you&amp;rsquo;re confident in your technical abilities or just looking for a refresher, then this written guide to the command line is for you!
+Step 1: Accessing the Command Line So first thing we&amp;rsquo;re going to want to do is actually open the command line so you can see what it is.</description>
       </item>
       
     

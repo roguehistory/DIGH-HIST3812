@@ -98,11 +98,6 @@
   </url>
   
   <url>
-    <loc>https://dhmuse.netlify.app/building/jupyter/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dhmuse.netlify.app/building/library/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
@@ -155,6 +150,11 @@
   <url>
     <loc>https://dhmuse.netlify.app/building/datasette-guidance/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dhmuse.netlify.app/building/jupyter/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -260,6 +260,16 @@
   <url>
     <loc>https://dhmuse.netlify.app/docs/</loc>
     <lastmod>2020-01-11T14:09:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dhmuse.netlify.app/building/command-line-mac/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dhmuse.netlify.app/building/command-line-win/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
