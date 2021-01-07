@@ -32,3 +32,14 @@ On your computer, search for something called 'Anaconda Navigator'. Launch that,
 An alternative way to launch jupyter notebooks or jupyter labs is to open the command line in a given folder, then type `$ jupyter notebook` or `$ jupyter lab`. Note that you _don't type_ the `$` symbol; this is a convention to indicate that what follows is meant to be typed on the command line.
 
 At this point, if you come across a file with `.ipynb` as its extension, you can open it and run it in a Jupyter notebook or lab. Try it now - right-click on [this link](https://github.com/shawngraham/dhmuse-notebooks/raw/master/python-basics-1.ipynb) and save-as to your computer. Then, open a command line in the folder where you saved the file. Start up `$ jupyter notebook` - which opens a new tab in your browser - and then click on the file you downloaded. Now you can run and save your work locally!
+
+## A Video Walkthrough on Installing and Working with Jupyter Notebook Locally
+
+<iframe src="https://youtu.be/10FPoTCcv4I" style="border:none;"></iframe>
+
+Included in this tutorial:
+- Installing [Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/#regular-installation)
+- Installing Jupyter Notebook using `conda`
+- Exploring the [GLAM Workbench](https://glam-workbench.github.io/)
+- Running a downloaded notebook locally
+- Adding your notebook to a git repository and publishing it with [myBinder](https://mybinder.org/)
