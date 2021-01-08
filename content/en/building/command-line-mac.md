@@ -5,7 +5,7 @@ date = "2020-01-10"
 description = "A guide to getting started with the command line on Mac OS."
 +++
 
-<iframe src="#" style="border:none;"></iframe>
+<iframe src="https://youtu.be/Kh8PiuuGVDw" style="border:none;"></iframe>
 
 # Written Walkthrough
 
