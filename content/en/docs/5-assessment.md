@@ -41,6 +41,10 @@ I am required by the University to provide a percentage breakdown for the assess
 
 I reserve the right to adjust those percentages to take into account the particular circumstances of the student.
 
+{{< notice success "Important" >}}
+I anticipate that the four weeks from weeks 5 - 8 might be the most intensive in terms of time commitment. But I could be wrong; it might come at other times or in the context of the other assignments listed above. **If you feel like there's just too much happening** we can adjust expectations. Do not hesitate to say that there's too much - quote this notification at me! Email me! I am **happy to rearrange things** if we need to. I'm not out to get anyone. 
+{{< /notice >}}
+
 ### Important dates:
 
 + Choose your own adventure to be completed by the end of week 2
