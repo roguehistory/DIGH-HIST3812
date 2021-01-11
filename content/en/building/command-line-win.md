@@ -5,7 +5,7 @@ date = "2020-01-10"
 description = "A guide to getting started with the command line in Windows."
 +++
 
-<iframe src="https://youtu.be/nmZpVYRJFzg" style="border:none;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmZpVYRJFzg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Written Walkthrough
 

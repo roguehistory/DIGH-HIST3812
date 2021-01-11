@@ -35,7 +35,7 @@ At this point, if you come across a file with `.ipynb` as its extension, you can
 
 ## A Video Walkthrough on Installing and Working with Jupyter Notebook Locally
 
-<iframe src="https://youtu.be/10FPoTCcv4I" style="border:none;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/10FPoTCcv4I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Included in this tutorial:
 - Installing [Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/#regular-installation)

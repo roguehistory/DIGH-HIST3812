@@ -12,16 +12,24 @@ A list of interesting / useful notebooks and other things
 
 We are going to use Jupyter Notebooks in this class. For a global overview of how Jupyter notebooks work and are used in humanities research, see Quinn Dombrowski's lesson in [_The Programming Historian_](https://programminghistorian.org/en/lessons/jupyter-notebooks). The links below go to either live notebooks that you can work through, or guide you through some of the same steps that Dombrowski discusses, but with more detail.
 
-+ Working with the Command Line (PC) or Terminal (Mac)
++ Working with the Command Line
   - A walkthrough, by Chantal Brousseau
+  - [For Windows](building/command-line-win/)
+  - [For MacOS](/building/command-line-mac/)
+
 
 + [Introduction to Jupyter Notebooks](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/getting-started-with-jupyter.ipynb); if that link breaks, launch [this](https://mybinder.org/v2/gh/shawngraham/tdm-notebooks/master) and then select the notebook from the list.
     - Courtesy Nathan Kelber and Ted Lawless for JSTOR Labs, CC-BY
     - This notebook introduces Jupyter notebooks and Python for absolute beginners.
     - Going further: Kelber and Lawless have a number of notebooks for working with JSTOR's 'Data for Research' dataset creation service; [find out more here](https://tdm-pilot.org/)
 
-+ [Running Jupyter Notebooks on Your Own Machine](#)
++ [Intro to R & RStudio]()
+
++ [Running Jupyter Notebooks on Your Own Machine](https://www.youtube.com/watch?v=10FPoTCcv4I)
   - A walkthrough, by Chantal Brousseau
+
++ [How to install R in Jupyter Notebooks](https://irkernel.github.io/installation/#binary-panel)
+  - You only need steps 1 & 2!
 
 + [Using Git on the Command Line to Keep your Notebook Under Version Control](#)
   - A walkthrough, by Dr. Graham
@@ -64,13 +72,15 @@ If the data is already made available on the open web, and it's in a reasonable 
 
 + National Library of Scotland, Data Foundry: [A Medical History of British India](https://data.nls.uk/tools/jupyter-notebooks/exploring-a-medical-history-of-british-india/)
 
-+National Library of Scotland, Data Foundry: [Edinburgh Ladies' Debating Society](https://data.nls.uk/tools/jupyter-notebooks/exploring-edinburgh-ladies-debating-society/)
++ National Library of Scotland, Data Foundry: [Edinburgh Ladies' Debating Society](https://data.nls.uk/tools/jupyter-notebooks/exploring-edinburgh-ladies-debating-society/)
 
 ### Visualize
 
 + Visualizing Data with Bokeh & Python
     - This notebook is the one that accompanies the tutorial by Charlie Harper in [_The Programming Historian_](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)
     - You can launch the notebook [here](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=viz-w-bokeh.ipynb); this will let you skip setting up the virtual environment (a way of keeping all of your lego pieces for each task separate so they don't cause conflicts).
+
++ [Topic Modelling and Creating Interactive Visuals in R](https://mybinder.org/v2/gh/ChantalMB/tm-visualisation/master)
 
 + There might be useful things in [Hands-On Data Visualization](https://handsondataviz.org); not explicitly about jupyter notebooks, but give it a look.
 
@@ -134,6 +144,8 @@ For when you're ready/inclined to push things further.
     - Available in XML or CSV
 
 ## Misc
+
++ [Computational Analysis of Catalogue Data with AntConc](https://cataloguelegacies.github.io/antconc.github.io/)
 
 + Student created datasettes:
 
