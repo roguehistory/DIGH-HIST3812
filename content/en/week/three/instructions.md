@@ -26,6 +26,18 @@ In order to do that, you need to prepare your materials. I am giving you two wee
 
 These week, we introduce you to Jupyter Notebooks. We will use a variety of computational notebooks in this course. These combine code with our observations and narrative as text files; the code in these can be run when opened in the correct environment. On the [Computational Notebooks List](/building/technotes-toc) page, there is a guide to many notebooks that we will learn from and sometimes adapt or modify. You are always welcome to use these as models for things you might like to try that I do not explicitly mention in a given week. That is to say, if you're up for a challenge, let's talk!
 
+By the way, if you're not familiar with the term 'command prompt' or 'terminal', you might want to watch these two clips first (see the [full Mac walkthrough](building/command-line-mac) or the [full PC walkthrough](building/command-line-win) for video _and_ text.)
+
+Mac:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kh8PiuuGVDw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+PC:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmZpVYRJFzg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Now the other stuff:**
+
 1. Complete the [Introduction to Jupyter Notebooks](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/getting-started-with-jupyter.ipynb) by Kelber and Lawless
 2. Complete [An Introduction to Python](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=python-basics-1.ipynb)
 3. Go further: [Install and run Jupyter on your own machine](/building/jupyter)
