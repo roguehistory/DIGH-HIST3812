@@ -137,6 +137,15 @@ Step 1: Accessing the Command Line To navigate the command line in macOS, we use
 Step 1: Accessing the Command Line So first thing we&amp;rsquo;re going to want to do is actually open the command line so you can see what it is.</description>
       </item>
       
+      <item>
+        <title>Intro to R &amp; RStudio</title>
+        <link>https://dhmuse.netlify.app/building/intro-r-rstudio/</link>
+        <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/intro-r-rstudio/</guid>
+        <description>Working with R R is a programming language designed for statistical computing and graphics creation, so it is excellent when it comes to analyzing large sets of data and creating visualisations from it&amp;ndash; which tends to be a big part of our work in digital humanities! The language was designed by and for statisticians and data analysts, thus many of those with little or no experience with programming find R a bit easier to understand and use than other programming languages.</description>
+      </item>
+      
     
   </channel>
 </rss>
