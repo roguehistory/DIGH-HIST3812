@@ -14,7 +14,7 @@ We continue our discussion. We transform that conventional model for a seminar f
 
 ### Read
 
-Continue with Patrick, Chantal, and Josh's selections on the [cyoa page](https://padlet.com/shawngraham1/jnpyi1hmkjbtzbp0).
+Continue with Patrick, Chantal, Kate, and Josh's selections on the [cyoa page](https://padlet.com/shawngraham1/jnpyi1hmkjbtzbp0).
 
 ### Do
 
