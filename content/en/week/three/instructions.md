@@ -39,7 +39,7 @@ PC:
 **Now the other stuff:**
 
 1. Complete the [Introduction to Jupyter Notebooks](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/getting-started-with-jupyter.ipynb) by Kelber and Lawless
-2. Complete [An Introduction to Python](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=python-basics-1.ipynb)
+2. Complete [An Introduction to Python](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/python-basics-1.ipynb)
 3. Go further: [Install and run Jupyter on your own machine](/building/jupyter)
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. Share the url to your repo in Discord. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
