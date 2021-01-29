@@ -13,7 +13,7 @@ You grade emerges from the following elements.
 
 1. Discussion Leaders. Each student will be responsible to 'page prep' certain readings. Page prep involves:
 	- Creating the Reading Overview: a brief overview page note attached to the assigned reading using Hypothes.is page notes
-	- Creating the Reading Pre-seed: at least five rich/deep annotations on your chosen readings/materials (five total, not five per document)
+	- Creating the Reading Pre-seed: at least five rich/deep annotations on each of your chosen readings/materials
 	- In the relevant week, when the other students read the papers, the student responsible for 'page prep' will engage and respond to the annotations/responses of their peers in such a fashion as to dig deeper into the topic at hand
 	- see the [guidance note](/building/dl-guidance) for more information
 
@@ -42,7 +42,7 @@ I am required by the University to provide a percentage breakdown for the assess
 I reserve the right to adjust those percentages to take into account the particular circumstances of the student.
 
 {{< notice success "Important" >}}
-I anticipate that the four weeks from weeks 5 - 8 might be the most intensive in terms of time commitment. But I could be wrong; it might come at other times or in the context of the other assignments listed above. **If you feel like there's just too much happening** we can adjust expectations. Do not hesitate to say that there's too much - quote this notification at me! Email me! I am **happy to rearrange things** if we need to. I'm not out to get anyone. 
+I anticipate that the four weeks from weeks 5 - 8 might be the most intensive in terms of time commitment. But I could be wrong; it might come at other times or in the context of the other assignments listed above. **If you feel like there's just too much happening** we can adjust expectations. Do not hesitate to say that there's too much - quote this notification at me! Email me! I am **happy to rearrange things** if we need to. I'm not out to get anyone.
 {{< /notice >}}
 
 ### Important dates:
