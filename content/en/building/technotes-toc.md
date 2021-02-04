@@ -23,7 +23,9 @@ We are going to use Jupyter Notebooks in this class. For a global overview of ho
     - This notebook introduces Jupyter notebooks and Python for absolute beginners.
     - Going further: Kelber and Lawless have a number of notebooks for working with JSTOR's 'Data for Research' dataset creation service; [find out more here](https://tdm-pilot.org/)
 
-+ [Intro to R & RStudio]()
++ [Intro to R & RStudio](building/intro-r-rstudio/)
+  - A short walkthrough, by Chantal Brousseau
+  - How to use R on your own machine!
 
 + [Running Jupyter Notebooks on Your Own Machine](https://www.youtube.com/watch?v=10FPoTCcv4I)
   - A walkthrough, by Chantal Brousseau
