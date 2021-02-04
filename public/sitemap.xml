@@ -73,6 +73,11 @@
   </url>
   
   <url>
+    <loc>https://dhmuse.netlify.app/transcripts/episode3/</loc>
+    <lastmod>2020-12-08T00:10:51+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dhmuse.netlify.app/docs/1-coursedescription/</loc>
     <lastmod>2020-01-28T00:39:09+09:00</lastmod>
   </url>
@@ -270,6 +275,11 @@
   <url>
     <loc>https://dhmuse.netlify.app/building/command-line-win/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dhmuse.netlify.app/building/intro-r-rstudio/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

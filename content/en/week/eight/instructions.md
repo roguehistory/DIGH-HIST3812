@@ -14,7 +14,7 @@ We conclude our discussion and this phase of the course. We transform that conve
 
 ### Read
 
-Dr. Graham will update this page to direct you to the appropriate materials for this week once we have settled our schedule.
+Finish with William, Ryan, Miria, and Paula's selections on the [cyoa page](https://padlet.com/shawngraham1/jnpyi1hmkjbtzbp0).
 
 ### Do
 

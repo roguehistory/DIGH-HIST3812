@@ -14,7 +14,7 @@ We continue our discussion. We transform that conventional model for a seminar f
 
 ### Read
 
-Dr. Graham will direct you to the appropriate materials for this week once we have settled our schedule.
+Continue with Patrick, Chantal, Kate, and Josh's selections on the [cyoa page](https://padlet.com/shawngraham1/jnpyi1hmkjbtzbp0).
 
 ### Do
 

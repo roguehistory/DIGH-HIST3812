@@ -14,11 +14,11 @@ Over these next four weeks, we transform that conventional model from live face 
 
 ### Goals for this week
 
-1. Engage meaningfully with the discussion as prepared for you by your peers
+1. Engage meaningfully with the discussion as prepared for you by your peers.
 
 ### Read
 
-Dr. Graham will update this page to direct you to the appropriate materials once we have settled our schedule.
+Start with Jenna, Jacob, and Kieran's selections on the [cyoa page](https://padlet.com/shawngraham1/jnpyi1hmkjbtzbp0).
 
 ### Do
 

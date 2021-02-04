@@ -23,7 +23,8 @@
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/week/eight/instructions/</guid>
         <description>We conclude our discussion and this phase of the course. We transform that conventional model for a seminar from live face to face to a distributed, asynchronous model through collaborative reading &amp;amp; generous thinking
-Goals for this week  Engage meaningfully with the discussion as prepared for you by your peers  Read Dr. Graham will update this page to direct you to the appropriate materials for this week once we have settled our schedule.</description>
+Goals for this week  Engage meaningfully with the discussion as prepared for you by your peers  Read Finish with William, Ryan, and Paula&amp;rsquo;s selections on the cyoa page.
+Do Discussion Leaders: Discussion leaders will remain alert and will respond to posts and queries on their respective articles.</description>
       </item>
       
       <item>
@@ -33,7 +34,7 @@ Goals for this week  Engage meaningfully with the discussion as prepared for you
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/week/seven/instructions/</guid>
         <description>We continue our discussion. We transform that conventional model for a seminar from live face to face to a distributed, asynchronous model through collaborative reading &amp;amp; generous thinking
-Goals for this week  Engage meaningfully with the discussion as prepared for you by your peers  Read Dr. Graham will direct you to the appropriate materials for this week once we have settled our schedule.
+Goals for this week  Engage meaningfully with the discussion as prepared for you by your peers  Read Continue with Patrick, Chantal, and Josh&amp;rsquo;s selections on the cyoa page.
 Do Discussion Leaders: Discussion leaders will remain alert and will respond to posts and queries on their respective articles.</description>
       </item>
       
@@ -44,7 +45,7 @@ Do Discussion Leaders: Discussion leaders will remain alert and will respond to 
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://dhmuse.netlify.app/week/six/instructions/</guid>
         <description>We continue our discussion. We transform that conventional model for a seminar from live face to face to a distributed, asynchronous model through collaborative reading &amp;amp; generous thinking
-Goals for this week  Engage meaningfully with the discussion as prepared for you by your peers  Read Dr. Graham will update this page to direct you to the appropriate materials for this week once we have settled our schedule.
+Goals for this week  Engage meaningfully with the discussion as prepared for you by your peers  Read Continue with Niall, Sara, and Sian&amp;rsquo;s selections on the cyoa page.
 Do Discussion Leaders: Discussion leaders will remain alert and will respond to posts and queries on their respective articles.</description>
       </item>
       
@@ -157,6 +158,16 @@ Part One When I was a kid, I lived in the hinterland of Ottawa. One year, when I
         <guid>https://dhmuse.netlify.app/transcripts/episode2/</guid>
         <description>Transcript of this week&amp;rsquo;s podcast episode.
 Part One So this week is an important week in the class. This is the week where you get to choose your own DHMuse adventure. And by choose your own adventure. I mean- you know the first time I did this class I had a huge list of readings that I wanted everybody to get through. It was in fact quite overwhelming. Both for the students and for myself.</description>
+      </item>
+      
+      <item>
+        <title>4916a W21 Episode 3</title>
+        <link>https://dhmuse.netlify.app/transcripts/episode3/</link>
+        <pubDate>Tue, 08 Dec 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/transcripts/episode3/</guid>
+        <description>Transcript of this week&amp;rsquo;s podcast episode.
+Part One Hey everybody, welcome to week three of the course. In this week, we have two major tasks ahead of us. This is the first of two weeks where you can prep your materials for our asynchronous seminar discussions coming up. It&amp;rsquo;s also the first week where you have an opportunity to start polishing or developing your digital skills in particular. We&amp;rsquo;re going to use what are called Jupiter notebooks, these are well, they&amp;rsquo;re interesting.</description>
       </item>
       
       <item>
@@ -389,6 +400,15 @@ Step 1: Accessing the Command Line To navigate the command line in macOS, we use
         <guid>https://dhmuse.netlify.app/building/command-line-win/</guid>
         <description>Written Walkthrough If you&amp;rsquo;re brand new to this, I strongly recommend you start with watching the video first because it&amp;rsquo;s much more detailed. Of course, if you&amp;rsquo;re confident in your technical abilities or just looking for a refresher, then this written guide to the command line is for you!
 Step 1: Accessing the Command Line So first thing we&amp;rsquo;re going to want to do is actually open the command line so you can see what it is.</description>
+      </item>
+      
+      <item>
+        <title>Intro to R &amp; RStudio</title>
+        <link>https://dhmuse.netlify.app/building/intro-r-rstudio/</link>
+        <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://dhmuse.netlify.app/building/intro-r-rstudio/</guid>
+        <description>Working with R R is a programming language designed for statistical computing and graphics creation, so it is excellent when it comes to analyzing large sets of data and creating visualisations from it&amp;ndash; which tends to be a big part of our work in digital humanities! The language was designed by and for statisticians and data analysts, thus many of those with little or no experience with programming find R a bit easier to understand and use than other programming languages.</description>
       </item>
       
     
