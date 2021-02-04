@@ -37,7 +37,7 @@ We are going to use Jupyter Notebooks in this class. For a global overview of ho
 + [How to launch your Notebook in a computational binder online with mybinder.org](#)
   - A walkthrough, by Dr. Graham
 
-+ [Introduction to Python](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=python-basics-1.ipynb)
++ [Introduction to Python](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/python-basics-1.ipynb)
 
 ## Retrieve and Visualize Data
 
@@ -48,7 +48,7 @@ If the data is already made available on the open web, and it's in a reasonable 
 + Loading simple data that you've found online into a Notebook
   - a [walkthrough](#)
 
-+ [Working with Pandas to Manipulate Data](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=pandas-1.ipynb)
++ [Working with Pandas to Manipulate Data](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/pandas-1.ipynb)
 
 + Using OpenRefine to Obtain Data
   - This tutorial adapts the Programming Historian lesson by Evan Peter Williamson ["Fetching and Parsing Data from the Web with OpenRefine", especially its example 2](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine#example-2-url-queries-and-parsing-json).
@@ -57,11 +57,11 @@ If the data is already made available on the open web, and it's in a reasonable 
 + Extract Illustrated Pages from the Hathi Trust & Internet Archive
   - This tutorial & associated notebooks are developed from Stephen Krewson's piece for the Programming Historian, ["Extracting Illustrated Pages from Digital Libraries with Python"](https://programminghistorian.org/en/lessons/extracting-illustrated-pages)
   - Try searching for images related to "Ottawa".
-  - [Hathi Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=hathitrust.ipynb);
-  - [Internet Archive Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=internetarchive.ipynb)
+  - [Hathi Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/hathitrust.ipynb);
+  - [Internet Archive Notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/internetarchive.ipynb)
   - the json file for the notebooks is in the 'data' folder
 
-+ Retrieve data from a 'datasette'-created API [launch binder here](http://mybinder.org/v2/gh/o-date/open-context-jupyter/master?urlpath=retrieving%20data%20from%20a%20datasette%20api.ipynb)
++ Retrieve data from a 'datasette'-created API [launch binder here](http://mybinder.org/v2/gh/o-date/open-context-jupyter/master?urlpath=notebooks/retrieving%20data%20from%20a%20datasette%20api.ipynb)
   - note that the 'api_search_url' variable might need to be changed to point to the survey markers datasette or the CARF excavation datasette re Fort Frontenac (see below for url)
 
 + Scraper. [This notebook](https://dhmuse.netlify.app/notebooks/simple-scraper) adapts [this tutorial on beautiful soup](https://programminghistorian.org/en/lessons/intro-to-beautiful-soup) to work with data from the Museum of History.
@@ -78,7 +78,7 @@ If the data is already made available on the open web, and it's in a reasonable 
 
 + Visualizing Data with Bokeh & Python
     - This notebook is the one that accompanies the tutorial by Charlie Harper in [_The Programming Historian_](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)
-    - You can launch the notebook [here](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=viz-w-bokeh.ipynb); this will let you skip setting up the virtual environment (a way of keeping all of your lego pieces for each task separate so they don't cause conflicts).
+    - You can launch the notebook [here](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/viz-w-bokeh.ipynb); this will let you skip setting up the virtual environment (a way of keeping all of your lego pieces for each task separate so they don't cause conflicts).
 
 + [Topic Modelling and Creating Interactive Visuals in R](https://mybinder.org/v2/gh/ChantalMB/tm-visualisation/master)
 
@@ -95,13 +95,13 @@ If the data is already made available on the open web, and it's in a reasonable 
 
 For when you're ready/inclined to push things further.
 
-+ [Sonification](https://mybinder.org/v2/gh/o-date/sonification/master?urlpath=Intro%20to%20Sonification.ipynb)
++ [Sonification](https://mybinder.org/v2/gh/o-date/sonification/master?urlpath=notebooks/Intro%20to%20Sonification.ipynb)
   - An overview of how and why you might sonify data
 
-+ [Image Glitching](https://mybinder.org/v2/gh/o-date/creativity/master?urlpath=Glitching%20an%20image%20with%20prism%20sorting.ipynb)
++ [Image Glitching](https://mybinder.org/v2/gh/o-date/creativity/master?urlpath=notebooks/Glitching%20an%20image%20with%20prism%20sorting.ipynb)
   - An overview of why glitching an image might be one way of letting people play with collections
 
-+ [An introduction to 'Processing', a language for quick sketches, visualizations, and artwork](https://mybinder.org/v2/gh/o-date/processing/master?urlpath=python%20with%20processing.ipynb)
++ [An introduction to 'Processing', a language for quick sketches, visualizations, and artwork](https://mybinder.org/v2/gh/o-date/processing/master?urlpath=notebooks/python%20with%20processing.ipynb)
   - A simple introduction to a language that enables creative expression (Brian Foo, the 'Data Driven DJ' uses processing to make visualizations to accompany his sonifications. See for instance his work, [Lee and Jackson](https://datadrivendj.com/tracks/painters/).)
 
 ## Ottawa Datasets
