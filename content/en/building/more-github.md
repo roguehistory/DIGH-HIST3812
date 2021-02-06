@@ -1,6 +1,6 @@
 +++
-author = "Dr. Graham"
-title = "Version Control; Launching Binder"
+author = "Dr. Graham andd Chantal Brousseau"
+title = "Git on the Command Line"
 date = "2020-08-02"
 description = "Expectations for content and format"
 +++
@@ -15,21 +15,27 @@ Things can get very complicated, but at its simplest, there are only four comman
 
 ### Get Git
 
-1. If you have a PC, [click on this link to download and install git](https://git-scm.com/download/win). **Just use all of the suggested default settings when you run the installer**. If you have a Mac, you can install it by opening the terminal program (click on your applications and type 'terminal' in the search window) and then typing in these two commands (or copy and paste). The first command starts at the `/` and ends at the `"` and you must include the entire line from slash to closing quotation mark:
+#### Windows: 
 
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-```
-and when that finishes,
+If you have a PC, [click on this link to download and install git](https://git-scm.com/download/win). **Just use all of the suggested default settings when you run the installer**. 
+
+#### MacOS: 
+
+The easiest way to install git in macOS is by simply opening the command line and entering the command `git --version`. You will then be prompted by a pop-up to install it, assuming you don't already have git installed:
+
+![](images/github/git-prompt.png)
+
+**If that doesn't work** you can also install it via Homebrew. If you never installed Homebrew during the introduction to the command line, [check out Step 3 in the written tutorial](/building/command-line-mac/#step-3-homebrew).
+
+Once you have Homebrew, all you have to do to install git is run:
 
 ```
 brew install git
 ```
 
-You now have git.
-
-2. Make a new directory on your computer. Make a few text files and save them in that directory. We'll run our demonstration here.
-3. On a PC, find the folder in your file explorer; click on it so that's the folder displayed in the address bar at the top of the explorer. Then, click in the address bar and type `cmd` and hit enter. This will open a command prompt window for that folder, allowing you to type commands in directly. On a Mac, go to System Preferences, select Keyboard > Shortcuts > Services. Look for 'New Terminal at Folder' and tick the box. Open your finder; find the folder you created, right-click and select 'open Terminal here'.
+#### Tutorial Setup 
++ Make a new directory on your computer. Make a few text files and save them in that directory. We'll run our demonstration here.
++ **On a PC**, find the folder in your file explorer; click on it so that's the folder displayed in the address bar at the top of the explorer. Then, click in the address bar and type `cmd` and hit enter. This will open a command prompt window for that folder, allowing you to type commands in directly. On a Mac, go to System Preferences, select Keyboard > Shortcuts > Services. Look for 'New Terminal at Folder' and tick the box. Open your finder; find the folder you created, right-click and select 'open Terminal here'.
 
 
 ---
@@ -63,49 +69,59 @@ Key commands for Mac:
 
 ---
 
-4. Now we'll tell Git to watch the folder. At the command prompt, type `git init`. This creates a hidden folder inside your directory called `.git` and _inside_ that folder it will keep the data about your snapshots.
+## Setting up your repository
 
-5. Make some changes to your text files, save some new ones, whatever.
+1. Now we'll tell Git to watch the folder. At the command prompt, type `git init`. This creates a hidden folder inside your directory called `.git` and _inside_ that folder it will keep the data about your snapshots.
 
-6. Back at the command line, type `git status`. This will tell you whether Git sees any new changes, and crucially, if you have changes that it know you haven't taken a snapshot of yet. Let's remedy that:
+2. Make some changes to your text files, save some new ones, whatever.
 
-7. You can update git's record by adding things: 
+3. Back at the command line, type `git status`. This will tell you whether Git sees any new changes, and crucially, if you have changes that it know you haven't taken a snapshot of yet. Let's remedy that:
+
+4. You can update git's record by adding things: 
     + Individually: `git add <filename>`
     + All at once: `git add -A`
 
-8. If you ran `git status` now, it'd tell you that you've staged some files. Now we take a snapshot and leave a message to ourselves: `git commit -m "[your message goes in here]"`.
+5. If you ran `git status` now, it'd tell you that you've staged some files. Now we take a snapshot and leave a message to ourselves: `git commit -m "[your message goes in here]"`.
 
 And there you go: you've got your files under version control! But you need to learn how to roll things back, and/or how to push your repository onto Github for safe keeping.
 
 We'll start with Github.
 
-9. Go to Github.com, log in, and hit the big '+' beside your avatar at top right and make a new repository. **Do NOT tick off the 'initialize this repository with a README'**.
+6. Go to Github.com, log in, and hit the big '+' beside your avatar at top right and make a new repository. **Do NOT tick off the 'initialize this repository with a README'**.
 
-10. Let's say I made a new repo called 'demo5'. It's URL would be `https://github.com/shawngraham/demo5`. Take a note of the full URL for your repo. We need to now tell Git on your computer this location. So, in my case, back at the command line, the command would look like this: 
+7. Let's say I made a new repo called 'demo5'. It's URL would be `https://github.com/shawngraham/demo5`. Take a note of the full URL for your repo. We need to now tell Git on your computer this location. So, in my case, back at the command line, the command would look like this: 
 ```
 git remote add origin https://github.com/shawngraham/demo5.git
 ```
  
 **Note** the **.git** at the end of the url! You can actually find this url in your repository here:
 
-![](images/github/climber.jpg)
+![](images/github/github-codedd.png)
 
 
-11. Now that Git knows where to stash a copy of your materials, you can tell it to do so by `push`ing the files from your machine to github: 
+8. Now that Git knows where to stash a copy of your materials, you can tell it to do so by `push`ing the files from your machine to github: 
 ```
 git push -u origin master
 ```
 
-## Keeping your Repo Updated
+## Keeping your repo updated
 
 As you know, the whole point of Git and GitHub is to keep track of the changes to your files, so of course you need to keep your repository up-to-date when you make any changes! After setting up, this is nice and quick to do-- after you finish your work for the day or are about to make a change you might need to revert, you can save your files in their current state like so:
 
+{{< alert theme="info" >}}
+**If you're working in a repository with a collaborator** your first commmand should actually be `git pull` to make sure that your local repository is up-to-date and includes any changes that your partner might have made!
+{{< /alert >}}
+
 1. `git add -A`
 
-`git commit -m "a message"`
+2. `git commit -m "a message"`
 
-`git push`
+3. `git push`
 
 ## Reverting Changes
 
-https://www.systutorials.com/how-to-revert-changes-in-git/ 
+So you made a change, something doesn't go quite right, and you want your previous version back... to reset EVERYTHING, the command you'll need is:
+```
+git reset --hard HEAD
+```
+For more specific circumstances, check out the guide [located here.](https://www.systutorials.com/how-to-revert-changes-in-git/)

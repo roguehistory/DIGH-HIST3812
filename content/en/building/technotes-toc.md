@@ -31,13 +31,14 @@ We are going to use Jupyter Notebooks in this class. For a global overview of ho
   - A walkthrough, by Chantal Brousseau
 
 + [How to install R in Jupyter Notebooks](https://irkernel.github.io/installation/#binary-panel)
-  - You only need steps 1 & 2!
+  - Run these commands in the R console (you should be able to find it by searching "R" in your applications)
+  - In reference to step 2, you want to install this **system-wide**
 
 + [Using Git on the Command Line to Keep your Notebook Under Version Control](#)
-  - A walkthrough, by Dr. Graham
+  - A walkthrough, by Dr. Graham and Chantal Brousseau
 
 + [How to launch your Notebook in a computational binder online with mybinder.org](#)
-  - A walkthrough, by Dr. Graham
+  - A walkthrough, by Chantal Brousseau
 
 + [Introduction to Python](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/python-basics-1.ipynb)
 
