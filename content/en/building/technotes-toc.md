@@ -34,10 +34,10 @@ We are going to use Jupyter Notebooks in this class. For a global overview of ho
   - Run these commands in the R console (you should be able to find it by searching "R" in your applications)
   - In reference to step 2, you want to install this **system-wide**
 
-+ [Using Git on the Command Line to Keep your Notebook Under Version Control](#)
++ [Using Git on the Command Line to Keep your Notebook Under Version Control](building/more-github/)
   - A walkthrough, by Dr. Graham and Chantal Brousseau
 
-+ [How to launch your Notebook in a computational binder online with mybinder.org](#)
++ [How to launch your Notebook in a computational binder online with mybinder.org]((building/mybinder/)
   - A walkthrough, by Chantal Brousseau
 
 + [Introduction to Python](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/python-basics-1.ipynb)
