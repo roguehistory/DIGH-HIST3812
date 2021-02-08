@@ -23,19 +23,22 @@ We are going to use Jupyter Notebooks in this class. For a global overview of ho
     - This notebook introduces Jupyter notebooks and Python for absolute beginners.
     - Going further: Kelber and Lawless have a number of notebooks for working with JSTOR's 'Data for Research' dataset creation service; [find out more here](https://tdm-pilot.org/)
 
-+ [Intro to R & RStudio]()
++ [Intro to R & RStudio](building/intro-r-rstudio/)
+  - A short walkthrough, by Chantal Brousseau
+  - How to use R on your own machine!
 
 + [Running Jupyter Notebooks on Your Own Machine](https://www.youtube.com/watch?v=10FPoTCcv4I)
   - A walkthrough, by Chantal Brousseau
 
 + [How to install R in Jupyter Notebooks](https://irkernel.github.io/installation/#binary-panel)
-  - You only need steps 1 & 2!
+  - Run these commands in the R console (you should be able to find it by searching "R" in your applications)
+  - In reference to step 2, you want to install this **system-wide**
 
-+ [Using Git on the Command Line to Keep your Notebook Under Version Control](#)
-  - A walkthrough, by Dr. Graham
++ [Using Git on the Command Line to Keep your Notebook Under Version Control](building/more-github/)
+  - A walkthrough, by Dr. Graham and Chantal Brousseau
 
-+ [How to launch your Notebook in a computational binder online with mybinder.org](#)
-  - A walkthrough, by Dr. Graham
++ [How to launch your Notebook in a computational binder online with mybinder.org](building/mybinder/)
+  - A walkthrough, by Chantal Brousseau
 
 + [Introduction to Python](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/python-basics-1.ipynb)
 
