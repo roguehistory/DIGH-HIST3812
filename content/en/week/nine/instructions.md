@@ -22,8 +22,25 @@ Let's make some magic!
 
 ### Do
 
-1. Launch [this notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/viz-w-bokeh.ipynb) and use it to follow along the Programming Historian Tutorial on visualizing data [located here](https://programminghistorian.org/en/lessons/visualizing-with-bokeh) using the data provided.
-2. Modify the notebook with new data. Ingenium, the corporation that runs the Canadian Science and Technology Museum, the Aviation Museum, and the Agriculture Museum, makes a large variety of data available in a csv file. If you are running Jupyter on your own machine, you can download the CSV FILE from [this location at the CSTM website (right click this link, save-as)](http://source.techno-science.ca/datasets-donnees/artifacts-artefacts/csv/cstmc-CSV-en.csv), and save that in a new folder. Using the notebook from step (1), change the `df.read_csv("")` command to load that data up. If you're working on your own machine, you'll put the file path to the data between the quotation marks. If you're working **online** you can load the data from the mirror'd copy I put on the course website with `df = df.read_csv("https://dhmuse.netlify.app/data/cstmc-CSV-en.csv"`. **If you're running the notebook online and loading the data from the course site, it will take a few moments for it to load into memory.** Then try to visualize one dimension (column) of the data (which dimensions do you think?). Save copies of your outputs. (By the way: the original data on the Ingenium website was saved as .csv, but used the pipe character `|` to delimit columns. I had to change that for you.) **protip** once you've loaded up data and passed it to the variable `df` you don't have to load it up again - so in subsequent cells of the notebook, use the `#` to comment out anywhere the cell says `df = pd.read_csv` etc, as you've already done that.
+1. Launch [this notebook](https://mybinder.org/v2/gh/shawngraham/dhmuse-notebooks/master?urlpath=notebooks/viz-w-bokeh.ipynb) and use it to follow along the Programming Historian Tutorial on visualizing data [located here](https://programminghistorian.org/en/lessons/visualizing-with-bokeh) using the data provided. You can skip to the 'Bsics of Bokeh' section.
+2. Once you've finished that, save a copy of the notebook with a new name, and then modify the notebook with new data. Ingenium, the corporation that runs the Canadian Science and Technology Museum, the Aviation Museum, and the Agriculture Museum, makes a large variety of data available in a csv file. If you are running Jupyter on your own machine, you can download the CSV FILE from [our website](https://dhmuse.netlify.app/data/cstmc-CSV-en.csv)), and save that in a new folder.
+  + Using the notebook from step (1), change the `df.read_csv("")` command to read the data into a 'dataframe'. If you're working on your own machine, you'll put the file path to the data between the quotation marks. If you're working **online** you can load the data directly from the mirror'd copy I put on the course website with `df = df.read_csv("https://dhmuse.netlify.app/data/cstmc-CSV-en.csv"`. **If you're running the notebook online and loading the data from the course site, it will take a few moments for it to load into memory.**
+  + **protip** once you've loaded up data and passed it to the variable `df` you don't have to load it up again - so in subsequent cells of the notebook, use the `#` to comment out anywhere the cell says `df = pd.read_csv` etc, as you've already done that.
+  + There's a lot of data in this dataframe ([here are some examples on how to filter rows](https://www.geeksforgeeks.org/ways-to-filter-pandas-dataframe-by-column-values/) by the way). Let's filter the records to just show us items that were manufactured in Ottawa and Kingston. We'll create a list of the things we're looking for (Ottawa and Kingston), and then we'll create a new dataframe called `ottking_df` by checking the original `df` for anytime our search options are in the column `ManuCity`:
+  ```
+  # let's now filter the dataframe to items created in Ottawa and Kingston
+    options = ['Ottawa', 'Kingston']  
+
+    # selecting rows based on condition  
+    ottking_df = df[df['ManuCity'].isin(options)]
+
+    print('\nResult dataframe :\n',
+      ottking_df)
+      ```
+  + Then try to visualize some dimensions (columns) of the data (which dimensions do you think?); change the labels appropriately too. Hint: you won't run your visualization on the original `df` dataframe. Save copies of your outputs. Anytime you see 'df' in the original code, make sure you've changed that to the data you're actually working with. (Hint: in the block called 'The Bokeh ColumnDataSource, change the `sample = df.sample(50)` to `sample = ottking_df.sample(500)`'. The `.sample` means to grab a certain number of rows of your total data.)
+  + Try to modify some of the other visualization code blocks. Share your code in the course discord space, especially when you run into trouble.
+  + Can you spot anything interesting about the collections data as a result of your visualizations?
+
 3. Using what you know (draw on other notebooks you've seen), can you build some other visualizations of either the demo data for the Programming Historian tutorial, or the CSTM materials, or other GLAM materials in Ottawa (see [Ottawa Datasets](https://dhmuse.netlify.app/building/technotes-toc/#ottawa-datasets))?
 
 Save your notebooks to your own computer, and then lodge a copy of them in your github repository for safekeeping.
