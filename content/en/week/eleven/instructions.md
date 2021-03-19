@@ -18,7 +18,9 @@ weight: -10
 
 ### Do
 
-**If you're feeling overwhelmed, you can take a break this week. Just continue to play with the notebooks from week nine. You don't have to do the items below unless you feel so inclined**
+**If you're feeling overwhelmed, you can take a break this week. Just continue to play with the notebooks from week nine. You don't have to do the items below unless you feel so inclined.**
+
+##### Now Optional:
 
 1. Make a new notebook (or modify an existing one) to load data from a new datasource.
 2. ~~Visualize the provenance of your data using Leaflet~~

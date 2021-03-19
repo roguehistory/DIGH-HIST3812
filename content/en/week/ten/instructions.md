@@ -18,7 +18,9 @@ weight: -10
 
 ### Do
 
-**If you're feeling overwhelmed, you can take a break this week. Just continue to play with the notebooks from last week, get a feel for drawing out data into the notebook. You don't have to do the items below unless you feel so inclined**
+**If you're feeling overwhelmed, you can take a break this week. Just continue to play with the notebooks from last week, get a feel for drawing out data into the notebook. You don't have to do the items below unless you feel so inclined.**
+
+##### Now Optional:
 
 1. [Cleaning Data with R](https://mybinder.org/v2/gh/ChantalMB/cleaning-data-r/master); this notebook works with data that Chantal collected. In Discord, once you've finished with this, bounce some ideas around about what you might like to _do_ with this data; you could even go back to the early weeks in the course and look at some of the examples there for ideas. (The point is: every project has to do data cleaning in order to get things to the point where you can begin to explore it more, but in cleaning it, we open some possibilities and close down others. Think about how this impacts GLAM data and research more generally...)
 2. Work with data in tabular format. For this, I'd like you to launch and follow along [Melanie Walsh's excellent four-part tutorial](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Data-Analysis.html) on working with tabular data in Python using the 'pandas' data package. To launch the individual parts of that tutorial, look for the rocket ship icon and hit that (or download and run on your own machine).
