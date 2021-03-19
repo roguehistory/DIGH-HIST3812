@@ -13,8 +13,9 @@ weight: -10
 
 ### Listen
 
-6th episode of the podcast
+<div align="center"><iframe src="https://anchor.fm/dr-graham/embed/episodes/HIST4916a-Episode-6--the-one-where-we-dial-things-back-et0j4o" height="102px" width="400px" frameborder="0" scrolling="no"></iframe></div>
 
+This week we hear from Fiona Smith Hale, the Chief Knowledge Officer at Ingenium. Also, I reflect on the way this course was built, my hopes for it, and suggest that we dial things back a bit in the light of, well, the world not having gone as planned. That is to say, I had imagined things (gestures wildly) having improved a lot by this point, when the course was built. But we've gone back into the Red zone, and everyone's tired. So let's dial things back a bit.
 
 ### Do
 
