@@ -18,8 +18,10 @@ weight: -10
 
 ### Do
 
+**If you're feeling overwhelmed, you can take a break this week. Just continue to play with the notebooks from week nine. You don't have to do the items below unless you feel so inclined**
+
 1. Make a new notebook (or modify an existing one) to load data from a new datasource.
-2. Visualize the provenance of your data using Leaflet (SG memo: Rachel Opitz workbooks)
+2. ~~Visualize the provenance of your data using Leaflet~~
 3. Or go for something complete different; try out some [sonification](https://mybinder.org/v2/gh/o-date/sonification/master?urlpath=Intro%20to%20Sonification.ipynb) on your data
 
 I don't expect you to do these on your own in splendid isolation; I also don't expect that everyone will complete them. Just push yourself until you get stuck, then talk about it / look for help in Discord.
