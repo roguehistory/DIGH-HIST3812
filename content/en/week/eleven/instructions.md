@@ -13,7 +13,9 @@ weight: -10
 
 ### Listen
 
-7th episode of the podcast
+<div align="center"><iframe src="https://anchor.fm/dr-graham/embed/episodes/HIST4916a-Episode-7--The-future-is-closer-than-you-think-ett16v" height="102px" width="400px" frameborder="0" scrolling="no"></iframe></div>
+
+In this episode, we hear from [Danuta Sierhuis](https://www.danutasierhuis.ca/), museum technologist, arts administrator and fibre artist, and currently the Digital Development Coordinator at Agnes Etherington Art Centre at Queen's University. Danuta has an MA in Art History with Digital Humanities.
 
 
 ### Do
