@@ -1,3 +1,3 @@
-# HIST4916
+# DIGH-HIST 3812
 
-course repository for introduction to dhmuse. winter 2021 edition.
+Course repository for Digital Byzantium forked from Shawn Graham of Carleton University.
