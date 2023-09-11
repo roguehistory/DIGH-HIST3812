@@ -6,7 +6,7 @@ draft: false
 ---
 
 
-{{< notice success "Important" >}} This work is a team sport. You are **never** expected to power through all of this material on your own in heroic scholarly endeavour. If you need help, ask for help; if you can help, offer it. You are not alone.
+{{< notice success "Important" >}} This work is collaborative and is a team sport. You are **never** expected to power through all of this material on your own in heroic scholarly endeavour. If you need help, ask for help; if you can help, offer it. You are not alone.
 {{< /notice >}}
 
 This website is built using Hugo, a static site builder. Static sites are quicker, more secure, and [separate content from container, thus making them more sustainable](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown). I write all of the content in individual text files, which I can then turn into whatever output - html, pdf, word doc - that I need. My writing is freed from subscription-based software that might lock it in. I push all of the text files onto github. Then, I have [netlify.com](http://netlify.com) watch those files for any changes. When it spots changes, it uses Hugo to turn them into html, and serves them up to the world.
