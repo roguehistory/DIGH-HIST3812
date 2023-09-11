@@ -9,8 +9,7 @@ weight: 1
 <table >
 	<tbody>
 		<tr>
-			<td><img src="/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"> </td>
-			<td><img src="/images/scott-webb-ab80p262fFM-unsplash.jpg"</td>
+			<td><img src="static/images/DigiGoldCoin.jpeg"> </td>
 		</tr>
 	</tbody>
 </table>
