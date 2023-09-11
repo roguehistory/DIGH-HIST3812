@@ -20,7 +20,7 @@ Can/do digital techs in the service of GLAM (Galleries, Libraries, Archives and 
 _This course is an opportunity to explore these questions; I do not know the answers! I'm excited to figure these out with you. Why not annotate this section with some of your own questions?_
 
 {{< alert theme="info" >}}
-**Nb** The process of teaching is also a process of collaboration between me and you. Sometimes -and we're expecting this, you and I- things won't work as we expect; tech might break; the world might impinge too much. We will adapt accordingly. Remember: the grade in this course is a function of your process and your evolution, so adapting and thinking through the implications of when things don't go according to plan is, in fact, _according to plan_.
+**Nb** The process of teaching is also a process of collaboration between me and you -- "WE" -- as mentioned in the [Epilogue](https://digitalbyzantine.netlify.app/docs/1-coursedescription/#:~:text=for%20public%20consumption%3F-,Epilogue%3A,-You%20will%20notice). Sometimes -and we're expecting this, you and I- things won't work as we expect; tech might break; the world might impinge too much. We will adapt accordingly. Remember: the grade in this course is a function of your process and your evolution, so adapting and thinking through the implications of when things don't go according to plan is, in fact, _according to plan_.
 {{< /alert >}}
 
 ### Learning Outcomes:
