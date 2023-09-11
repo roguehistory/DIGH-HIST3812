@@ -1,5 +1,5 @@
 ---
-title: "Choosing Our Own Adventure"
+title: "Beginning OUR Digital Journey"
 description: "Obsidian, Hypothesis and the Course Schedule"
 date: 2020-01-28T00:10:37+09:00
 draft: false
