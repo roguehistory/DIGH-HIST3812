@@ -22,11 +22,12 @@ This week is about reading the syllabus and understanding what is expected of yo
 
 Roddick, Andy. 2022   _From Info-Glut to Connected Notes: Obsidian and Digital Note-Taking in Academia_ DMDS Workshops. [Obsidian and Digital-Note Taking in Academia](https://scds.github.io/dmds-22-23/Obsidian.html) 
 
+<div align="center"><iframe src="https://scds.github.io/dmds-22-23/Obsidian.html" height="102px" width="400px"  frameborder="0" scrolling="no"></iframe></div>
+
 {{< notice success "Important" >}}
 Make sure to listen to each weekly episode - talk about the podcast in Discord! It can be hard to start a conversation from scratch with strangers in person or online, and I totally understand the anxiety this may inflict; but, try, reach out, and maybe post some observations or statements from the podcast/video that surprised you or immediately challenge your ideas about what this course might be about. Try to do this each week, and our Discord will start to feel like a 'real' place!
 {{< /notice >}}
 
-<div align="center"><iframe src="https://scds.github.io/dmds-22-23/Obsidian.html" height="102px" width="400px"  frameborder="0" scrolling="no"></iframe></div>
 
 ## Do
 
