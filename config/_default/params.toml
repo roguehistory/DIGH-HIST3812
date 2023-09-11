@@ -1,7 +1,7 @@
 logo = true
-logoText = "HIST4916a"
+logoText = "HIST3812a"
 logoType = "short" # long, short
-description = "Winter 2021 Edition @Carleton U."
+description = "Fall 2023 Edition @Carleton U."
 
 themeOptions = ["light", "dark"]
 
@@ -27,15 +27,15 @@ paginateWindow = 1
 taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
-github = "https://github.com/shawngraham/hist4916"
+github = "https://github.com/roguehistory/DIGH-HIST3812"
 
 
 #whoami
 enableWhoami = true
-myname = "Dr. Shawn Graham"
-email = "shawn.graham@carleton.ca"
-whoami = "Full Professor"
-biImageUrl = "https://carleton.ca/history/wp-content/uploads/Shawn-Graham-600x800-200x200.jpg"
+myname = "Scott Coleman"
+email = "scottcoleman@cmail.carleton.ca"
+whoami = "Professor"
+biImageUrl = "https://carleton.ca/history/wp-content/uploads/Scott-Coleman-profile-photo-thumbnail-200x200.jpg"
 
 # comment
 enableComment = false
