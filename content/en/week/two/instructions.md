@@ -79,7 +79,7 @@ Discord is a chat server that also allows voice, video, and screensharing. We wi
 
 Once you're in, there's a welcome message with a reaction emoji at the end - click on the thumbs up to confirm that you've read the message. This will unlock the various channels in the server, including voice and screensharing.
 
-And yes, I recycled Dr. Graham's screenshots from his Crafting Digital History course.
+**And yes, I recycled Dr. Graham's screenshots from his Crafting Digital History course.**
 
 ![welcome-message](/images/discord/first-welcome-message.png)
 ![click-the-reaction](/images/discord/click-here.png)
