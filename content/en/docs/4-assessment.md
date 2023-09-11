@@ -23,7 +23,7 @@ You do not need to use your real name or identity on any public-facing work that
 
 ### 1) Participation: 10%
 
-Constructive and engaged participation in class is what I am looking for. Come to class prepared to discuss readings and podcasts with your peers. Voila, you have participated.
+Constructive and engaged participation in class is what I am looking for. Come to class prepared to discuss readings and podcasts with your peers. Participation also includes contributing to the class Obsidian Vault and Hypothesis Group. 
 
 ### 2) Podcast Analysis: 15% (5% each, 500-word max).
 
