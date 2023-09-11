@@ -33,12 +33,11 @@ You will notice that I often use common vernacular and "WE" often. Why? First, [
 We will focus on processes and discuss complex topics without the expectation that you will know all the technical jargon. Secondly, the "We" is precisely what it means. You and I will explore together, discuss, and collaborate throughout the course. Western academia/universities are embedded with colonialist structures that have created hierarchal systems that produce power structures. The professor-student relationship is one of those structures that, in some cases, can oppress or discourage the student's ability to be creative and produce new and insightful historical narratives. I want to promote and enable a constructive learning environment that focuses on rigorous, creative historical narrative construction. [My Gothic Dissertation](https://www.mygothicdissertation.com)  by Dr. Anna Williams, provides excellent examples of exploited power imbalances in academia between professor and student over and above the thesis' exploration of the Gothic literary genre.) **Moreover, I am learning from you in this class just as much as you are learning from me.**
 
 {{< alert theme="info" >}}
-**You do not need to be 'techy' to be successful in this course! You just need to be diligent, honest, and open.**
+**You do not need to be 'techy' to be successful in this course! You just need to be diligent, honest, and open.** Nevertheless, you will be exposed to several platforms, techs, and approaches that you may not have experienced before. **The key is to be open** and willing to talk about when things don't go as expected.
 {{< /alert >}}
 
-This course is not as tech heavy as some of my other classes. Nevertheless, you will be exposed to several platforms, techs, and approaches that you may not have experienced before. **The key is to be open** and willing to talk about when things don't go as expected.
 
-You will read, watch, listen to, and discuss the class materials via various online tools including [Hypothes.is](http://hypothes.is) and [Obsidian.md](https://obsidian.md/) (Speaking of Hypothes.is, highlight a word on this page and see what happens). We do not use cuLearn in the course. We work on the open web instead.  What is challenging for one student will not necessarily be challenging for another, and I expect you to push yourself and pull others along as you go. Thus open and honest reporting of what works and what hasn’t worked, is a meaningful aspect of this course. **Again: You don’t need to be techy to succeed, but you do need to be willing to embrace when things go ‘wrong’.**
+You will read, watch, listen to, and discuss the class materials via various online tools, including [Hypothes.is](http://hypothes.is) and [Obsidian.md](https://obsidian.md/) (Speaking of Hypothes.is, highlight a word on this page and see what happens). We do not use cuLearn in the course. We work on the open web instead.  What is challenging for one student will not necessarily be challenging for another, and I expect you to push yourself and pull others along as you go. Thus open and honest reporting of what works and what hasn’t worked, is a meaningful aspect of this course. **Again: You don’t need to be techy to succeed, but you do need to be willing to embrace when things go ‘wrong’.**
 
 {{< alert theme="info" >}}
 My goal here is to teach you to use certain digital techs; to unpack and interrogate those techs you learn to use; and to equip you to use these things in a reflective manner.
@@ -47,7 +46,10 @@ My goal here is to teach you to use certain digital techs; to unpack and interro
 It's going to be uncomfortable. There will be things we try here that will not work. That's why the assessment for this course is built around the _process_, not the final _product_.
 
 ### Text/Tech
-To the best of my ability, all materials will either be open access materials on the web or materials made available to us through MacOdrum Library or the University. You will not be required to purchase any set text or software.
+To the best of my ability, all materials will either be open access materials on the web or materials made available to us through MacOdrum Library or the University. You will not be required to purchase any set text or software. 
+
+There are no required texts for this course.
+Note: All listed materials without a link can be found on the HIST/DIGH 3812 course page in ARES through Carleton’s Library services. Book Chapters are available there as PDFs, and are also on reserve. Please Note: All selected readings are subject to revision and change, depending on course direction/needs.
 
 
 ### Class format
