@@ -12,7 +12,7 @@ draft: false
 	</tbody>
 </table>
 
-Professor Coleman can be found online at
+Professor Coleman can be found either at
 
 ### Office Hours:
 
