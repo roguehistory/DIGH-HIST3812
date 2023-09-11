@@ -1,15 +1,15 @@
 ---
-title: DHMuse
-description: Building a GLAM Workbench for Ottawa
+title: DigitalByzantium
+description: Exploring Digital Representations of Byzantium
 date: 2020-01-26T04:15:05+09:00
 draft: false
 # updatesBanner: "Banner - &nbsp; [Hugo ZDoc theme](https://github.com/zzossig/hugo-theme-zdoc) &nbsp; just arrived"
 landing:
   image: favicon/android-icon-192x192.png
   title:
-    - Digital History + Museums
+    - Digital Byzantium
   text:
-    - HIST4916a Winter 2021 @Carleton_U with Dr. Shawn Graham
+    - HIST/DIGH3812a Fall 2023 @Carleton_U with Professor Scott Coleman
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
