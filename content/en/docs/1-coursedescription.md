@@ -1,6 +1,6 @@
 ---
 title: "1. Course Description"
-description: "what to tell your friends"
+description: "what is this course about?"
 date: 2020-01-28T00:39:09+09:00
 draft: false
 weight: 1
