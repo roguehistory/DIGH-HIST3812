@@ -15,7 +15,7 @@ I wanted this course to be about exploration and figuring out what this field, D
 3. Understand what this course is about
 4. Start thinking about your goals for this course
 
-This week is about reading the syllabus and understanding what is expected of you in this course. Get Hypothesis, Discord, and Obsidian set up; introduce yourself to the class in the `social` channel in Discord. Take your time, read through the instructions, and ask for help of your peers or send me a note. **You are encouraged to collaborate throughout in this course; just acknowledge help you receive from others**.
+This week is about reading the syllabus and understanding what is expected of you in this course. Get Hypothesis, Discord, and Obsidian set up; introduce yourself to the class in the `general` channel in Discord. Take your time, read through the instructions, and ask for help of your peers or send me a note. **You are encouraged to collaborate throughout in this course; just acknowledge help you receive from others**.
 
 
 ### Listen
