@@ -33,21 +33,21 @@ In Thursday’s classes, students will participate in a brief 30-minute class di
 
 ### 3) Collaborative Project Proposal: 10% (500-word max).
 
-Proposals will be assessed on individual (5%) and collaborative (5%) contributions, with a singular group proposal being submitted in class on November 2nd. The writing of the proposal, along with any additional documents, media, etc., should be a shared effort. You may, for example, want to use Google Docs to create a shared document that you and your group can collaborate and contribute to. As with many co-authored history articles and archaeological projects, cooperation and compromise are key for a successful project. History is not written or digitized by one person. It’s a team effort, and not all teams have equal strengths. But together, we can build a more inclusive digital history.
+Proposals will be assessed on collaborative contributions that focus on the process of developing a detailed plan for group execution of your project; with a singular group proposal being submitted in class on November 2nd. The writing of the proposal, along with any additional documents, media, etc., should be a shared effort. You may, for example, want to use Google Docs to create a shared document that you and your group can collaborate and contribute to. As with many co-authored history articles and archaeological projects, cooperation and compromise are key for a successful project. History is not written or digitized by one person. Not one person digs an entire archaeological site and then writes the report. It’s a team effort, and not all teams have equal strengths. But together, we can build a more inclusive digital history.
 
 Thus, **be supportive** of your peers if you see an individual struggling. **Help**, **encourage, and be compassionate.** We all have lives outside of the classroom, and we all are dealing with personal stuff.  Reach out if you need help. The ‘Digital’ is ever-evolving and changes daily in a blink of an eye. No one can keep on top of the newest digital craze. I know I can’t. **What is challenging for one student will not necessarily be challenging for another, and I expect you to push yourself and pull others along as you go.** For your proposals, we will discuss how to proceed in a collaborative manner in more detail during class.
 
-**Your final project proposal should include the following:**
+{{< alert theme="warning" >}} **Your final project proposal should include the following:**
 
-1)     The basic topic/idea that you are interested in pursuing (i.e. what will this project be about); this might include a historical period or place, events or persons, or ideas etc.).
+1) The basic topic/idea that you are interested in pursuing (i.e. what will this project be about); this might include a historical period or place, events or persons, or ideas etc.).
 
-2)     The medium you will use to build your project (is it a game? A podcast? A virtual story? A blog?).
+2) The medium you will use to build your project (is it a game? A podcast? A virtual story? A blog?).
 
-3)     Any specific software or tools you know you will use and how you intend to acquire them.
+3) Any specific software or tools you know you will use and how you intend to acquire them.
 
-4)     A basic roadmap that outlines how you are going to pursue your research and build this project.
+4) A basic roadmap that outlines how you are going to pursue your research and build this project.
 
-5)     An early bibliography that includes 4-6 potential sources you are thinking of using in your research.
+5) An early bibliography that includes 4-6 potential sources you are thinking of using in your research.{{< /alert >}}
 
 ### 4) Case Studies: 30% (15% each)
 
