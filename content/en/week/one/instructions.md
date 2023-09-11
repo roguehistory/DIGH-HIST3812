@@ -10,46 +10,8 @@ weight: -10
  1. Introduce yourself. [X]
  2. Chat about the course. [x]
  
-### Listen
 
-The course podcast will be my opportunity to speak to you each week about what's going on in this course, things I want you to pay attention to, and individuals in the wider GLAM world that I want to introduce you to through a series of interviews.
 
-{{< notice success "Important" >}}
-Make sure to listen to each episode - talk about the podcast in Discord! It can be hard to start a conversation from scratch with strangers in an online class, I get that; maybe post some observations or statements from the podcast that surprised you or immediately challenge your ideas about what this course might be about. Try to do this each week, and our Discord will start to feel like a 'real' place!
-{{< /notice >}}
-
-<div align="center"><iframe src="https://anchor.fm/dr-graham/embed/episodes/HIST4916a-Episode-1-Welcome--Or--What-Is-This-All-About-enhoog/a-a42noid" height="102px" width="400px" frameborder="0" scrolling="no"></iframe></div>
-
-[Episode 1 Script/Transcript](transcripts/episode1)
-
-I will sometimes also provide links to other interesting podcasts as I find them, and I encourage you to listen to them as well. For instance, this is a good one for us to start with: [New Thinking about Museums](https://www.bbc.co.uk/programmes/p08v3fl5). This is optional.
-
-> What are people saving and what's missing from museums? Eleanor Rosamund Barraclough talks to researchers Fiona Candlin, Henrietta Lidchi, Sarah Maltby, & Edward Harcourt.  https://www.bbc.co.uk/programmes/p08v3fl5
-
-### Do
-
-Tech Set Up Time!
-
-#### 1. Get Hypothesis & Join Our Class Group
-
-Create an account at [hypothes.is](http://hypothes.is):
-
-![](https://d242fdlp0qlcia.cloudfront.net/uploads/2015/08/28181440/signin.png)
-
-Get the Chrome app or the Firefox bookmarklet:
-
-![](https://d242fdlp0qlcia.cloudfront.net/uploads/2015/08/28181440/install.png)
-
-Make sure you're logged in:
-
-![](https://d242fdlp0qlcia.cloudfront.net/uploads/2015/08/28181440/signin2.png)
-
-Then join [our HIST4916a reading group](https://hypothes.is/groups/AQerk76W/4916a-museums-dh). If you happen to be reading something, and see an existing annotation that interests you, hit the 'reply' button on the annotation to start a conversation! Sometimes, the person to whom you're replying might be a previous year's student, but that's ok; they might enter into conversation with you. Sometimes, it might be a person who isn't a Carleton student but is following along with the course. That's ok too. Be respectful!
-
-[There is a student guide to Hypothes.is behind this link](https://web.hypothes.is/quick-start-guide-for-students/). Read that for the full information how using Hypothesis.
-
-{{< notice success "Important" >}} Hypothesis is the main tool we use to enable an asynchronous seminar discussion. Hypothesis exists on the open web, so make sure you're always making your annotations in the **group space**, not the **public** space. Finally, you may want to use the [crowdlaaers](https://crowdlaaers.org/) service to keep track of the global development of our annotation space - go to that site, click on 'Groups', and follow the prompts to connect your Hypothesis account to the service.
-{{< /notice >}}
 
 #### 2. Join our Discord
 
