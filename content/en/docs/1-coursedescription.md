@@ -5,19 +5,20 @@ date: 2020-01-28T00:39:09+09:00
 draft: false
 weight: 1
 ---
+## HIST/DIGH 3812a Digital Byzantium
 
 <table >
 	<tbody>
 		<tr>
 			<td><img src="https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1606964790651-5D90Y5MIM8ZKYUI67ILB/06875263-414E-4AAC-81EB-981B2AA84631.jpeg?format=2500w"> </td>
 		</tr>
-		<p>Photo: Scott Coleman @ roguehistory.ca </p>
+		<p>Photo: Scott Coleman, www.roguehistory.ca </p>
 	</tbody>
 </table>
 
 
 
-## HIST/DIGH 3812a Digital Byzantium
+## Overview
 
 What impact(s) does the ‘Digital’ have on the production of ancient and medieval history for public consumption? What is Digital History? What does it mean to perform a Digital Public History or a Public Digital History? In this course, we will explore the above questions by introducing students to the Digital Public History and Archaeology of Byzantium (330 - 1453 CE) and the approaches used to create digital narratives around Byzantine History and Archaeology for public consumption. We will discuss who the Byzantines were (Romans or _Romaioi_), where they lived (the Eastern Roman Empire/Romanland or _Rhōmania_), and how the ‘digital’ influences the construction of narratives around Byzantine artifacts to represent Byzantine history for digital consumption by the public.
 
