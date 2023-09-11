@@ -1,5 +1,5 @@
 ---
-title: Technical Notes
+title: Class Resources
 description: technical stuff
 blogHeaderType: text
 headerHeight: 112
