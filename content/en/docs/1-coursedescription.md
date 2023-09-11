@@ -9,7 +9,7 @@ weight: 1
 <table >
 	<tbody>
 		<tr>
-			<td><img src="static/images/DigiGoldCoin.jpeg"> </td>
+			<td><img src="![[static/images/DigiGoldCoin.jpeg]]"> </td>
 		</tr>
 	</tbody>
 </table>
