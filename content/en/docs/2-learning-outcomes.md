@@ -7,13 +7,15 @@ weight: 2
 ---
 ### Questions
 
-How do institutions in the GLAM sector use digital media to support their missions?
+What impact(s) does the ‘Digital’ have on the production of ancient and medieval history for public consumption? 
 
-Do digital techs push us towards particular voices in GLAM materials?
+What is Digital History? What does it mean to perform a Digital Public History or a Public Digital History?
 
-Can/do digital techs in the service of GLAM harm different communities? And if so, how? And what can we do about it?
+How do institutions digitally represent Byzantium to the public?
 
-Where are the new frontiers in CHI and GLAM?
+Do digital techs push us towards particular voices in Byzantine studies?
+
+Can/do digital techs in the service of GLAM (Galleries, Libraries, Archives and Museums) perform colonial practices that erase ancient and medieval identities from communities? And if so, how? And what can we do about it?
 
 _This course is an opportunity to explore these questions; I do not know the answers! I'm excited to figure these out with you. Why not annotate this section with some of your own questions?_
 
@@ -21,13 +23,19 @@ _This course is an opportunity to explore these questions; I do not know the ans
 **Nb** The process of teaching is also a process of collaboration between me and you. Sometimes -and we're expecting this, you and I- things won't work as we expect; tech might break; the world might impinge too much. We will adapt accordingly. Remember: the grade in this course is a function of your process and your evolution, so adapting and thinking through the implications of when things don't go according to plan is, in fact, _according to plan_.
 {{< /alert >}}
 
-### Outcomes
+### Learning Outcomes:
 
-1. Situate the practice, ethical, and intellectual trajectories of informatics within the cultural heritage field
-2. Implement and contribute to a ‘GLAM Workbench’, a series of interactive computational notebooks dealing with data from the Ottawa galleries-libraries-archives-museums sector
-3. Investigate open data sources, using the methods/techniques/perspectives of digital history and digital humanities
-4. Develop a how-to for the workbench that communicate the results of these investigations as an act of public digital history
-5. Given that this is an online course, another outcome will be your ability to conduct such research independently. However, no one operates in a vacuum; digital historians collaborate to troubleshoot or develop technologies, and through open practices to data sharing and reuse, learn to build upon each others’ work in a collaborative fashion.
+1) Discuss, contextualize and conduct independent and collaborative research on Byzantine Studies as a discipline within Digital History frameworks.
+
+2) Identify cultural heritage and ethical issues concerning material culture and Digital Cultural Heritage.
+
+3) Implement and contribute personal and collaborative research to Obsidian.md Class Vault. 
+
+4) Investigate open data sources, using the methods/techniques/perspectives of digital history and digital humanities.
+  
+5) Create a public-facing project utilizing the digital methods that reflect what you have learned in the course. 
+
+By the end of the course, students should be able to analyze and assess historical documents, artifacts, and other primary sources within the prism of Digital Humanities. Students will be able to 1) evaluate and critically assess digital representations of that past, 2) apply historical, archaeological and digital methodologies, and 3) conduct independent and collaborative research that demonstrates a student's abilities to critically evaluate historical thinking in order to 4) produce a public-facing digital project within a group/collaborative environment.
 
 ### Real Names Policy
 
