@@ -1,35 +1,41 @@
 ---
 title: "Choosing Our Own Adventure"
-description: "Curiosity and the Course Schedule"
+description: "Obsidian, Hypothesis and the Course Schedule"
 date: 2020-01-28T00:10:37+09:00
 draft: false
 weight: -10
 ---
 
-I wanted this course to be about exploration and figuring out what this field, CHI, meant for this sector, GLAM. As we built this course in the fall, I realized I was making a huge mistake. It was too controlled. Too rigid. Too much about me. When we go to a museum, library, gallery, or archive... it's all about you, and _your_ exploration. That's how meaning emerges, right? So we tried to come up with a way for you to set the agenda and still meet the learning goals.  
+I wanted this course to be about exploration and figuring out what this field, Digital History, meant for Byzantine Studies. As I began building this course in the relatively short span in which I was allotted, I realized I wanted to emulate my supervisor, Dr. Graham's pedagogical approach. I want the course to be all about you, and _your_ exploration. That's how meaning emerges, right? So I've discussed, fiddled, listened to you in the first class and tried to come up with a way for you to set the agenda and still meet the learning goals.  I hope I succeed and meet your expectations. 
 
 ### Goals for this week
 
 1. Settle the schedule
-2. Explore the GLAMWorkbench
+2. Explore Obsidian.md and Hypothesis.is
 
 ### Listen
 
+Roddick, Andy. 2022   _From Info-Glut to Connected Notes: Obsidian and Digital Note-Taking in Academia_ DMDS Workshops. [Obsidian and Digital-Note Taking in Academia](https://scds.github.io/dmds-22-23/Obsidian.html) 
+
 {{< notice success "Important" >}}
-Make sure to listen to each episode - talk about the podcast in Discord! It can be hard to start a conversation from scratch with strangers in an online class, I get that; maybe post some observations or statements from the podcast that surprised you or immediately challenge your ideas about what this course might be about. Try to do this each week, and our Discord will start to feel like a 'real' place!
+Make sure to listen to each weekly episode - talk about the podcast in Discord! It can be hard to start a conversation from scratch with strangers in person or online, and I totally understand the anxiety this may inflict; but, try, reach out, and maybe post some observations or statements from the podcast/video that surprised you or immediately challenge your ideas about what this course might be about. Try to do this each week, and our Discord will start to feel like a 'real' place!
 {{< /notice >}}
 
-<div align="center"><iframe src="https://anchor.fm/dr-graham/embed/episodes/HIST4916a-Episode-2-Choose-Your-Own-Adventure-enkh6r" height="102px" width="400px"  frameborder="0" scrolling="no"></iframe></div>
+<div align="center"><iframe src="https://scds.github.io/dmds-22-23/Obsidian.html" height="102px" width="400px"  frameborder="0" scrolling="no"></iframe></div>
 
-[Episode 2 Script/Transcript](transcripts/episode2)
+## Do
 
-### Do
+### Obsidian: What is it?
+This week, we will explore [Obsidian.md](https://obsidian.md/), a program that can be run on Windows, Mac OS, Linux, and more. I will show you how to install it onto your computer (it's free) and provide a tutorial on its basic functionality. The program uses Markdown (md) language (plain text) that is "future-proof" for note-taking and stores files locally on your computer with the option to sync through cloud services. Think of Obsidian as your second brain to store your thoughts, ideas, and inspirations. We will use Obsidian to develop notes together and independently and generate weekly discussions amongst our peers. By the end of the term, my goal is for us to have a significant repository of notes compiled that will allow you to think critically and creatively and inform your final project. We will explore the Zettlekasten system (Atomic notes), and what backlinks, outgoing links, Tags, and mindmaps (Cnavas) can do for your note creation. We will also discuss strategic reading and note-taking. 
 
-1. [Choose Your Own DHMuse Adventure](https://padlet.com/shawngraham1/jnpyi1hmkjbtzbp0). Open that link in a new window.
-  -> Add a tile by clicking on the big plus sign, bottom right.
-  -> Select 3 possible readings that intersect with your interests from at least two areas in [our library](building/library), and paste them in; find something we should watch; and find something to explore. So five things, ok?
-  -> We will arrive at a path through these materials by consensus, resolving any conflicts, discussing in the appropriate discord space. I'll then add connections as per our discussion so you can see the logic, and assign dates. I will update the relevant weeks on this course website as well so you can schedule appropriately.
-2. Explore the [Glam Workbench](https://glam-workbench.github.io/). One of the outcomes for this course is for us, as a class, to create a simpler version of this. What kinds of 'tacit knowledge' are required to be made explicit for you to work with this material? Discuss in our discord space.
+Obsidian is relatively easy to learn, and you do not need to be a coder, programmer or techie to learn or use the software. Trust me, I am from the pre-internet era and quickly learned this. We will start by developing notes together in week two. Since archaeological sites and museums are comprised of individuals working as teams to excavate and create knowledge about the past and promote knowledge exploration and dissemination to the public, I want us to explore how we create and disseminate knowledge both independently and as a collective in this course.  
 
-{{< notice success "Important" >}} By all means, try some of the more technical aspects of the GLAMWorkbench. But remember: with tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
+#### Readings: 
+**Sönke Ahrens'  book, _How to Take Smart Notes_, is meant for you to skim through for the duration of the course. This is not, strictly speaking, a peer-reviewed academic book, but it is a great source to learn how to create notes or Atomic notes. As Andy Roddick (2022) observes, making notes, not taking notes, forces you to think more critically about the ideas you formulate and record as notes.**
+
+Ahrens, Sönke. 2017   _How to Take Smart Notes : One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers._ Place of publication is not identified_. Sönke Ahrens. 
+
+
+
+{{< notice success "Important" >}} By all means, try some of the more technical aspects of Obsidian. But remember: with tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}
