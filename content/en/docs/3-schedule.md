@@ -21,7 +21,16 @@ The course was developed to simulate how archaeological and curatorial practices
 **Week 11: Case Study #2**
 
 **The last phase (weeks 12-14)** centres around digital methods and theory to (re)address how Byzantine (or what label we agree upon) identity can be reinterpreted, re-imagined, and presented to the public in a more informative, inclusive and enchanting format. In phase three, we dive into the meat and potatoes for creating digital enchantment around Byzantine history. We explore concepts in cultural heritage and cultural property, "agile" objects and the "Digital Twin," how the sensorial creates effective public engagement with emotive intersections to help facilitate the creation of enchantment, and narrative visualization. Furthermore, I will introduce you to Roman and Byzantine coins in their physical state and with 3D models in order to experience the emotive differences when engaging with coins in these mediums. This leads us to the final project of the course (described in the assessments section), which will be digitally based and collaboratively produced. See the [4. Assessment – HIST3812a](https://digitalbyzantine.netlify.app/docs/4-assessment/) section for due dates and grading breakdown.
- 
+
+### When Life Intervenes
+
+There's nothing we can't roll with, in this class. That said, I can't help you if I don't know you need help, a breathing space, some direction. When something comes up, just let me know.
+
+{{< notice success "Important" >}} You don't have to share the details with me. It is enough for me to know that something has intervened. I trust you.
+{{< /notice >}}
+
+When something comes up and this course has to move to the backburner, contact me and we can **figure out something else to do, or something else that will help you be successful here**. It's our course - we can change things up as we need to.
+
 ---
 ## Course Calendar
 
