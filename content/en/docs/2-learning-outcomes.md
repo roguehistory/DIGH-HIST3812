@@ -39,19 +39,3 @@ _This course is an opportunity to explore these questions; I do not know the ans
 
 By the end of the course, students should be able to analyze and assess historical documents, artifacts, and other primary sources within the prism of Digital Humanities. Students will be able to 1) evaluate and critically assess digital representations of that past, 2) apply historical, archaeological and digital methodologies, and 3) conduct independent and collaborative research that demonstrates a student's abilities to critically evaluate historical thinking in order to 4) produce a public-facing digital project within a group/collaborative environment.
 
-### Real Names Policy
-
-You do not need to use your real name or identity on any public-facing work that you do in this course. Nor do you need to explain to me why you wish to use a pseudonym. It is sufficient that you send an email to me with the following message:
-
-‘I would like to use the following username in all public-facing work: xxxxxxxx’
-
-…where xxxxx is the name you have selected. No questions asked. For safety’s sake, if you decide to use a pseudonym, do not use one that you have used on any other website or social media platform.
-
-### When Life Intervenes
-
-There's nothing we can't roll with, in this class. That said, I can't help you if I don't know you need help, a breathing space, some direction. When something comes up, just let me know.
-
-{{< notice success "Important" >}} You don't have to share the details with me. It is enough for me to know that something has intervened. I trust you.
-{{< /notice >}}
-
-When something comes up and this course has to move to the backburner, contact me and we can **figure out something else to do, or something else that will help you be successful here**. It's our course - we can change things up as we need to.
