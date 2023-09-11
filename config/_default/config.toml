@@ -1,4 +1,4 @@
-baseURL = "https://dhmuse.netlify.app" # never ever have a 3 in the baseURL
+baseURL = "https://digh3812-f23.netlify.app/" # never ever have a 3 in the baseURL
 title = "HIST4916a DHMuse"
 theme = "zdoc"
 description = "HIST4916a Digital History + Museums, Winter 2021 Carleton U"
