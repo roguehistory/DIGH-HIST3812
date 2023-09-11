@@ -10,8 +10,8 @@ weight: 1
 	<tbody>
 		<tr>
 			<td><img src="https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1606964790651-5D90Y5MIM8ZKYUI67ILB/06875263-414E-4AAC-81EB-981B2AA84631.jpeg?format=2500w"> </td>
-			<p>Photo: Scott Coleman @ roguehistory.ca </p>
 		</tr>
+		<p>Photo: Scott Coleman @ roguehistory.ca </p>
 	</tbody>
 </table>
 
