@@ -17,6 +17,8 @@ You will be evaluated on Participation, three Podcast analyses **(due weeks 4, 7
 
 You do not need to use your real name or identity on any public-facing work that you do in this course. Nor do you need to explain to me why you wish to use a pseudonym. **It is sufficient that you send an email to me with the following message: ‘I would like to use the following username in all public-facing work: xxxxxxxx’…where xxxxx is the name you have selected.** No questions asked. For safety’s sake, if you decide to use a pseudonym, do not use one that you have used on any other website or social media platform.
 
+{{< alert theme="warning" >}} Do not attempt to speedrun this course. By 'speedrun' I mean, you leave it until the end and try to do all of the work in one intense session. Work done in that fashion cannot, by virtue of it all being dumped in my lap at the end of the course, take into account feedback, peer collaboration, or have any meaningful engagement with the materials. Thus, work done in this fashion cannot meet the learning goals of the course, with negative implications for your grade. Do not do this. {{< /alert >}}
+
 ## Grading:
 
 ### 1) Participation: 10%
