@@ -1,23 +1,15 @@
 ---
 title: "Getting Started"
-description: "in which we lay the groundwork for what this course will explore, its larger contexts, and what the major research questions are."
+description: "Getting to Know Each Other."
 date: 2020-01-28T00:10:37+09:00
 draft: false
 weight: -10
 ---
 
-> in which we lay the groundwork for what this course will explore, its larger contexts, and what the major research questions are.
-
 ### Goals for this week
-
-1. Get up and running with Hypothesis, Discord, and Github
-2. Understand what this course is about
-3. Start thinking about your goals for this course
-
-This week is about reading the syllabus and understanding what is expected of you in this course. Get Hypothesis, Discord, and Github set up; introduce yourself to the class in the `social` channel in Discord. Take a look at [our library](/building/library) and start thinking about the readings for which you might like to take the [discussion leader role](building/dl-guidance/). In Week 2, you'll make your selection.
-
-Take your time, read through the instructions, and ask for help of your peers or send me a note. **You are encouraged to collaborate throughout in this course; just acknowledge help you receive from others**.
-
+ 1. Introduce yourself. [X]
+ 2. Chat about the course. [x]
+ 
 ### Listen
 
 The course podcast will be my opportunity to speak to you each week about what's going on in this course, things I want you to pay attention to, and individuals in the wider GLAM world that I want to introduce you to through a series of interviews.
