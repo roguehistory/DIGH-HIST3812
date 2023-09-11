@@ -11,6 +11,6 @@ Original content by Scott Coleman, which has been forked and modified from Dr. S
 
 Please feel free to reuse exercises in your own course materials, with a link back to the original page.
 
-Corrections, modifications, additions are welcome; please fork, and then modify accordingly. Once you're ready, [make a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). The original repository is at [https://github.com/shawngraham/hist4916](https://github.com/shawngraham/hist4916).
+Corrections, modifications, additions are welcome; please fork, and then modify accordingly. Once you're ready, [make a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). The original repository is at [roguehistory/DIGH-HIST3812](https://github.com/roguehistory/DIGH-HIST3812) and Dr. Graham's at [https://github.com/shawngraham/hist4916](https://github.com/shawngraham/hist4916).
 
 All contributions will be duly credited.
