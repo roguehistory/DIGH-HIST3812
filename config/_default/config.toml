@@ -1,4 +1,4 @@
-baseURL = "digitalbyzantine.netlify.app/" # never ever have a 3 in the baseURL
+baseURL = "https://digitalbyzantine.netlify.app/" # never ever have a 3 in the baseURL
 title = "HIST3812a Digital History"
 theme = "zdoc"
 description = "HIST3812, Digital Byzantium, Fall 2023 Carleton U"
