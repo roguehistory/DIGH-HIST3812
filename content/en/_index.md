@@ -5,7 +5,7 @@ date: 2020-01-26T04:15:05+09:00
 draft: false
 # updatesBanner: "Banner - &nbsp; [Hugo ZDoc theme](https://github.com/zzossig/hugo-theme-zdoc) &nbsp; just arrived"
 landing:
-  image: favicon/noun-warrior-4701516.png
+  image: favicon/noun-warrior-192x192.jpeg
   title:
     - Digital Byzantium
   text:
