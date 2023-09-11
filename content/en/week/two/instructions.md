@@ -40,6 +40,30 @@ Obsidian is relatively easy to learn, and you do not need to be a coder, program
 
 Ahrens, Sönke. 2017   _How to Take Smart Notes : One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers._ Place of publication is not identified_. Sönke Ahrens. 
 
+### Do
+
+Tech Set Up Time!
+
+#### 1. Get Hypothesis & Join Our Class Group
+
+Create an account at [hypothes.is](http://hypothes.is):
+
+![](https://d242fdlp0qlcia.cloudfront.net/uploads/2015/08/28181440/signin.png)
+
+Get the Chrome app or the Firefox bookmarklet:
+
+![](https://d242fdlp0qlcia.cloudfront.net/uploads/2015/08/28181440/install.png)
+
+Make sure you're logged in:
+
+![](https://d242fdlp0qlcia.cloudfront.net/uploads/2015/08/28181440/signin2.png)
+
+Then join [our HIST/DIGH 3812a reading group](https://hypothes.is/groups/7rRegnDX/hist-digh-3812). If you happen to be reading something, and see an existing annotation that interests you, hit the 'reply' button on the annotation to start a conversation! Sometimes, the person to whom you're replying might be a previous year's student, but that's ok; they might enter into conversation with you. Sometimes, it might be a person who isn't a Carleton student but is following along with the course. That's ok too. Be respectful!
+
+[There is a student guide to Hypothes.is behind this link](https://web.hypothes.is/quick-start-guide-for-students/). Read that for the full information on how to use Hypothesis.
+
+{{< notice success "Important" >}} Hypothesis exists on the open web, so make sure you're always making your annotations in the **group space**, not the **public** space. Finally, you may want to use the [crowdlaaers](https://crowdlaaers.org/) service to keep track of the global development of our annotation space - go to that site, click on 'Groups', and follow the prompts to connect your Hypothesis account to the service.
+{{< /notice >}}
 
 
 {{< notice success "Important" >}} By all means, try some of the more technical aspects of Obsidian. But remember: with tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
