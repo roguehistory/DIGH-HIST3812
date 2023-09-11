@@ -24,6 +24,6 @@ Email: scottcoleman@cmail.carelton.ca
 ## or 
 Twitter at [Scott Coleman, M.A. (@scottcoleman79) / X](https://twitter.com/scottcoleman79)
 ## or
-Discord at scottcoleman79 and will **try** to be present in our class discord server every day between the hours of 11 a.m. to 4 p.m.
+Discord at scottcoleman79: I will **try** to be present in our class discord server every day between the hours of 11 a.m. to 4 p.m.
 ## or 
 www.roguehistory.ca 
