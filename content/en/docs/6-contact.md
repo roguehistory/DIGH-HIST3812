@@ -19,11 +19,15 @@ Professor Coleman can be found online at
 Tuesday and Thursday, 3:00 to 4:00 pm or by appointment.
 Office: PA406
 
-### E-Contact
-Email: scottcoleman@cmail.carelton.ca 
-## or 
-Twitter at [Scott Coleman, M.A. (@scottcoleman79) / X](https://twitter.com/scottcoleman79)
-## or
-Discord at scottcoleman79: I will **try** to be present in our class discord server every day between the hours of 11 a.m. to 4 p.m.
-## or 
+## E-Contact
+#### Email:
+scottcoleman@cmail.carelton.ca 
+or 
+#### Twitter:
+[Scott Coleman, M.A. (@scottcoleman79) / X](https://twitter.com/scottcoleman79)
+or
+#### Discord:
+scottcoleman79: I will **try** to be present in our class discord server every day between the hours of 11 a.m. to 4 p.m.
+or 
+#### Blog:
 www.roguehistory.ca 
