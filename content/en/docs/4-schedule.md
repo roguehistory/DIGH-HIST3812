@@ -1,9 +1,9 @@
 ---
-title: "4. Course Schedule"
+title: "3. Course Schedule"
 description: "what happens when, and where"
 date: 2020-01-28T00:38:48+09:00
 draft: false
-weight: 4
+weight: 3
 ---
 
 Check out the [weekly instructions](/week) for detailed guidance for what you should be doing each week.
