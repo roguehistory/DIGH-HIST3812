@@ -83,7 +83,7 @@ And yes, I recycled Dr. Graham's screenshots from his Crafting Digital History c
 
 ![welcome-message](/images/discord/first-welcome-message.png)
 ![click-the-reaction](/images/discord/click-here.png)
-(Alex is a student who works for me on [the bone trade project](http://bonetrade.github.io) if you were wondering.)
+(Alex is a student who works for Dr. Graham on [the bone trade project](http://bonetrade.github.io) if you were wondering.)
 
 You can customize your profile by clicking on the cogwheel icon at the bottom of the navigation:
 
