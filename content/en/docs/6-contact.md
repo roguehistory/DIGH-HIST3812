@@ -7,7 +7,7 @@ draft: false
 <table >
 	<tbody>
 		<tr>
-			<td><img src="https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1600039468747-7AO7GEYDDNRII2FN3K98/CB7E3FA1-75EF-4FCB-9B26-12C467483E43.jpg?format=2500w"> </td>
+			<td><img src="https://www.roguehistory.ca/about-rogue-history"> </td>
 		</tr>
 	</tbody>
 </table>
