@@ -1,5 +1,5 @@
 ---
-title: "6. Contacting Professor Coleman...aka: Scott"
+title: "6. Contact the Professor"
 description: "how to find him"
 date: 2020-01-28T00:39:06+09:00
 draft: false
