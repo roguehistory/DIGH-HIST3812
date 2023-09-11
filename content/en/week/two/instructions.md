@@ -49,6 +49,9 @@ Ahrens, Sönke. 2017   _How to Take Smart Notes : One Simple Technique to Boo
 
 Tech Set Up Time!
 
+{{< notice success "Important" >}} I don't want heroic lone scholars. If you are struggling with something - whether it's the ideas in the readings or the tech - look for help; DM me privately, or post in the relevant week's channel. If you can help someone, jump in. **I encourage collaboration**. If you get help from someone, just acknowledge it in your own work. Also: **in tech work, if it doesn't come in 30 minutes, it won't come in 3 hours** Asking for help is not a weakness: it's a sign of strength & scholarly maturity.
+{{< /notice >}}
+
 #### 2. Get Hypothesis & Join Our Class Group
 
 Create an account at [hypothes.is](http://hypothes.is):
@@ -70,14 +73,9 @@ Then join [our HIST/DIGH 3812a reading group](https://hypothes.is/groups/7rRegnD
 {{< notice success "Important" >}} Hypothesis exists on the open web, so make sure you're always making your annotations in the **group space**, not the **public** space. Finally, you may want to use the [crowdlaaers](https://crowdlaaers.org/) service to keep track of the global development of our annotation space - go to that site, click on 'Groups', and follow the prompts to connect your Hypothesis account to the service.
 {{< /notice >}}
 
-Discord is a chat server that also allows voice, video, and screensharing. We will use it in this class mostly as a social space and a space to get help, especially in the more technical aspects of what we're doing.
-
-{{< notice success "Important" >}} I don't want heroic lone scholars. If you are struggling with something - whether it's the ideas in the readings or the tech - look for help; DM me privately, or post in the relevant week's channel. If you can help someone, jump in. **I encourage collaboration**. If you get help from someone, just acknowledge it in your own work. Also: **in tech work, if it doesn't come in 30 minutes, it won't come in 3 hours** Asking for help is not a weakness: it's a sign of strength & scholarly maturity.
-{{< /notice >}}
-
 #### 3. Join the Class Discord. HIST 3812 A DIGITAL HISTORY.
 
-You can download Discord [here](https://discordapp.com/apps) or you can [use it in a broswer](https://discordapp.com/app).
+Discord is a chat server that also allows voice, video, and screensharing. We will use it in this class mostly as a social space and a space to get help, especially in the more technical aspects of what we're doing. You can download Discord [here](https://discordapp.com/apps) or you can [use it in a broswer](https://discordapp.com/app).
 
 Once you're in, there's a welcome message with a reaction emoji at the end - click on the thumbs up to confirm that you've read the message. This will unlock the various channels in the server, including voice and screensharing.
 
