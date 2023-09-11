@@ -4,9 +4,14 @@ description: "how to find him"
 date: 2020-01-28T00:39:06+09:00
 draft: false
 ---
+<table >
+	<tbody>
+		<tr>
+			<td><img src="https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1600039468747-7AO7GEYDDNRII2FN3K98/CB7E3FA1-75EF-4FCB-9B26-12C467483E43.jpg?format=2500w"> </td>
+		</tr>
+	</tbody>
+</table>
 
-[
-](https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1600039468747-7AO7GEYDDNRII2FN3K98/CB7E3FA1-75EF-4FCB-9B26-12C467483E43.jpg?format=2500w)
 Professor Coleman can be found online at
 
 ### Office Hours:
