@@ -1,5 +1,5 @@
 ---
-title: "9. Reuse"
+title: "8. Reuse"
 description: "Reusing these materials"
 date: 2020-01-28T00:39:06+09:00
 draft: false
@@ -7,7 +7,7 @@ draft: false
 
 ![](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
 
-Original content by Shawn Graham, is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+Original content by Scott Coleman, which has been forked and modified from Dr. Shawn Graham's Hist 4916 and is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 Please feel free to reuse exercises in your own course materials, with a link back to the original page.
 
