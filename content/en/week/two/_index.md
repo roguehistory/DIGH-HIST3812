@@ -1,8 +1,8 @@
 ---
-title: "02. January 18"
-description: "Curiosity and the Course Schedule"
+title: "02. September 12 & 14"
+description: "Obsidian, Hypothesis and the Course Schedule"
 date: 2020-01-28T00:10:51+09:00
 draft: false
-author: "Shawn Graham"
+author: "Scott Coleman"
 collapsible: true
 ---
