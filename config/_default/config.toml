@@ -1,7 +1,7 @@
 baseURL = "digitalbyzantine.netlify.app/" # never ever have a 3 in the baseURL
-title = "HIST4916a DHMuse"
+title = "HIST3812a Digital History"
 theme = "zdoc"
-description = "HIST4916a Digital History + Museums, Winter 2021 Carleton U"
+description = "HIST3812, Digital Byzantium, Fall 2023 Carleton U"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
