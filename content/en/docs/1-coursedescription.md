@@ -9,7 +9,7 @@ weight: 1
 <table >
 	<tbody>
 		<tr>
-			<td><img src="![[static/images/DigiGoldCoin.jpeg]]"> </td>
+			<td><img src="https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1606964790651-5D90Y5MIM8ZKYUI67ILB/06875263-414E-4AAC-81EB-981B2AA84631.jpeg?format=2500w"> </td>
 		</tr>
 	</tbody>
 </table>
