@@ -6,7 +6,7 @@ draft: false
 weight: -10
 ---
 
-I wanted this course to be about exploration and figuring out what this field, Digital History, meant for Byzantine Studies. As I began building this course in the relatively short span in which I was allotted, I realized I wanted to emulate my supervisor, Dr. Graham's pedagogical approach. I want the course to be all about you, and _your_ exploration. That's how meaning emerges, right? So I've discussed, fiddled, listened to you in the first class and tried to come up with a way for you to set the agenda and still meet the learning goals.  I hope I succeed and meet your expectations. 
+I wanted this course to be about the exploration and understanding of what this field, Digital History, meant for Byzantine Studies. As I began building this course in the relatively short span in which I was allotted, I realized I wanted to emulate my supervisor, Dr. Graham's pedagogical approach. I want the course to be all about you, and _your_ exploration. That's how meaning emerges, right? So I've discussed, fiddled, listened to you in the first class and tried to come up with a way for you to set the agenda and still meet the learning goals.  I hope I succeed and meet your expectations. 
 
 ### Goals for this week
 
@@ -15,7 +15,7 @@ I wanted this course to be about exploration and figuring out what this field, D
 3. Understand what this course is about
 4. Start thinking about your goals for this course
 
-This week is about reading the syllabus and understanding what is expected of you in this course. Get Hypothesis, Discord, and Obsidian set up; introduce yourself to the class in the `general` channel in Discord. Take your time, read through the instructions, and ask for help of your peers or send me a note. **You are encouraged to collaborate throughout in this course; just acknowledge help you receive from others**.
+This week is about reading the syllabus and understanding what is expected of you in this course. Get Hypothesis, Discord, and Obsidian set up; introduce yourself to the class in Discord's `general` channel. Take your time, read through the instructions, and ask for help from your peers or send me a note. **You are encouraged to collaborate throughout this course; just acknowledge the help you receive from others**.
 
 
 ### Listen
@@ -29,10 +29,10 @@ Make sure to listen to each weekly episode - talk about the podcast in Discord! 
 {{< /notice >}}
 
 
-## Do
+## Do in Class
 
 #### 1. Obsidian: What is it?
-This week, we will explore [Obsidian.md](https://obsidian.md/), a program that can be run on Windows, Mac OS, Linux, and more. I will show you how to install it onto your computer (it's free) and provide a tutorial on its basic functionality. The program uses Markdown (md) language (plain text) that is "future-proof" for note-taking and stores files locally on your computer with the option to sync through cloud services. Think of Obsidian as your second brain to store your thoughts, ideas, and inspirations. We will use Obsidian to develop notes together and independently and generate weekly discussions amongst our peers. By the end of the term, my goal is for us to have a significant repository of notes compiled that will allow you to think critically and creatively and inform your final project. We will explore the Zettlekasten system (Atomic notes), and what backlinks, outgoing links, Tags, and mindmaps (Cnavas) can do for your note creation. We will also discuss strategic reading and note-taking. 
+This week, we will explore [Obsidian.md](https://obsidian.md/), a program that can be run on Windows, Mac OS, Linux, and more. I will show you how to install it onto your computer (it's free) and provide a tutorial on its basic functionality. The program uses Markdown (md) language (plain text) that is "future-proof" for note-taking and stores files locally on your computer with the option to sync through cloud services. Think of Obsidian as your second brain to store your thoughts, ideas, and inspirations. We will use Obsidian to develop notes together and independently and generate weekly discussions amongst our peers. By the end of the term, I aim for us to have a significant repository of notes compiled to allow you to think critically and creatively and inform your final project. We will explore the Zettlekasten system (Atomic notes), and what backlinks, outgoing links, Tags, and mindmaps (Cnavas) can do for your note creation. We will also discuss strategic reading and note-taking. 
 
 Obsidian is relatively easy to learn, and you do not need to be a coder, programmer or techie to learn or use the software. Trust me, I am from the pre-internet era and quickly learned this. We will start by developing notes together in week two. Since archaeological sites and museums are comprised of individuals working as teams to excavate and create knowledge about the past and promote knowledge exploration and dissemination to the public, I want us to explore how we create and disseminate knowledge both independently and as a collective in this course.  
 
@@ -44,10 +44,7 @@ Obsidian is relatively easy to learn, and you do not need to be a coder, program
 
 Ahrens, Sönke. 2017   _How to Take Smart Notes : One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers._ Place of publication is not identified_. Sönke Ahrens. 
 
-
-### Do
-
-Tech Set Up Time!
+### Tech Set Up at Home, Uni, or Coffee Shop!
 
 {{< notice success "Important" >}} I don't want heroic lone scholars. If you are struggling with something - whether it's the ideas in the readings or the tech - look for help; DM me privately, or post in the relevant week's channel. If you can help someone, jump in. **I encourage collaboration**. If you get help from someone, just acknowledge it in your own work. Also: **in tech work, if it doesn't come in 30 minutes, it won't come in 3 hours** Asking for help is not a weakness: it's a sign of strength & scholarly maturity.
 {{< /notice >}}
@@ -75,9 +72,9 @@ Then join [our HIST/DIGH 3812a reading group](https://hypothes.is/groups/7rRegnD
 
 #### 3. Join the Class Discord. HIST 3812 A DIGITAL HISTORY.
 
-Discord is a chat server that also allows voice, video, and screensharing. We will use it in this class mostly as a social space and a space to get help, especially in the more technical aspects of what we're doing. You can download Discord [here](https://discordapp.com/apps) or you can [use it in a broswer](https://discordapp.com/app).
+Discord is a chat server that also allows voice, video, and screen sharing. We will use it in this class mostly as a social space and a space to get help, especially in the more technical aspects of what we're doing. You can download Discord [here](https://discordapp.com/apps), or you can [use it in a broswer](https://discordapp.com/app).
 
-Once you're in, there's a welcome message with a reaction emoji at the end - click on the thumbs up to confirm that you've read the message. This will unlock the various channels in the server, including voice and screensharing.
+[HIST 3812 A DIGITAL HISTORY.](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdiscord.gg%2FVURYb9zkVk&data=05%7C01%7CSCOTTCOLEMAN%40cmail.carleton.ca%7C5154006e584f4e2d5cc408dbafc696fb%7C6ad91895de06485ebc51fce126cc8530%7C0%7C0%7C638297039684557039%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Rea9Z%2FqjfSQJOr6vUH%2BI6oTNbDZEbtPXoVx3HAIgCPc%3D&reserved=0)
 
 **And yes, I recycled Dr. Graham's screenshots from his Crafting Digital History course.**
 
