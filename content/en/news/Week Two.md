@@ -18,6 +18,5 @@ Like the one below, which sums up everything right and wrong about what archaeol
 to make a contribution to this page, PLEASE, let me know!
 {{< /alert >}}
 
-
-![static/Memes/memes/punching-nazis.jpeg]
+https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1605723541613-VLZ0YWO6V72CDB6I76M6/punching-nazis.jpeg?format=2500w
 
