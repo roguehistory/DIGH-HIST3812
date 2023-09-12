@@ -7,6 +7,8 @@ draft: false
 
 ## Weekly Schedule
 
+#### The Remaining Schedule Will Be Posted Over The Coming Week!
+
 {{< notice success "Important" >}} The syllabus can change, and will change, depending on how this course goes. I will Update the Schedule weekly as needed based on our progress. When changes are made, I will inform you via your Carleton email/Brightspace/Discord. Please check before you come to class to ensure you do not miss any notices. 
 {{< /notice >}}
 
