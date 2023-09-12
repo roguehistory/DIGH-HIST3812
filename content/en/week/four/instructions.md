@@ -8,6 +8,14 @@ weight: -10
 
 ## Who Are The Byzantines?
 
+<table >
+	<tbody>
+		<tr>
+			<td><img src="https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1605389131438-K807AKGYZIVYRA8GDQ5I/8C202E00-F02D-40E1-9360-0936C09E05D5.jpeg?format=2500w"> </td>
+		</tr>
+	</tbody>
+</table>
+
 In short, the Byzantines were Romans (Romaioi) who lived within the ever-fluctuating borders of the Eastern Roman Empire (_Rhōmania_ or Romanland). This is an oversimplified answer, of course. Thus, in this class, our objective is to situate how the labels "Byzantium" and "Byzantine" came into common usage in modern scholarship and the effects on how scholars study medieval Roman identity. In other words, what do we mean when we use the labels Byzantium and Byzantine? What impact do these terms have on our historical and archaeological understandings of the Eastern Roman Empire?  The podcast is meant to supplement the inconsistencies in how Byzantine history is periodized.
 
 ---
