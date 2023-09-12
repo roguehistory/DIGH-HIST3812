@@ -6,6 +6,16 @@ draft: false
 weight: -10
 ---
 
+## Beginning Our Journey
+
+<table >
+	<tbody>
+		<tr>
+			<td><img src="[https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1606964790651-5D90Y5MIM8ZKYUI67ILB/06875263-414E-4AAC-81EB-981B2AA84631.jpeg?format=2500w](https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1f829d3b-3184-4c10-a077-79295bbf4a33/Ancient+book+Digital+matrix+style+background+overlay+Rays+of+sunlightimage+from+torange_biz+free+photobank.jpg?format=2500w)"> </td>
+		</tr>
+	</tbody>
+</table>
+
 I wanted this course to be about the exploration and understanding of what this field, Digital History, meant for Byzantine Studies. As I began building this course in the relatively short span in which I was allotted, I realized I wanted to emulate my supervisor, Dr. Graham's pedagogical approach. I want the course to be all about you, and _your_ exploration. That's how meaning emerges, right? So I've discussed, fiddled, listened to you in the first class and tried to come up with a way for you to set the agenda and still meet the learning goals.  I hope I succeed and meet your expectations. 
 
 ### Goals for this week
