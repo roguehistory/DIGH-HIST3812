@@ -7,6 +7,10 @@ draft: false
 
 ## Welcome to HISTDIGH-3812a
 
+{{< notice success "Important" >}} As I discussed in the semester's first class, this course is a work in progress. Please be patient as I develop your syllabus, but do not hesitate to ask me questions. I am here for you and to help you SUCCEED! Now, continue reading below.
+{{< /notice >}}
+
+
 <table >
 	<tbody>
 		<tr>
@@ -17,8 +21,5 @@ draft: false
 
 
 **Image available created by webfactory ltd and available from https://unsplash.com/photos/NoOrDKxUfzo**
-
-{{< notice success "Important" >}} As I discussed in the semester's first class, this course is a work-in-progress. Please be patient as I develop your syllabus, but do not hesitate to ask me questions. I am here for you and to help you SUCCEED!
-{{< /notice >}}
 
 Please read the following sections in turn.
