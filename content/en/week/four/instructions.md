@@ -60,5 +60,7 @@ For your digital work, it is critical that you keep notes on what works, what do
     
 **While this isn't graded, per se**, you _will_ need this material when it comes to writing the documentation for your eventual GLAM notebook you create. Get in the habit of keeping careful _process_ notes.
 
-## What Chat GPT Thought"
+## What Chat GPT Thought: 
+
+![static/images/ChatGPT/ChatGPTByz.png]
 
