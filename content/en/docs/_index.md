@@ -14,7 +14,11 @@ draft: false
 </table>
 
 
+**Image available created by webfactory ltd and available from https://unsplash.com/photos/NoOrDKxUfzo**
+
 HISTDIGH-3812a
 Professor Scott Coleman
+
+As I discussed in the semester's first class, this course is a work-in-progress. Please be patient as I develop your syllabus but do not hesitate to ask me questions. I am hear for you and to help you SUCCEED!
 
 Please read the following sections in turn.
