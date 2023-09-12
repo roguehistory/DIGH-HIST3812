@@ -7,7 +7,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = false
 
-copyright = "Original content by Scott Coleman and licensed under a <a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'>Creative Commons Attribution-NonCommercial 4.0 International License</a><br><a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons License logo' style='border-width:0' src='https://i.creativecommons.org/l/by-nc/4.0/88x31.png' /></a>. <br>Site logo a combination of 'museum' by iconsphere and 'computer' by Chunk Icons, The Noun Project."
+copyright = "Original content by Scott Coleman, and adapted from Shawn Graham Hist 4916, and licensed under a <a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'>Creative Commons Attribution-NonCommercial 4.0 International License</a><br><a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons License logo' style='border-width:0' src='https://i.creativecommons.org/l/by-nc/4.0/88x31.png' /></a>. <br>Site logo a combination of 'museum' by iconsphere and 'computer' by Chunk Icons, The Noun Project."
 timeout = 10000
 enableEmoji = true
 paginate = 13
