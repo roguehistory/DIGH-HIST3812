@@ -19,7 +19,13 @@ Like the one below, which sums up everything right and wrong about what archaeol
 
 
 <table >
-	<tbody>
+	<body>
+		img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 		<tr>
 			<td><img src="https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1605723541613-VLZ0YWO6V72CDB6I76M6/punching-nazis.jpeg?format=2500w" class="center"></td>
 		</tr>
