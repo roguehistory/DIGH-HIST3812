@@ -9,15 +9,15 @@ weight: 2
 
 ### Questions to think about
 
-What impact(s) does the ‘Digital’ have on the production of ancient and medieval history for public consumption? 
+> What impact(s) does the ‘Digital’ have on the production of ancient and medieval history for public consumption? 
 
-What is Digital History? What does performing a Digital Public History or a Public Digital History mean?
+> What is Digital History? What does performing a Digital Public History or a Public Digital History mean?
 
-How do institutions digitally represent Byzantium to the public?
+> How do institutions digitally represent Byzantium to the public?
 
-Do digital techs push us towards particular voices/opinions of Byzantium?
+> Do digital techs push us towards particular voices/opinions of Byzantium?
 
-Can/do digital techs in the service of GLAM (Galleries, Libraries, Archives and Museums) perform colonial practices that erase ancient and medieval identities from communities? And if so, how? And what can we do about it?
+> Can/do digital techs in the service of GLAM (Galleries, Libraries, Archives and Museums) perform colonial practices that erase ancient and medieval identities from communities? And if so, how? And what can we do about it?
 
 _This course is an opportunity to explore these questions; I do not know the answers! I'm excited to figure these out with you. Why not annotate this section with some of your own questions?_
 
