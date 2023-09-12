@@ -1,8 +1,8 @@
 ---
-title: "09. March 15"
-description: "Let's Build"
+title: "09. October 31 & November 2"
+description: "Museums Gone Digital: The Digital Subaltern"
 date: 2020-01-28T00:10:51+09:00
 draft: false
-author: "Shawn Graham"
+author: "Scott Coleman"
 collapsible: true
 ---
