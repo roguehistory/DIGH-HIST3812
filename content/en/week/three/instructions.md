@@ -6,6 +6,7 @@ draft: false
 weight: -10
 ---
 
+
 ### Goals for this week
 
 1. Read and think about your selected materials carefully
@@ -31,12 +32,7 @@ Brennan, Sheila A. 2019 ‘Digital History – The Inclusive Historian’s Handb
 
 ### Podcast
 
-**PUBlic History: Words with Friends**
-<div align="center"><iframe src="https://podcasts.apple.com/us/podcast/episode-1-words-with-friends/id1490175731?i=1000458584464" height="102px" width="400px" frameborder="0" scrolling="no"></iframe></div>
-
-
-{{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. Share the url to your repo in Discord. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
-{{< /notice >}}
+**[PUBlic History: Words with Friends](https://open.spotify.com/episode/5zLgGLFzQwZq1hWfvWivTm?si=8c8508793e9344f8)**
 
 ### Log your work
 
@@ -46,3 +42,8 @@ For your digital work, it is critical that you keep notes on what works, what do
 + Make notes in your Obsidian Vault. 
     
 **While this isn't graded, per se**, you _will_ need this material when it comes to writing the documentation for your eventual GLAM notebook you create. Get in the habit of keeping careful _process_ notes.
+
+{{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. Share the url to your repo in Discord. I don't want to hear that you laboured heroically for 2 hours to do something. Jump into our social space and ask for advice.
+{{< /notice >}}
+
+
