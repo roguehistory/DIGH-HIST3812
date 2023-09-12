@@ -28,7 +28,7 @@ You do not need to use your real name or identity on any public-facing work that
 Constructive and engaged participation in class is what I am looking for. Come to class prepared to discuss readings and podcasts with your peers. Participation also includes contributing to the class Obsidian Vault and Hypothesis Group. 
 
 ### 2) Podcast Analysis: 
-**Value: 15% (3 x 5% each, 500-word max).
+**Value: 15% (3 x 5% each, 500-word max).**
 
 Students will be assigned three Podcast analyses to critically assess a podcast's presentation and representation of Byzantine history, archaeology or public history. The podcasts are meant to stimulate dialogue and expose students to the differences between reading academic work and listening to academics talk about their work. The objective is to get students to think critically about the in-between 'Digital' spaces of academic and public history and where these two fields intersect. In particular, we focus on the podcast *Byzantium and Friends*, but others will be assigned depending on the week's theme.
 
