@@ -19,5 +19,5 @@ to make a contribution to this page, PLEASE, let me know!
 {{< /alert >}}
 
 
-![Memes/memes/punching-nazis.jpeg]
+![static/Memes/memes/punching-nazis.jpeg]
 
