@@ -1,8 +1,8 @@
 ---
-title: "12. April 5"
-description: "The End"
+title: "12. November 21 & 23"
+description: "Whose Digital Heritage and Cultural Property? The 'Digital Twin'"
 date: 2020-01-28T00:10:51+09:00
-draft: false
-author: "Shawn Graham"
+draft: true
+author: "Scott Coleman"
 collapsible: true
 ---
