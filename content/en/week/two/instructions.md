@@ -11,7 +11,7 @@ weight: -10
 <table >
 	<tbody>
 		<tr>
-			<td><img src="https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1606964790651-5D90Y5MIM8ZKYUI67ILB/06875263-414E-4AAC-81EB-981B2AA84631.jpeg?format=2500w](https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1f829d3b-3184-4c10-a077-79295bbf4a33/Ancient+book+Digital+matrix+style+background+overlay+Rays+of+sunlightimage+from+torange_biz+free+photobank.jpg?format=2500w"> </td>
+			<td><img src="https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1fe31ee7-e566-4380-95f2-88f60b365f0c/SS_MindMap.png?format=2500w"> </td>
 		</tr>
 	</tbody>
 </table>
