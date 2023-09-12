@@ -14,12 +14,12 @@ draft: false
 <table >
 	<tbody>
 		<tr>
-			<td><img src="https://images.unsplash.com/photo-1590479773265-7464e5d48118?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80"> </td>
+			<td><img src="https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1611692325565-80L5D4JOZAXXW2ASWTNT/A07BC771-769B-47F1-8F02-EFBB32E29E99.jpg?format=2500w"> </td>
 		</tr>
 	</tbody>
 </table>
 
 
-**Image available created by webfactory ltd and available from https://unsplash.com/photos/NoOrDKxUfzo**
+**Prof Coleman in the Trenches**
 
 Please read the following sections in turn.
