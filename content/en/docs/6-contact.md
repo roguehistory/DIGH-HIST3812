@@ -31,4 +31,5 @@ scottcoleman79: I will **try** to be present in our class discord server every d
 or 
 #### Blog:
 www.roguehistory.ca 
+
 https://scottcoleman.academia.edu
