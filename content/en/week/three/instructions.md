@@ -1,6 +1,6 @@
 ---
-title: "What is Digital History Anyway?"
-description: "Thinking through Digital History, Digital Public History and Public Digital History"
+title: "Thinking through Digital History, Digital Public History and Public Digital History"
+description: ""
 date: 2020-01-28T00:10:37+09:00
 draft: false
 weight: -10
