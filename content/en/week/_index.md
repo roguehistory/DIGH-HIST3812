@@ -7,6 +7,8 @@ draft: false
 
 ## Weekly Schedule
 
+{{< notice success "Important" >}} The syllabus can change, and will change, depending on how this course goes.
+{{< /notice >}}
 
 <table >
 	<tbody>
