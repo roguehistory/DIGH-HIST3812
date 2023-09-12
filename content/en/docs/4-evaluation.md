@@ -54,7 +54,7 @@ Thus, **be supportive** of your peers if you see an individual struggling. **Hel
 5) An early bibliography that includes 4-6 potential sources you are thinking of using in your research.{{< /alert >}}
 
 ### 4) Case Studies: 
-**Value: 30% (2 x 15%)
+**Value: 30% (2 x 15%)**
 
 In archaeological fieldwork, teams of individuals excavate designated trenches that may contain material culture from varying periods. Therefore, archaeological trenches can quickly become highly complex, with large amounts of data being recorded daily from different individuals. When this data is combined with data from other trenches, analysis and interpretation can become significantly complex. Therefore, methodical, clear and concise note-taking is critical to keep data organized and coherent so it can be synthesized, analyzed, and interpreted individually and jointly with data from individual or multiple trenches. Thus, field notebooks are critical tools for archaeologists and Historians to interpret and produce knowledge about the past. Case Studies will mimic how archaeologists record evidence/data and synthesize it into a homogenous corpus that reflects all the work undertaken during a field season. As the "Director" of this mock digital archaeology site, I will oversee how your group records its "data" (whatever that entails). Follow the Templates I provide (I will explain more about these in class during week Two), and at the end of the term, your group will synthesize the evidence for your final projects. 
 
