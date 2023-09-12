@@ -62,5 +62,5 @@ For your digital work, it is critical that you keep notes on what works, what do
 
 ## What Chat GPT Thought: 
 
-![ChatGPT](/images/ChatGPT/ChatGPTByz.png)
+![ChatGPT](/ChatGPT/ChatGPTByz.png)
 
