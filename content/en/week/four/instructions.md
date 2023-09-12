@@ -16,6 +16,13 @@ weight: -10
 	</tbody>
 </table>
 
+### Goals for this week
+
+1. Do Readings and Listen to Podcast
+2. Ask ChatGPT "Who are the Byzantines?" and prepare to share with the class. 
+3. Continue to improve your digital literacy - Think of a digital medium to suggest to your Group.
+
+### The Byzant...I mean Romans
 In short, the Byzantines were Romans (Romaioi) who lived within the ever-fluctuating borders of the Eastern Roman Empire (_Rhōmania_ or Romanland). This is an oversimplified answer, of course. Thus, in this class, our objective is to situate how the labels "Byzantium" and "Byzantine" came into common usage in modern scholarship and the effects on how scholars study medieval Roman identity. In other words, what do we mean when we use the labels Byzantium and Byzantine? What impact do these terms have on our historical and archaeological understandings of the Eastern Roman Empire?  The podcast is meant to supplement the inconsistencies in how Byzantine history is periodized.
 
 ---
@@ -25,12 +32,7 @@ In short, the Byzantines were Romans (Romaioi) who lived within the ever-fluctua
 
 Adam Goldwyn is speaking about the public-facing side of Byzantine history and how alt-right groups are using and manipulating the Christian identity of Byzantium for their ideological goals. Goldwyn's chapter also speaks to the "othering" of Byzantine identity. That is, who is and is not included based on ideological motives. Do scholars create impenetrable barriers that the public can not break through, leading the public to search for alternatives, or does the ambiguity of "Byzantine" allow for identity manipulation? If the term "Byzantine" divides, periodizes, manipulates, colonizes and denies identities, should we not ask who is or is not included in the term "Byzantine" at museums? In this week's tutorial, we problematize Byzantine identity on the web and situate how it is presented on the public-facing side of museum websites. We will excavate identities from four museum websites and explore how museums create identity categories. Who is Byzantine? Who is Roman? Who is "Other"?
 
-### Goals for this week
-
-1. Do Readings and Listen to Podcast
-2. Ask ChatGPT "Who are the Byzantines?" and prepare to share with the class. 
-3. Continue to improve your digital literacy - Think of a digital medium to suggest to your Group.
-
+---
 ## Do
 
 ### Readings
