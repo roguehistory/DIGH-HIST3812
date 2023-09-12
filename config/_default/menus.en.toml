@@ -19,5 +19,5 @@
 [[main]]
   identifier = "news"
   name = "News"
-  url = "docs"
+  url = "news"
   weight = 4
