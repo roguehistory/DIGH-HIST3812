@@ -36,9 +36,9 @@ Dean, D. M. 2018 Introduction. In A Companion to Public History. Wiley, Hoboken,
 
 Hedrick Jr., Charles W. 2006 Preface, Monuments and Documents. In Ancient History: Monuments and Documents, Blackwell Publishing, Malden, Massachusetts: viii-xi; 1-26.
 
-Douglas Seefeldt and William Thomas, “What is Digital History?” Intersections: History and New Media, May 1st 2009 Historians.org
+Douglas Seefeldt and William Thomas, “What is Digital History?” Intersections: History and New Media, [What Is Digital History? | Perspectives on History | AHA](https://www.historians.org/research-and-publications/perspectives-on-history/may-2009/what-is-digital-history)
 
-Brennan, Sheila A. 2019 ‘Digital History – The Inclusive Historian’s Handbook.' https://inclusivehistorian.com/digital-history/.
+Brennan, Sheila A. 2019 ‘Digital History – The Inclusive Historian’s Handbook.' [Digital History](https://inclusivehistorian.com/digital-history/#:~:text=Digital%20history%20is%20an%20approach%20to%20researching%20and%20interpreting%20the%20past%20that%20relies%20on%20computer%20and%20communication%20technologies%20to%20help%20gather%2C%20quantify%2C%20interpret%2C%20and%20share%20historical%20materials%20and%20narratives.)
 
 ### Podcast
 
