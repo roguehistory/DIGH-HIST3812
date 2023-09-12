@@ -18,5 +18,5 @@ Like the one below, which sums up everything right and wrong about what archaeol
 to make a contribution to this page, PLEASE, let me know!
 
 
-![punching-nazis.jpeg]
+![Memes/memes/punching-nazis.jpeg]
 
