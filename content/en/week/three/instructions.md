@@ -12,7 +12,7 @@ weight: -10
 <table >
 	</tbody>
 		<tr>
-			<td><img src="https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1f829d3b-3184-4c10-a077-79295bbf4a33/Ancient+book+Digital+matrix+style+background+overlay+Rays+of+sunlightimage+from+torange_biz+free+photobank.jpg?format=2500w" width="600" height="200" class="center"> </td>
+			<td><img src="https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1f829d3b-3184-4c10-a077-79295bbf4a33/Ancient+book+Digital+matrix+style+background+overlay+Rays+of+sunlightimage+from+torange_biz+free+photobank.jpg?format=2500w"></td>
 		</tr>
 	</tbody>
 </table>
