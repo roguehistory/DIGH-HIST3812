@@ -7,7 +7,7 @@ weight: -10
 ---
 ## Case Study #1: Situating Byzantium in Digital Spaces
 
-
+![favicon/DigiWeb]
 
 ### Goals for this week
 
