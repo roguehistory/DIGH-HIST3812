@@ -35,13 +35,7 @@ Adam Goldwyn is speaking about the public-facing side of Byzantine history and h
 ---
 ## Do
 
-### Readings
-
-Aschenbrenner, Nathanael, and Jake Ransohoff. 2021   Introduction: The Invention of Byzantium in Early Modern Europe. In *The Invention of Byzantium in Early Modern Europe,* edited by Nathanael Aschenbrenner and Jake Ransohoff, Dumbarton Oaks, Washington, DC.: 1-23.
-
-Goldwyn, Adam. 2022 Byzantium in the American Alt-Right Imagination. In The Routledge Handbook on Identity in Byzantium, editors Michael Edward Stewart, David Alan Parnell, and Conor Whately, pp. 424-439. Routledge, New York.
-
-Betancourt, Roland. 2021 Why White Supremacists and QAnon Enthusiasts Are Obsessed – but Very Wrong – about the Byzantine Empire. The Conversation Accessed 17 November 2021. [Link](http://theconversation.com/why-white-supremacists-and-qanon-enthusiasts-are-obsessed-but-very-wrong-about-the-byzantine-empire-154994)
+### No Readings This Week!!! 
 
 ### Podcast
 
