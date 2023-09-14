@@ -45,8 +45,8 @@ Betancourt, Roland. 2021 Why White Supremacists and QAnon Enthusiasts Are Obsess
 
 ### Podcast
 
-**Byzantium and Friends: 
-1. [When does Roman history end and Byzantine begin?, with Marion Kruse](https://byzantiumandfriends.podbean.com/e/15-when-does-roman-history-end-and-byzantine-begin-with-marion-kruse/)**
+**Byzantium and Friends**
+1. [When does Roman history end and Byzantine begin?, with Marion Kruse](https://byzantiumandfriends.podbean.com/e/15-when-does-roman-history-end-and-byzantine-begin-with-marion-kruse/)
 2. [Is it time to abandon the rubric “Byzantium”?, with Leonora Neville](https://byzantiumandfriends.podbean.com/e/43-is-it-time-to-abandon-the-rubric-byzantium-with-leonora-neville/) 
 
 
