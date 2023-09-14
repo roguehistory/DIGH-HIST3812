@@ -23,14 +23,9 @@ weight: -10
 3. Continue to improve your digital literacy - Think of a digital medium to suggest to your Group.
 
 ### The Byzant...I mean Romans
-In short, the Byzantines were Romans (Romaioi) who lived within the ever-fluctuating borders of the Eastern Roman Empire (_Rhōmania_ or Romanland). This is an oversimplified answer, of course. Thus, in this class, our objective is to situate how the labels "Byzantium" and "Byzantine" came into common usage in modern scholarship and the effects on how scholars study medieval Roman identity. In other words, what do we mean when we use the labels Byzantium and Byzantine? What impact do these terms have on our historical and archaeological understandings of the Eastern Roman Empire?  The podcast is meant to supplement the inconsistencies in how Byzantine history is periodized.
+In short, the Byzantines were Romans (Romaioi) who lived within the ever-fluctuating borders of the Eastern Roman Empire (_Rhōmania_ or Romanland). This is an oversimplified answer, of course. Thus, in this class, our objective is to situate how the labels "Byzantium" and "Byzantine" came into common usage in modern scholarship and the effects on how scholars study medieval Roman identity. In other words, what do we mean when we use the labels Byzantium and Byzantine? What impact do these terms have on our historical and archaeological understandings of the Eastern Roman Empire? 
 
----
-## Where Is Byzantine Studies Performed?
 
->"Traditional academic work is often hidden behind subscription-only paywalls or written in the jargony language of the academy; [Douglas] Galbi's (and his fellow travellers’) posts, by contrast, are freely and widely available on the internet and written in a plain and easily accessible style. It is almost certain, therefore, that their works have a larger audience than all but the most successful of their scholarly sources" (Goldwyn 2022: 428).
-
-Adam Goldwyn is speaking about the public-facing side of Byzantine history and how alt-right groups are using and manipulating the Christian identity of Byzantium for their ideological goals. Goldwyn's chapter also speaks to the "othering" of Byzantine identity. That is, who is and is not included based on ideological motives. Do scholars create impenetrable barriers that the public can not break through, leading the public to search for alternatives, or does the ambiguity of "Byzantine" allow for identity manipulation? If the term "Byzantine" divides, periodizes, manipulates, colonizes and denies identities, should we not ask who is or is not included in the term "Byzantine" at museums? In this week's tutorial, we problematize Byzantine identity on the web and situate how it is presented on the public-facing side of museum websites. We will excavate identities from four museum websites and explore how museums create identity categories. Who is Byzantine? Who is Roman? Who is "Other"?
 
 ---
 ## Do
