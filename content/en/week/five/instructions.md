@@ -29,11 +29,12 @@ On Tuesday (October 3rd), to begin, we will gather for our first case study in o
 
 Thursday, we will dive right into the meat and potatoes, continue your research and create a "Mind-Map" in Obsidian Canvas. That's right!! We are introducing a new Plugin. **IT'S FUN!!! Trust Me.** By the end of class, you should have a sense of how you want to answer the question: Should scholars continue or stop using the term Byzantine? Why? On the following Tuesday's class, each group we present their results (this can be done seated at your group table) in a 5-minute presentation (of your choosing) that informs the class of the path you choose to pursue your research, what succeeded, what broke, or what crashed and burned, and what your answer is to the question. 
 
+{{< notice success "Important" >}} Remember, I don't expect a conclusive, definitive answer! If you don't have an answer, just say, "We Don't Know, and here is why." **I am evaluating you on process** and how you think through the steps, analytically and digitally, to answer the question in question...make sense? {{< /notice>}}
 
 
+#### Readings to Consider...AKA, I think you should read them!
 
-
-#### Readings
+{{< notice success "Important" >}} Can't get access to a reading? **Let Me Know** Even I forget/break things that may hinder your ability to access material {{< /notice}}
 
 1. Filene, Benjamin. 2017   History Museums and Identity: Finding “Them,” “Me,” and “Us” in the Gallery. In _The Oxford Handbook of Public History_, editors Paula Hamilton and James B. Gardner, pp. 327-348. Oxford University Press, Oxford.
    
@@ -49,7 +50,7 @@ Thursday, we will dive right into the meat and potatoes, continue your research 
     
 7. Betancourt, Roland. 2021 Why White Supremacists and QAnon Enthusiasts Are Obsessed – but Very Wrong – about the Byzantine Empire. The Conversation Accessed 17 November 2021. [Link](http://theconversation.com/why-white-supremacists-and-qanon-enthusiasts-are-obsessed-but-very-wrong-about-the-byzantine-empire-154994)
 
-#### Museum Case Study Links:
+#### Museum Case Study Links Suggestions:
 
 [Acropolis Museum](https://www.theacropolismuseum.gr/en/)
 
