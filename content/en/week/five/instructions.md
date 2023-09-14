@@ -6,7 +6,7 @@ draft: false
 weight: -10
 ---
 
-## Case Study #1: Situating Byzantium in Digital Spaces
+# Case Study #1: Situating Byzantium in Digital Spaces
 
 ![DigiWeb](favicon/DigiWeb.png)
 
