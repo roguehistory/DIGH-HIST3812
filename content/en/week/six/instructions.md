@@ -6,6 +6,4 @@ draft: false
 weight: -10
 ---
 
-
-
-> "Digital archaeology is an opportunity to rethink how we do things and put a positive hash on rehashing the past. This is what rehashing digital archaeology really means" (Graham 2019: 110).
+## Coming Soon
