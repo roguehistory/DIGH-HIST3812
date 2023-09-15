@@ -40,7 +40,7 @@ Byzantium and Friends: [Digital humanities and Byzantium, with Kuba Kabala](http
 
 ## Readings to Consider...AKA, I think you should read them!
 
-{{< notice success "Important" >}} Can't get access to a reading? **Let Me Know** Even I forget/break things that may hinder your ability to access material {{< /notice}}
+{{< notice success "Important" >}} Can't get access to a reading? **Let Me Know** Even I forget/break things that may hinder your ability to access material {{< /notice>}}
 
 1. Filene, Benjamin. 2017   History Museums and Identity: Finding “Them,” “Me,” and “Us” in the Gallery. In _The Oxford Handbook of Public History_, editors Paula Hamilton and James B. Gardner, pp. 327-348. Oxford University Press, Oxford.
    
