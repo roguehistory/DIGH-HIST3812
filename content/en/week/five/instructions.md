@@ -40,7 +40,8 @@ We will dive right into the meat and potatoes on Thursday, continue your researc
 
 Byzantium and Friends: [Digital humanities and Byzantium, with Kuba Kabala](https://byzantiumandfriends.podbean.com/e/23-digital-humanities-and-byzantium-with-kuba-kabala/) 
 
-## Readings to Consider...AKA, I think you should read them!
+## Readings to Consider:
+#### AKA, I think you should read them!
 
 {{< notice success "Important" >}} Can't get access to a reading? Let Me Know, and I will do what I can to help you. {{< /notice>}}
 
