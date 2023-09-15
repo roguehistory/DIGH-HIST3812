@@ -38,6 +38,10 @@ In short, the Byzantines were Romans (Romaioi) who lived within the ever-fluctua
 1. [When does Roman history end and Byzantine begin?, with Marion Kruse](https://byzantiumandfriends.podbean.com/e/15-when-does-roman-history-end-and-byzantine-begin-with-marion-kruse/)
 2. [Is it time to abandon the rubric “Byzantium”?, with Leonora Neville](https://byzantiumandfriends.podbean.com/e/43-is-it-time-to-abandon-the-rubric-byzantium-with-leonora-neville/) 
 
+### YouTube
+
+[Is It Time to De-Colonize the Terms "Byzantine" and "Byzantium"?](https://www.youtube.com/watch?v=oMIwE3DoU3U&list=PLkocuYd2ADmhdt3emdhs-7V_IGV1BjthL) 
+
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}
