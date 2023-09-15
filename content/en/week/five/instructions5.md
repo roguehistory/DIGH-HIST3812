@@ -1,13 +1,11 @@
 ---
-title: "Case Study 1"
+title: "Case Study One"
 description: "Identity Representation"
 date: 2020-01-28T00:10:37+09:00
 draft: false
 weight: -10
 ---
 #  Situating Byzantium in Digital Spaces
-
-![DigiWeb](favicon/DigiWeb.png)
 
 ### Goals for this week
 
