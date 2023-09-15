@@ -6,7 +6,7 @@ draft: false
 weight: -10
 ---
 
-### Goals for this week
+## Goals for this week
 
 1. Get to know your fellow collaborators. Ask questions. Discover each other's digital interests.
 2. Critically assess museums and websites for their representation of 'Byzantine' identity.
