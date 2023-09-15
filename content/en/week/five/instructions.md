@@ -42,3 +42,17 @@ Byzantium and Friends: [Digital humanities and Byzantium, with Kuba Kabala](http
 
 {{< notice success "Important" >}} Can't get access to a reading? Let Me Know! Even I forget/break things that may hinder your ability to access material {{< /notice>}}
 
+1. Filene, Benjamin. 2017   History Museums and Identity: Finding “Them,” “Me,” and “Us” in the Gallery. In _The Oxford Handbook of Public History_, editors Paula Hamilton and James B. Gardner, pp. 327-348. Oxford University Press, Oxford.
+   
+2. Stewart, Michael Edward, David Alan Parnell, and Conor Whatelyin 2022    Finding Byzantium. In *The Routledge Handbook on Identity in Byzantium*, editors Michael Edward Stewart, David Alan Parnell, and Conor Whately, pp. 1-16.  Routledge, New York.
+   
+3. Foskolou, Vicky. 2008   Byzantium on the Web: New Technologies at the Service of Museums and Educational Institutions for the Presentation of Byzantine Culture. _Byzantinische Zeitschrift_ 100 (2): 629-636. 
+   
+4. Stouraitis, Ioannis. 2014   Roman Identity in Byzantium: A Critical Approach. _Byzantinische Zeitschrift_ 107 (1): 175-220. 
+   
+5. Aschenbrenner, Nathanael, and Jake Ransohoff. 2021   Introduction: The Invention of Byzantium in Early Modern Europe. In *The Invention of Byzantium in Early Modern Europe,* edited by Nathanael Aschenbrenner and Jake Ransohoff, Dumbarton Oaks, Washington, DC.: 1-23.
+    
+6. Goldwyn, Adam. 2022 Byzantium in the American Alt-Right Imagination. In The Routledge Handbook on Identity in Byzantium, editors Michael Edward Stewart, David Alan Parnell, and Conor Whately, pp. 424-439. Routledge, New York.
+    
+7. Betancourt, Roland. 2021 Why White Supremacists and QAnon Enthusiasts Are Obsessed – but Very Wrong – about the Byzantine Empire. The Conversation Accessed 17 November 2021. [Link](http://theconversation.com/why-white-supremacists-and-qanon-enthusiasts-are-obsessed-but-very-wrong-about-the-byzantine-empire-154994)
+
