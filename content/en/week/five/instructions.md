@@ -34,11 +34,11 @@ We will dive right into the meat and potatoes on Thursday, continue your researc
 
 {{< notice success "Important" >}} Remember, I don't expect a conclusive, definitive answer! If you don't have an answer, just say, "We Don't Know, and here is why." **I am evaluating you on process** and how you think through the steps, analytically and digitally, to answer the question in question...make sense? If you bugger up, **Do Not Worry or Freak Out.** Document what happened and how you re-assessed and moved forward. Experiential learning is the goal. {{< /notice>}}
 
-### Podcast 
+## Podcast 
 
 Byzantium and Friends: [Digital humanities and Byzantium, with Kuba Kabala](https://byzantiumandfriends.podbean.com/e/23-digital-humanities-and-byzantium-with-kuba-kabala/) 
 
-#### Readings to Consider...AKA, I think you should read them!
+## Readings to Consider...AKA, I think you should read them!
 
 {{< notice success "Important" >}} Can't get access to a reading? **Let Me Know** Even I forget/break things that may hinder your ability to access material {{< /notice}}
 
@@ -56,7 +56,7 @@ Byzantium and Friends: [Digital humanities and Byzantium, with Kuba Kabala](http
     
 7. Betancourt, Roland. 2021 Why White Supremacists and QAnon Enthusiasts Are Obsessed – but Very Wrong – about the Byzantine Empire. The Conversation Accessed 17 November 2021. [Link](http://theconversation.com/why-white-supremacists-and-qanon-enthusiasts-are-obsessed-but-very-wrong-about-the-byzantine-empire-154994)
 
-#### Museum Case Study Suggestions:
+## Museum Case Study Suggestions:
 
 [Acropolis Museum](https://www.theacropolismuseum.gr/en/)
 
