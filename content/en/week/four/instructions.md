@@ -18,20 +18,30 @@ weight: -10
 
 ### Goals for this week
 
-1. Do Readings and Listen to Podcast
+1. Listen to Podcasts and watch talks on "Is It Time to De-Colonize the Terms "Byzantine" and "Byzantium"?
 2. Ask ChatGPT "Who are the Byzantines?" and prepare to share with the class. 
-3. Continue to improve your digital literacy - Think of a digital medium to suggest to your Group.
+3. Continue to improve your digital literacy 
 
 ### The Byzant...I mean Romans
 In short, the Byzantines were Romans (Romaioi) who lived within the ever-fluctuating borders of the Eastern Roman Empire (_Rhōmania_ or Romanland). This is an oversimplified answer, of course. Thus, in this class, our objective is to situate how the labels "Byzantium" and "Byzantine" came into common usage in modern scholarship and the effects on how scholars study medieval Roman identity. In other words, what do we mean when we use the labels Byzantium and Byzantine? What impact do these terms have on our historical and archaeological understandings of the Eastern Roman Empire? 
-
-
 
 ---
 ## Do
 
 ### No Readings This Week!!! 
 
+This week we will first ask ChatGPT "Who are the Byzantines?" and then compare and discuss how the speakers in the two podcasts and YouTube video frame Byzantium and those who lived within the Empire's ever-fluctuating borders. How do they define Byzantium? How do the speakers define "de-colonization" and what does this process look like for Byzantine Studies? Listen to the language used, make notes in your Obsidian vault and prepare to discuss whether you agree or disagree with the speakers. Moreover, think about who the audience is for each of the podcasts and talks. Are these "Public Talks"? Are these accessible to all of the public? Do you think digital platforms like podcasts and YouTube make academic disciplines like Byzantine Studies accessible to the general public? Is this 'good' Digital History in practice? 
+
+### Log your work
+
+{{< notice success "Important" >}}For your digital work, it is critical that you keep notes on what works, what doesn't, what error messages you received, what help you received from others, what websites you went to, and so on.
+
++ Use Hypothesis to annotate the readings.
++ Make notes in your Obsidian Vault. 
+    
+**While this isn't graded, per se**, you _will_ need this material when it comes to writing the documentation for your final group project. Get in the habit of keeping careful _process_ notes.{{< /notice >}}
+
+---
 ### Podcast
 
 **Byzantium and Friends**
@@ -43,16 +53,14 @@ In short, the Byzantines were Romans (Romaioi) who lived within the ever-fluctua
 [Is It Time to De-Colonize the Terms "Byzantine" and "Byzantium"?](https://www.youtube.com/watch?v=oMIwE3DoU3U&list=PLkocuYd2ADmhdt3emdhs-7V_IGV1BjthL) 
 
 
+### ChatGPT
+
+[ChatGPT](https://chat.openai.com/)
+
+
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}
 
-### Log your work
 
-For your digital work, it is critical that you keep notes on what works, what doesn't, what error messages you received, what help you received from others, what websites you went to, and so on.
-
-+ Use Hypothesis to annotate the readings.
-+ Make notes in your Obsidian Vault. 
-    
-**While this isn't graded, per se**, you _will_ need this material when it comes to writing the documentation for your final group project. Get in the habit of keeping careful _process_ notes.
 
 
