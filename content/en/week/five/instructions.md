@@ -33,3 +33,40 @@ On Tuesday (October 3rd), to begin, we will gather for our first case study in o
 We will dive right into the meat and potatoes on Thursday, continue your research, and create a "Mind-Map" in Obsidian Canvas. That's right!! We are introducing a new Plugin. **IT'S FUN!!! Trust Me.** By the end of class, you should have a sense of how you want to answer the question: Should scholars continue or stop using the term Byzantine? Why? On the following Tuesday's class, each group we present their results (this can be done seated at your group table) in a 5-minute presentation (of your choosing) that informs the class of the path you choose to pursue your research, what succeeded, what broke, or what crashed and burned, and what your answer is to the question. 
 
 {{< notice success "Important" >}} Remember, I don't expect a conclusive, definitive answer! If you don't have an answer, just say, "We Don't Know, and here is why." **I am evaluating you on process** and how you think through the steps, analytically and digitally, to answer the question in question...make sense? If you bugger up, **Do Not Worry or Freak Out.** Document what happened and how you re-assessed and moved forward. Experiential learning is the goal. {{< /notice>}}
+
+### Podcast 
+
+Byzantium and Friends: [Digital humanities and Byzantium, with Kuba Kabala](https://byzantiumandfriends.podbean.com/e/23-digital-humanities-and-byzantium-with-kuba-kabala/) 
+
+#### Readings to Consider...AKA, I think you should read them!
+
+{{< notice success "Important" >}} Can't get access to a reading? **Let Me Know** Even I forget/break things that may hinder your ability to access material {{< /notice}}
+
+1. Filene, Benjamin. 2017   History Museums and Identity: Finding “Them,” “Me,” and “Us” in the Gallery. In _The Oxford Handbook of Public History_, editors Paula Hamilton and James B. Gardner, pp. 327-348. Oxford University Press, Oxford.
+   
+2. Stewart, Michael Edward, David Alan Parnell, and Conor Whatelyin 2022    Finding Byzantium. In *The Routledge Handbook on Identity in Byzantium*, editors Michael Edward Stewart, David Alan Parnell, and Conor Whately, pp. 1-16.  Routledge, New York.
+   
+3. Foskolou, Vicky. 2008   Byzantium on the Web: New Technologies at the Service of Museums and Educational Institutions for the Presentation of Byzantine Culture. _Byzantinische Zeitschrift_ 100 (2): 629-636. [https://doi.org/10.1515/BYZS.2008.629](https://doi.org/10.1515/BYZS.2008.629).
+   
+4. Stouraitis, Ioannis. 2014   Roman Identity in Byzantium: A Critical Approach. _Byzantinische Zeitschrift_ 107 (1): 175-220. [https://doi.org/10.1515/bz-2014-0009](https://doi.org/10.1515/bz-2014-0009).
+   
+5. Aschenbrenner, Nathanael, and Jake Ransohoff. 2021   Introduction: The Invention of Byzantium in Early Modern Europe. In *The Invention of Byzantium in Early Modern Europe,* edited by Nathanael Aschenbrenner and Jake Ransohoff, Dumbarton Oaks, Washington, DC.: 1-23.
+    
+6. Goldwyn, Adam. 2022 Byzantium in the American Alt-Right Imagination. In The Routledge Handbook on Identity in Byzantium, editors Michael Edward Stewart, David Alan Parnell, and Conor Whately, pp. 424-439. Routledge, New York.
+    
+7. Betancourt, Roland. 2021 Why White Supremacists and QAnon Enthusiasts Are Obsessed – but Very Wrong – about the Byzantine Empire. The Conversation Accessed 17 November 2021. [Link](http://theconversation.com/why-white-supremacists-and-qanon-enthusiasts-are-obsessed-but-very-wrong-about-the-byzantine-empire-154994)
+
+#### Museum Case Study Suggestions:
+
+[Acropolis Museum](https://www.theacropolismuseum.gr/en/)
+
+[Byzantine and Christian Museum:](https://www.byzantinemuseum.gr/en/)
+
+[Museum of Byzantine Culture (Thessaloniki):](https://mbp.gr/en)
+
+[Numismatic Museum of Athens:](https://www.nummus.gr/en/)
+
+[Royal Ontario Museum](https://www.rom.on.ca/en/exhibitions-galleries/galleries)
+
+[British Museum](https://www.britishmuseum.org/collection/galleries/sutton-hoo-and-europe)
+
