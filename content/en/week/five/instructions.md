@@ -6,6 +6,7 @@ draft: false
 weight: -10
 ---
 
+![DigiWeb](favicon/DigiWeb.png)
 
 ## Goals for this week
 
