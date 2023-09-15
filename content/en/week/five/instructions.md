@@ -34,8 +34,6 @@ We will dive right into the meat and potatoes on Thursday, continue your researc
 
 {{< notice success "Important" >}} Remember, I don't expect a conclusive, definitive answer! If you don't have an answer, just say, "We Don't Know, and here is why." **I am evaluating you on process** and how you think through the steps, analytically and digitally, to answer the question in question...make sense? If you bugger up, **Do Not Worry or Freak Out.** Document what happened and how you re-assessed and moved forward. Experiential learning is the goal. {{< /notice>}}
 
-## Podcast 
-
-Byzantium and Friends: [Digital humanities and Byzantium, with Kuba Kabala](https://byzantiumandfriends.podbean.com/e/23-digital-humanities-and-byzantium-with-kuba-kabala/) 
+Test
 
 
