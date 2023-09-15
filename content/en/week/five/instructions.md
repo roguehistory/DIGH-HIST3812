@@ -57,3 +57,18 @@ Byzantium and Friends: [Digital humanities and Byzantium, with Kuba Kabala](http
     
 7. Betancourt, Roland. 2021 Why White Supremacists and QAnon Enthusiasts Are Obsessed – but Very Wrong – about the Byzantine Empire. The Conversation Accessed 17 November 2021. [Link](http://theconversation.com/why-white-supremacists-and-qanon-enthusiasts-are-obsessed-but-very-wrong-about-the-byzantine-empire-154994)
 
+---
+#### Museum Case Study Suggestions:
+
+[Acropolis Museum](https://www.theacropolismuseum.gr/en/)
+
+[Byzantine and Christian Museum:](https://www.byzantinemuseum.gr/en/)
+
+[Museum of Byzantine Culture (Thessaloniki):](https://mbp.gr/en)
+
+[Numismatic Museum of Athens:](https://www.nummus.gr/en/)
+
+[Royal Ontario Museum](https://www.rom.on.ca/en/exhibitions-galleries/galleries)
+
+[British Museum](https://www.britishmuseum.org/collection/galleries/sutton-hoo-and-europe)
+
