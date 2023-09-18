@@ -1,34 +1,10 @@
 ---
-title: Week Three News
-Type: Blog
----
-*Created: 18th September 2023
-Last modified: 18th September 2023*
-Book/Article Title:
-Zotero: 
-Project:[[Digital History]]
-Theme: [[News]]
-
----
 title: "Week Three"
 description: "Updates, Happenings, and general Musings."
 date: 2023-09-12T00:39:09+09:00
 draft: false
 weight: 2
-
 ---
-### Tags:
-
-#HIST3812/News  #WeekThree #WhatIsDigitalHistory
-
----
-### Links:  
-[[Courses/HIST_DIGH 3812/2.Course Calendar/Week 3|Week 3]]
-
-
----
-
-### Observations and Critiques:
 
 ## General Update
 
