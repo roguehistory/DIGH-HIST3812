@@ -1,6 +1,6 @@
 ---
 title: "Week Three"
-description: "Updates, Happenings, and general Musings."
+description: "General Update."
 date: 2023-09-12T00:39:09+09:00
 draft: false
 weight: 2
