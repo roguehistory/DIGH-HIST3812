@@ -19,8 +19,9 @@ Throughout the week we will also be using Obsidian and Hypothes.is. So bring you
 {{< alert theme="warning" >}} If you have any suggestions on what you would like to see on this page, let me know. If you would like to make a contribution to this page, PLEASE let me know!
 {{< /alert >}}
 
-Weekly MEME: 
-I've decided to do weekly memes and post them here for you. Use Hypothes.is to comment on them. Give me your thoughts on whether memes can be facilitators of Digital History. 
+**Weekly MEME:**
+
+I've decided to do weekly memes and post them here for you. Use Hypothes.is to comment on them. Give me your thoughts on whether memes can be facilitators of Digital History. What does a meme like this say about the perceptions of Historians, Public Historians and Archaeologists? (PS: I Love MEMES).
 
 ![Week Three Meme](MEMES/ArkPHMeme.png)
 
