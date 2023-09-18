@@ -22,7 +22,7 @@ Throughout the week we will also be using Obsidian and Hypothes.is. So bring you
 Weekly MEME: 
 I've decided to do weekly memes and post them here for you. Use Hypothes.is to comment on them. Give me your thoughts on whether memes can be facilitators of Digital History. 
 
-![[ArkPHMeme.jpg]]
+![[MEMES/ArkPHMeme.jpg]]
 
 
 
