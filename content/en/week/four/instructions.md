@@ -28,7 +28,7 @@ In short, the Byzantines were Romans (Romaioi) who lived within the ever-fluctua
 ---
 ## Do
 
-This week we will first ask ChatGPT "Who are the Byzantines?" and then compare and discuss how the speakers in the two podcasts and YouTube video frame Byzantium and those who lived within the Empire's ever-fluctuating borders. How do they define Byzantium? How do the speakers define "de-colonization" and what does this process look like for Byzantine Studies? Listen to the language used, make notes in your Obsidian vault and prepare to discuss whether you agree or disagree with the speakers. Moreover, think about who the audience is for each of the podcasts and talks. Are these "Public Talks"? Are these accessible to all of the public? Do you think digital platforms like podcasts and YouTube make academic disciplines like Byzantine Studies accessible to the general public? Is this 'good' Digital History in practice? 
+This week we will first ask ChatGPT "Who are the Byzantines?" and then compare and discuss how the speakers in the two podcasts, the YouTube video, and the TEDEd website frame Byzantium and those who lived within the Empire's ever-fluctuating borders. How do they define Byzantium? Should we abandon the label Byzantine? What does this process look like for Byzantine Studies? Listen to the language used, make notes in your Obsidian vault and prepare to discuss whether you agree or disagree with the speakers. Moreover, think about who the audience is for each of the podcasts, the YouTube video and the TEDed website. Are these "Public Talks"? Is this Digital history? Are these accessible to all of the public? Do you think digital platforms like podcasts, YouTube and TEDEd make academic disciplines like Byzantine Studies accessible to the general public? Is this 'good' Digital History in practice? 
 
 ### Log your work
 
@@ -51,12 +51,15 @@ For your digital work, it is critical that you keep notes on what works, what do
 
 ### YouTube
 
-[Is It Time to De-Colonize the Terms "Byzantine" and "Byzantium"?](https://www.youtube.com/watch?v=oMIwE3DoU3U&list=PLkocuYd2ADmhdt3emdhs-7V_IGV1BjthL) 
-
+[The rise and fall of the Byzantine Empire - Leonora Neville - YouTube](https://www.youtube.com/watch?v=Okph9wt8I0A)
 
 ### ChatGPT
 
 [ChatGPT](https://chat.openai.com/)
+
+### Website
+
+[The rise and fall of the Byzantine Empire - Leonora Neville | TED-Ed](https://ed.ted.com/lessons/the-rise-and-fall-of-the-byzantine-empire-leonora-neville)
 
 
 
