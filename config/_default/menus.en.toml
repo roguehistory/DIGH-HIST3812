@@ -21,3 +21,10 @@
   name = "News"
   url = "news"
   weight = 4
+
+[[main]]
+  identifier = "important dates"
+  name = "Important Dates"
+  url = "dates"
+  weight = 5
+  
