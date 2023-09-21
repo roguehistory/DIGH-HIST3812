@@ -44,16 +44,14 @@ Byzantium and Friends: [Digital humanities and Byzantium, with Kuba Kabala](http
 #### AKA, I think you should read them!
 
 {{< notice success "Important" >}} Can't get access to a reading? Let Me Know, and I will do what I can to help you. {{< /notice>}}
-
-1. Stewart, Michael Edward, David Alan Parnell, and Conor Whatelyin 2022    Finding Byzantium. In *The Routledge Handbook on Identity in Byzantium*, editors Michael Edward Stewart, David Alan Parnell, and Conor Whately, pp. 1-16.  Routledge, New York.
    
-2. Foskolou, Vicky. 2008   Byzantium on the Web: New Technologies at the Service of Museums and Educational Institutions for the Presentation of Byzantine Culture. _Byzantinische Zeitschrift_ 100 (2): 629-636. 
+1. Foskolou, Vicky. 2008   Byzantium on the Web: New Technologies at the Service of Museums and Educational Institutions for the Presentation of Byzantine Culture. _Byzantinische Zeitschrift_ 100 (2): 629-636. 
    
-3. Stouraitis, Ioannis. 2014   Roman Identity in Byzantium: A Critical Approach. _Byzantinische Zeitschrift_ 107 (1): 175-220.  
+2. Stouraitis, Ioannis. 2014   Roman Identity in Byzantium: A Critical Approach. _Byzantinische Zeitschrift_ 107 (1): 175-220.  
     
-4. Goldwyn, Adam. 2022 Byzantium in the American Alt-Right Imagination. In The Routledge Handbook on Identity in Byzantium, editors Michael Edward Stewart, David Alan Parnell, and Conor Whately, pp. 424-439. Routledge, New York.
+3. Goldwyn, Adam. 2022 Byzantium in the American Alt-Right Imagination. In The Routledge Handbook on Identity in Byzantium, editors Michael Edward Stewart, David Alan Parnell, and Conor Whately, pp. 424-439. Routledge, New York.
     
-5. Betancourt, Roland. 2021 Why White Supremacists and QAnon Enthusiasts Are Obsessed – but Very Wrong – about the Byzantine Empire. The Conversation Accessed 17 November 2021. [Link](http://theconversation.com/why-white-supremacists-and-qanon-enthusiasts-are-obsessed-but-very-wrong-about-the-byzantine-empire-154994)
+4. Betancourt, Roland. 2021 Why White Supremacists and QAnon Enthusiasts Are Obsessed – but Very Wrong – about the Byzantine Empire. The Conversation Accessed 17 November 2021. [Link](http://theconversation.com/why-white-supremacists-and-qanon-enthusiasts-are-obsessed-but-very-wrong-about-the-byzantine-empire-154994)
 
 ---
 #### Museum Case Study Suggestions:
