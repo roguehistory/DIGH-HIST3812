@@ -18,7 +18,7 @@ weight: -10
 
 ### Goals for this week
 
-1. Listen to Podcasts and watch talks on "Is It Time to De-Colonize the Terms "Byzantine" and "Byzantium"?
+1. Listen to Podcasts and watch "The Rise and Fall of the Byzantine Empire."
 2. Ask ChatGPT "Who are the Byzantines?" and prepare to share with the class. 
 3. Continue to improve your digital literacy 
 
