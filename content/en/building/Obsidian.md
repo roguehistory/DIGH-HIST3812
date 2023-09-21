@@ -1,0 +1,18 @@
+
+
+
+## Obsidian/Markdown #Obsidian 
+
+[Templates - PodNotes](https://chhoumann.github.io/PodNotes/templates/)
+
+[Markdown Guide](https://www.markdownguide.org/)
+
+[FromSergio - YouTube](https://www.youtube.com/@FromSergio)
+
+[Danny Hatcher - YouTube](https://www.youtube.com/@DannyHatcher)
+
+[Bryan Jenks - YouTube](https://www.youtube.com/@BryanJenksTech)
+
+[Linking Your Thinking - YouTube](https://www.youtube.com/@linkingyourthinking)
+
+[How to Create Tables in Obsidian](https://www.makeuseof.com/how-to-create-tables-obsidian/#:~:text=To%20create%20a%20table%20in,header%20row%20from%20the%20rest.)
