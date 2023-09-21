@@ -61,6 +61,9 @@ For your digital work, it is critical that you keep notes on what works, what do
 
 [The rise and fall of the Byzantine Empire - Leonora Neville | TED-Ed](https://ed.ted.com/lessons/the-rise-and-fall-of-the-byzantine-empire-leonora-neville)
 
+### Readings to Consider:
+
+Aschenbrenner, Nathanael, and Jake Ransohoff. 2021   Introduction: The Invention of Byzantium in Early Modern Europe. In *The Invention of Byzantium in Early Modern Europe,* edited by Nathanael Aschenbrenner and Jake Ransohoff, Dumbarton Oaks, Washington, DC.: 1-23.
 
 
 
