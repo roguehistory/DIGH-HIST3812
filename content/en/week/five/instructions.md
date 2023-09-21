@@ -38,7 +38,7 @@ We will dive right into the meat and potatoes on Thursday, continue your researc
 ---
 ## Podcast 
 
-Byzantium and Friends: [Digital humanities and Byzantium, with Kuba Kabala](https://byzantiumandfriends.podbean.com/e/23-digital-humanities-and-byzantium-with-kuba-kabala/) 
+[Is It Time to De-Colonize the Terms "Byzantine" and "Byzantium"?](https://www.youtube.com/watch?v=oMIwE3DoU3U&list=PLkocuYd2ADmhdt3emdhs-7V_IGV1BjthL) 
 
 ## Readings to Consider:
 #### AKA, I think you should read them!
