@@ -49,7 +49,7 @@ Visit [Archaeology Data Service](https://archaeologydataservice.ac.uk/) and peru
 
 Huggett, Jeremy. 2020   Capturing the Silences in Digital Archaeological Knowledge _Information_ 11(5), art. 278. [https://doi.org/10.3390/info11050278](https://doi.org/10.3390/info11050278).
 
-Is Big Digital Data Different? Towards a New Archaeological Paradigm, _Journal of Field Archaeology_, (45): S8–S17. [https://doi.org/10.1080/00934690.2020.1713281](https://doi.org/10.1080/00934690.2020.1713281)
+Huggett, Jeremy. 2020. Is Big Digital Data Different? Towards a New Archaeological Paradigm, _Journal of Field Archaeology_, (45): S8–S17. [https://doi.org/10.1080/00934690.2020.1713281](https://doi.org/10.1080/00934690.2020.1713281)
 
 ### Podcast
 
