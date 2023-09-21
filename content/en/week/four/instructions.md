@@ -65,6 +65,7 @@ For your digital work, it is critical that you keep notes on what works, what do
 
 Aschenbrenner, Nathanael, and Jake Ransohoff. 2021   Introduction: The Invention of Byzantium in Early Modern Europe. In *The Invention of Byzantium in Early Modern Europe,* edited by Nathanael Aschenbrenner and Jake Ransohoff, Dumbarton Oaks, Washington, DC.: 1-23.
 
+Stewart, Michael Edward, David Alan Parnell, and Conor Whatelyin 2022    Finding Byzantium. In *The Routledge Handbook on Identity in Byzantium*, editors Michael Edward Stewart, David Alan Parnell, and Conor Whately, pp. 1-16.  Routledge, New York.
 
 
 
