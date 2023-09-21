@@ -6,8 +6,6 @@ draft: false
 weight: -10
 ---
 
->“We lose the battle when we undermine our own powerful narratives about the past by appealing to a crisis mode. We lose the battle when we tell people that ‘archaeology is actually very boring; we don’t have adventures’. We lose the battle when we try to inject a spurious objectivity into archaeology. Understand me clearly: I am not saying that we should not practice archaeology properly. I am not arguing against fieldwork, stratigraphy, archaeometry, or careful statistical analysis. I am not saying we should use antiquity in the same ways the white supremacists do. I am saying that we made a mistake when we stopped admitting the wonder in what we do, the affective nature of our work, our practice. We made a mistake when we removed ourselves from the stories we tell to other people.” (Graham, 2020: 27)
-
 
 ### Goals for this week
 
@@ -26,6 +24,8 @@ weight: -10
 	</tbody>
 </table>
 
+
+>"An enchanted digital archaeology remembers that when we are using computers, the computer is not a passive tool. It is an active agent in its own right... The way it is built, the way the code is designed, contains so many elements of unconscious bias from all of its myriad creators...the computer is our co-creator (Graham 2020: 8).
 
 Once the excavation is over, what happens to the information created through archaeological research? How do archaeologists use digital technologies on site, in the lab, or on the web? This week, we explore the intersection of digital technologies with Byzantine archaeology. We will explore how digital technologies allow us to ask questions that would otherwise be impossible to ask. We will consider the ethical ramifications of our digital tools and opaque algorithms. We will also look into the ways that computational creativity in archaeology allows for novel engagements with the past, thus moving us into a digital _public_ archaeology.
 
