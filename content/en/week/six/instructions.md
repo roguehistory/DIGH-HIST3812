@@ -10,7 +10,7 @@ weight: -10
 
 1) Readings and Podcast (I know, but it needs to be done).
 2) Explore [Archaeology Data Service](https://archaeologydataservice.ac.uk/) and annotate with Hypothes.is
-3) Improve your digital literacy...*cough, cough* Use Obsidian. 
+3) Improve your digital literacy...*cough, cough*...Use Obsidian. 
 
 ## The Digital and Archaeology. 
 
