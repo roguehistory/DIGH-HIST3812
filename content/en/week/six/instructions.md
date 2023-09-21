@@ -6,6 +6,9 @@ draft: false
 weight: -10
 ---
 
+>“We lose the battle when we undermine our own powerful narratives about the past by appealing to a crisis mode. We lose the battle when we tell people that ‘archaeology is actually very boring; we don’t have adventures’. We lose the battle when we try to inject a spurious objectivity into archaeology. Understand me clearly: I am not saying that we should not practice archaeology properly. I am not arguing against fieldwork, stratigraphy, archaeometry, or careful statistical analysis. I am not saying we should use antiquity in the same ways the white supremacists do. I am saying that we made a mistake when we stopped admitting the wonder in what we do, the affective nature of our work, our practice. We made a mistake when we removed ourselves from the stories we tell to other people.” (Graham, 2020: 27)
+
+
 ### Goals for this week
 
 1) Readings and Podcast (I know, but it needs to be done).
