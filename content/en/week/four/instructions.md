@@ -17,7 +17,7 @@ weight: -10
 
 1. Listen to Podcasts and watch "The Rise and Fall of the Byzantine Empire."
 2. Ask ChatGPT "Who are the Byzantines?" and prepare to share with the class. 
-3. Continue to improve your digital literacy 
+3. Continue to improve your digital literacy. Play with ChatGPT and other AI bots. Pros/Cons??
 
 ### The Byzant...I mean Romans
 In short, the Byzantines were Romans (Romaioi) who lived within the ever-fluctuating borders of the Eastern Roman Empire (_Rhōmania_ or Romanland). This is an oversimplified answer, of course. Thus, in this class, our objective is to situate how the labels "Byzantium" and "Byzantine" came into common usage in modern scholarship and the effects on how scholars study medieval Roman identity. In other words, what do we mean when we use the labels Byzantium and Byzantine? What impact do these terms have on our historical and archaeological understandings of the Eastern Roman Empire? 
