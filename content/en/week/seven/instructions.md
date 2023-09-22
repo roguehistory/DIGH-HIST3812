@@ -17,7 +17,7 @@ weight: -10
 ### Goals For the Week
 1) Navigate Sketchfab and Global Digital History and play with 3D imaging.
 2) Think about how you could use 3D imaging for your group project.
-3) Try making your own 3D image of anything you like. 
+3) Improve your digital literacy. Try making your own 3D image of anything you like. 
 
 **"The idea of a ‘digital twin’ carries connotations of a replica, a duplicate, a facsimile, the digital equivalent of a material entity, and conveniently summons up the impression of a virtual exact copy of something that exists in the real world" (Huggett 2023)** 
 
