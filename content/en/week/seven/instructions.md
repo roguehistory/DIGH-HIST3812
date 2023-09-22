@@ -5,19 +5,19 @@ date: 2023-09-22
 draft: false
 weight: -10
 ---
+## Artifacts and their Digital Twins. 
 
-## Week Seven (Oct. 17 & 19, 2023) 
-
-### Artifacts and their Digital Twins. 
-
-##### (Podcast Analysis #2 Due Oct 20th @ 11:59pm)
-
-<div class="sketchfab-embed-wrapper"> <iframe title="Roman Coin, Sarajevo Museum" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f7845ac315af44329ba39b67bf46b336/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/roman-coin-sarajevo-museum-f7845ac315af44329ba39b67bf46b336?utm_medium=embed&utm_campaign=share-popup&utm_content=f7845ac315af44329ba39b67bf46b336" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Roman Coin, Sarajevo Museum </a> by <a href="https://sketchfab.com/GlobalDigitalHeritage?utm_medium=embed&utm_campaign=share-popup&utm_content=f7845ac315af44329ba39b67bf46b336" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Global Digital Heritage </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=f7845ac315af44329ba39b67bf46b336" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+### (Podcast Analysis #2 Due Oct 20th @ 11:59pm)
 
 ### Goals For the Week
 1) Navigate Sketchfab and Global Digital History and play with 3D imaging.
 2) Think about how you could use 3D imaging for your group project.
-3) Improve your digital literacy. Try making your own 3D image of anything you like. 
+3) Improve your digital literacy. Try making your own 3D image of anything you like.
+
+
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Roman Coin, Sarajevo Museum" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f7845ac315af44329ba39b67bf46b336/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/roman-coin-sarajevo-museum-f7845ac315af44329ba39b67bf46b336?utm_medium=embed&utm_campaign=share-popup&utm_content=f7845ac315af44329ba39b67bf46b336" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Roman Coin, Sarajevo Museum </a> by <a href="https://sketchfab.com/GlobalDigitalHeritage?utm_medium=embed&utm_campaign=share-popup&utm_content=f7845ac315af44329ba39b67bf46b336" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Global Digital Heritage </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=f7845ac315af44329ba39b67bf46b336" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
 
 **"The idea of a ‘digital twin’ carries connotations of a replica, a duplicate, a facsimile, the digital equivalent of a material entity, and conveniently summons up the impression of a virtual exact copy of something that exists in the real world" (Huggett 2023)** 
 
