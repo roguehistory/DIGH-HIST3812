@@ -8,14 +8,15 @@ weight: -10
 
 # Situating Byzantium in Digital Spaces.
 
-![DigiWeb](favicon/DigiWeb.png)
-
 ## Goals for this week
 
 1. Get to know your fellow collaborators. Ask questions. Discover each other's digital interests.
 2. Critically assess social media sites for their representation of 'Byzantine' identity.
 3. Create an action plan for your group project.
 4. Answer the question: Should scholars continue or stop using the term Byzantine? Why?
+
+![DigiWeb](favicon/DigiWeb.png)
+
 
 ## Where Are Byzantine Studies Performed?
 
