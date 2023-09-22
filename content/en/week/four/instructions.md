@@ -8,7 +8,7 @@ weight: -10
 
 ## Who Are The Byzantines?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Okph9wt8I0A?si=e59YqVnddPz8Q2P1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="720" height="425" src="https://www.youtube.com/embed/Okph9wt8I0A?si=e59YqVnddPz8Q2P1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ### Goals for this week
