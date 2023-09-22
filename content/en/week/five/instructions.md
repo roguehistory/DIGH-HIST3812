@@ -6,6 +6,8 @@ draft: false
 weight: -10
 ---
 
+# Situating Byzantium in Digital Spaces.
+
 ![DigiWeb](favicon/DigiWeb.png)
 
 ## Goals for this week
