@@ -64,7 +64,7 @@ When something comes up and this course has to move to the backburner, contact m
 
 11)  Nov. 14 & 16, 2023: Case Study #2: Oh Graham! Arch-knowledging the Past on Digital Platforms.
 
-12)  Nov. 21 & 23, 2023: Whose Digital Heritage and Cultural Property? The "Digital Twin."
+12)  Nov. 21 & 23, 2023: Whose Digital Heritage and Cultural Property?
 
 **(Podcast Analysis #3 Due Nov 17th @ 11:59pm)**
 
