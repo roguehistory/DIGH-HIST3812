@@ -1,7 +1,7 @@
 ---
 title: "12. November 21 & 23"
-description: "The 'Digital Twin'"
-date: 2020-01-28T00:10:51+09:00
+description: "Whose Digital Heritage and Cultural Property?"
+date: 2023-09-22T00:10:51+09:00
 draft: false
 author: "Scott Coleman"
 collapsible: true
