@@ -8,12 +8,6 @@ weight: -10
 
 ## The Digital and Archaeology. 
 
-### Goals for this week
-
-1) Readings and Podcast (I know, but it needs to be done).
-2) Explore [Archaeology Data Service](https://archaeologydataservice.ac.uk/) and annotate with Hypothes.is
-3) Improve your digital literacy...*cough, cough*...Use Obsidian.
-
 This week's class is inspired by Dr. Shawn Graham's Hist 3000. 
 
 
@@ -25,6 +19,11 @@ This week's class is inspired by Dr. Shawn Graham's Hist 3000.
 	</tbody>
 </table>
 
+### Goals for this week
+
+1) Readings and Podcast (I know, but it needs to be done).
+2) Explore [Archaeology Data Service](https://archaeologydataservice.ac.uk/) and annotate with Hypothes.is
+3) Improve your digital literacy...*cough, cough*...Use Obsidian.
 
 >"An enchanted digital archaeology remembers that when we are using computers, the computer is not a passive tool. It is an active agent in its own right... The way it is built, the way the code is designed, contains so many elements of unconscious bias from all of its myriad creators...the computer is our co-creator (Graham 2020: 8).
 
