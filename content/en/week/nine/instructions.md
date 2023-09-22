@@ -7,15 +7,8 @@ weight: -10
 ---
 ## Museums Gone Digital: The Digital Subaltern.
 
-##### (Collaborative Project Proposal Due in class, Nov 2nd)
+#### (Collaborative Project Proposal Due in class, Nov 2nd)
 
-### Goals for this week
-
-1) Think about who is represented and not represented in the museum case studies.
-2) Use Hypothes.is to annotate where you believe the subaltern lives on the museum websites.
-3) Improve your digital literacy. Explore Reflectance Transformation Imaging. 
-
-**"Just as colonialism and digital humanities are both projects in world making, postcolonial digital humanities, I argue, emphasizes the possibility of creating new worlds that resist inscriptions of colonialism in the digital cultural record" (Risam 2019: 20).**
 
 <table >
 	<tbody>
@@ -25,9 +18,13 @@ weight: -10
 	</tbody>
 </table>
 
+>"Just as colonialism and digital humanities are both projects in world making, postcolonial digital humanities, I argue, emphasizes the possibility of creating new worlds that resist inscriptions of colonialism in the digital cultural record" (Risam 2019: 20).
+>
+### Goals for this week
 
-### Museums, Digital Colonialism/Orientalism and the subaltern
-
+1) Think about who is represented and not represented in the museum case studies.
+2) Use Hypothes.is to annotate where you believe the subaltern lives on the museum websites.
+3) Improve your digital literacy. Explore Reflectance Transformation Imaging. 
 ---
 ## Do
 
