@@ -48,9 +48,9 @@ When something comes up and this course has to move to the backburner, contact m
 
 5)   October 3 & 5, 2023: Case Study # 1: Situating Byzantium in Digital Spaces.
 
-6)   Oct. 10 & 12, 2023: The Digital and Byzantine Archaeology.
+6)   Oct. 10 & 12, 2023: The Digital and Archaeology.
 
-7)   Oct. 17 & 19, 2023: Databases and What we put in them.
+7)   Oct. 17 & 19, 2023: Artifacts and their Digital Twins
 
 **(Podcast Analysis #2 Due Oct 20th @ 11:59pm)**
 
