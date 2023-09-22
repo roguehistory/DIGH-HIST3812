@@ -8,7 +8,7 @@ weight: -10
 
 ## Who Are The Byzantines?
 
-#### (Podcast Analysis #2 Due Oct 20th @ 11:59pm)
+#### (Podcast Analysis #1 Due Sept 29th @ 11:59pm)
 
 <iframe width="720" height="425" src="https://www.youtube.com/embed/Okph9wt8I0A?si=e59YqVnddPz8Q2P1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
