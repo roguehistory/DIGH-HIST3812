@@ -24,7 +24,9 @@ weight: -10
 
 ### Goals for this week
 
-1) 
+1) Think about who is represented and not represented in the museum case studies.
+2) Use Hypothes.is to annotate where you believe the subaltern lives on the museum websites.
+3) Improve your digital literacy. Explore Reflectance Transformation Imaging. 
 
 ### Museums, Digital Colonialism/Orientalism and the subaltern
 
