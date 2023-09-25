@@ -1,5 +1,5 @@
 ---
-title: "2.Week Two"
+title: "1.Week Two"
 description: "Updates, Happenings, and general Musings."
 date: 2023-09-12T00:39:09+09:00
 draft: false
