@@ -1,0 +1,34 @@
+---
+title: Podcast Analysis
+date: 09-25-2023
+description: News Update
+---
+
+Good afternoon, Class. 
+
+First, I want to recognize all of you for a great week. Class participation and discussion have been excellent. Furthermore, though I have not responded to all of your comments on the Hypothes.is app, I am pleased with the class participation in the app. There are a lot of fantastic observations, and I look forward to more of this in the future. REMEMBER TO CHANGE FROM PUBLIC TO HIST/DIGH 3812, OR I WILL NOT SEE YOUR COMMENTS. I do not usually look through the public Hypothes.is. 
+
+Second, I will provide an update about holding classes this week later this afternoon. We are still without child, but my partner may be induced today or tomorrow or not at all, depending on what the doctor says. I will keep you in the loop as soon as I know. If I have to cancel class this week, I will provide instructions for what I expect you to complete over the week and to be prepared for the following week. Furthermore, I will adjust the class schedule accordingly so you are not penalized for my life (most likely, I will adjust the schedule by moving the syllabus forward by a week, inclusive of the assignments). **AGAIN, I WILL ANNOUNCE MY FINAL DECISION LATER TODAY/EARLY EVENING** Please be patient. 
+
+
+Lastly, the podcast assignment. As I discussed in class, the Podcast Critical Analysis is a **MAX 500 words**. You are to choose between [PUBlic History: Words with Friends](https://open.spotify.com/episode/5zLgGLFzQwZq1hWfvWivTm?si=8c8508793e9344f8), [When does Roman history end and Byzantine begin?, with Marion Kruse](https://byzantiumandfriends.podbean.com/e/15-when-does-roman-history-end-and-byzantine-begin-with-marion-kruse/), or [Is it time to abandon the rubric “Byzantium”?, with Leonora Neville](https://byzantiumandfriends.podbean.com/e/43-is-it-time-to-abandon-the-rubric-byzantium-with-leonora-neville/), or you can do a comparative analysis of two or all three. It is up to you. What I am looking for is simple: 
+1. A research question (For example, Is a Podcast a form of Digital Public history? Who are the podcast hosts' audience? Is Byzantium and Friends an effective platform to address issues in Byzantine studies for public consumption? The sky is the limit here.). 
+2. A Thesis statement (In this analysis, I will demonstrate X, Y, Z; I will argue that Kaldellis' podcast is directed to the academic public and not the public at large because of X, Y, Z). 
+3. Body of evidence and clarity of arguments to support your claim. USE TIME STAMPS IN YOUR CITATIONS OF PODCASTS (For example, Kaldellis states at 34m32s that he perceives Byzantium as a public something, blah, blah, blah) I NEED TIME STAMPS TO SEE/HEAR your evidence!!!! 
+4.  Conclusion: IS A SUMMARY OF YOUR EVIDENCE AND WHY IT PROVES YOUR ARGUMENT. It is not a place to introduce new evidence, methods, or theories to your arguments. 
+5.  Bibliography. I am looking for **one primary source (The podcast) and three secondary peer-reviewed sources.** This could be an academic book, journal, or, dare I say, blog (though you need to justify why this is peer-reviewed, as most blogs are not). Consistency and syntax will be part of the assessment. 
+
+Each analysis will be based on these criteria and evaluated out of 20 points per criteria listed above, for a total of 100 points, which will be adjusted to reflect each podcast assignment's 5% value for the course. 
+
+CITATIONS: Use what you are comfortable with; all I ask is KEEP IT CONSISTENT!! (History generally uses Chicago style).
+
+SUGGESTIONS: You can write on just one podcast or two/three if you can link your arguments together. Pick the podcast that intrigues you the most. Reflect on why I assigned it for the week and how it may represent the themes we touched on. Was there a particular theme you identified in the podcast that was not elaborated on? If there is 15 minutes of a podcast that you thought was particularly interesting, then frame your research question around that part of the podcast.  **You can argue whatever you want as long as you can prove it and support your argument with evidence.** Some questions you can possibly address are:
+	1. Are History podcasts a Digital History/Public History/Digital Public History? Why or why not? 
+	2. Should podcasts be used as platforms to engage public discourse in the creation of History?
+	3. Who is the audience for Anthony Kaldellis' podcast? 
+	4. How are the Romans and Byzantines periodized in the podcasts?
+	5. How do the podcasts address decolonization? What does this look like in their respective fields?
+
+These questions are suggestions and you **do not need to use them** in your analysis. Also, a research question is not a thesis statement. These are two distinct conditions of a paper. One presents a question you will address, and the other is your argument, which specifies your position and answers the question. **_Furthermore, I am not looking for a summary of a podcast. I have listened to them multiple times. Make an argument! If you provide a summary, you will not do well on this assignment._** 
+
+### PLEASE, IF YOU HAVE QUESTIONS, REACH OUT AND CONTACT ME. I AM HERE TO HELP. 
