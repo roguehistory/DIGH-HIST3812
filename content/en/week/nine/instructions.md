@@ -49,11 +49,12 @@ For your digital work, it is critical that you keep notes on what works, what do
 
 [The museum will not be decolonised – Media Diversified](https://mediadiversified.org/2017/11/15/the-museum-will-not-be-decolonised/)
 
-Filene, Benjamin. 2017   History Museums and Identity: Finding “Them,” “Me,” and “Us” in the Gallery. In _The Oxford Handbook of Public History_, editors Paula Hamilton and James B. Gardner, pp. 327-348. Oxford University Press, Oxford.
+Filene, Benjamin. 2017   History Museums and Identity: Finding “Them,” “Me,” and “Us” in the Gallery. In _The Oxford Handbook of Public History_, editors Paula Hamilton and James B. Gardner.  Oxford University Press, Oxford: 327-348.
 
-Hall, Marin. 2013   Subaltern voices? Finding the spaces between things and words. In _Historical Archaeology: Back from the Edge_, editors Funari, Pedro Paulo A., Martin Hall, and Sian Jones, pp. 193-203 Routledge, New York.   [https://doi.org/10.4324/9780203208816](https://doi.org/10.4324/9780203208816).
+Hall, Marin. 2013   Subaltern voices? Finding the spaces between things and words. In _Historical Archaeology: Back from the Edge_, editors Funari, Pedro Paulo A., Martin Hall, and Sian Jones.  Routledge, New York: 193-203.   [https://doi.org/10.4324/9780203208816](https://doi.org/10.4324/9780203208816).
 
-Stouraitis, Y. 2022   Is Byzantinism an Orientalism? Reflections on Byzantium’s constructed identities and debated ideologies. In _Identities and Ideologies in the Medieval East Roman World_, editor Yannis Stouraitis, pp. 19-47. Edinburgh University Press, Edinburgh. 
+Mali, Sofia. 2023. "Museum Interpretations of Byzantium" in _Byzantium in the Popular Imagination: The Modern Reception of the Byzantine Empire._ Eds. Markéta Kulhánková and Przemysław Marciniak. London: I.B. Tauris: 81-105.
+
 
 ### Podcast:
 Byzantium and Friends: 
