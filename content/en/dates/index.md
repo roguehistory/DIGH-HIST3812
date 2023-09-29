@@ -20,7 +20,7 @@ weight: 1
 
 1) Finalized Groups for Collaborative Project Sept 28th by end of class
   
-2) Podcast Analysis #1 Due Sept 29th @ 11:59pm
+2) **NEW DATE** Podcast Analysis #1 Due Oct 6th @ 11:59pm
   
 3) Case Study #1 Week of Oct 3rd and 5th.
   
