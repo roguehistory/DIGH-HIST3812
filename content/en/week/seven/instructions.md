@@ -51,6 +51,8 @@ In Thursday's class, we will interact with a few 3D and 2D Digital visualization
 
 With the advancement of technology, specifically smartphones (are they really smart?), anyone who owns a smartphone can create a 3D image. This week, if you have a smartphone, try downloading an app that allows you to create a 3D image on your phone. Document the process and discuss how this "digital twin" represents the physical object. Does 3D imaging give the public an opportunity to participate in Digital history/archaeology? Is the public "doing" Digital History?
 
+{{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you laboured heroically for 2 hours to do something. Jump into our social space and ask for advice.{{< /notice >}}
+
 #### Readings:
 
 [Digital Twins – Introspective Digital Archaeology](https://introspectivedigitalarchaeology.com/2023/06/27/digital-twins/#more-3303) 
@@ -78,6 +80,4 @@ For your digital work, it is critical that you keep notes on what works, what do
 
 **While this isn't graded, per se**, you _will_ need this material when it comes to writing the documentation for your final group project. Get in the habit of keeping careful _process_ notes.
 
-{{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you laboured heroically for 2 hours to do something. Jump into our social space and ask for advice.
-{{< /notice >}}
 
