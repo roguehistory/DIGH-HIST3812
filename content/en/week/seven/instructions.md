@@ -53,9 +53,11 @@ With the advancement of technology, specifically smartphones (are they really sm
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you laboured heroically for 2 hours to do something. Jump into our social space and ask for advice.{{< /notice >}}
 
-#### Readings:
+### Readings:
 
 [Digital Twins – Introspective Digital Archaeology](https://introspectivedigitalarchaeology.com/2023/06/27/digital-twins/#more-3303) 
+
+[Part 1 Going Digital | The Open Digital Archaeology Textbook](https://o-date.github.io/draft/book/going-digital.html) (Again, use Hypothes.is to annotate.)
 
 [3D Imaging in Mediterranean Archaeology: What are we doing, anyway? ](https://mediterraneanworld.wordpress.com/2013/10/31/3d-imaging-in-mediterranean-archaeology-what-are-we-doing-anyway/) 
 
@@ -67,7 +69,13 @@ Staiff, Russell. 2014   Visual Cultures: Imagining and Knowing Through Looking. 
 
 Perry, Sara. 2019   The Enchantment of the Archaeological Record. _European Journal of Archaeology_ 22(3): 354–71. [https://doi.org/10.1017/eaa.2019.24](https://doi.org/10.1017/eaa.2019.24) 
 
-#### Podcasts
+Huggett, Jeremy. 2020   Capturing the Silences in Digital Archaeological Knowledge _Information_ 11(5), art. 278. [https://doi.org/10.3390/info11050278](https://doi.org/10.3390/info11050278).
+
+Huggett, Jeremy. 2020. Is Big Digital Data Different? Towards a New Archaeological Paradigm, _Journal of Field Archaeology_, (45): S8–S17. [https://doi.org/10.1080/00934690.2020.1713281](https://doi.org/10.1080/00934690.2020.1713281)
+
+### Podcasts
+
+[Digital humanities and Byzantium, with Kuba Kabala](https://byzantiumandfriends.podbean.com/e/23-digital-humanities-and-byzantium-with-kuba-kabala/)   
 
 [Episode 12: What are the ethics surrounding 3D digital scanning of human skeletons? – The Arch and Anth Podcast](https://archandanth.com/episode-12-interview-with-cara-hirst/) 
 
