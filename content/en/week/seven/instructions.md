@@ -28,7 +28,7 @@ Once the excavation is over, what happens to the information created through arc
 
 This week, we explore the intersection of digital technologies with Byzantine archaeology. We will explore how digital technologies allow us to ask questions that would otherwise be impossible to ask. We will consider the ethical ramifications of our digital tools and opaque algorithms. We will also look into the ways that computational creativity in archaeology allows for novel engagements with the past; we explore 3D visual representations of the Byzantine past through two different public-facing platforms: [Sketchfab](https://sketchfab.com/) and [Global Digital Heritage](https://globaldigitalheritage.org/). These two platforms are excellent sources to explore how 3D models are used to present ancient material culture to the public. 
 
-{{< notice success "Reminder!" >}} **_The Most Important Ideas_**
+{{< notice success "Important!" >}} **_The Most Important Ideas_**
 
 1) Archaeology's genesis was in racism, and colonialism - Byzantine archaeology is no exception.
 2) Digital technology's birth was in the violence of war, and the control of systems.
