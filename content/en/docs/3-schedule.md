@@ -44,13 +44,13 @@ When something comes up and this course has to move to the backburner, contact m
 
 4)   Sept. 26 & 28, 2023: Performing Digital Medieval History in Academic and Public Spaces.
 
-**(Podcast Analysis #1 Due Sept 29th @ 11:59pm)**
+**UPDATED: (Podcast Analysis #1 Due Oct 6th @ 11:59pm)**
 
-5)   October 3 & 5, 2023: Case Study # 1: Situating Byzantium in Digital Spaces.
+5)   ** UPDATED** October 3 & 5, 2023: Discussing Rome on the Web
 
-6)   Oct. 10 & 12, 2023: The Digital and Archaeology.
+6)  **UPDATED** Oct. 10 & 12, 2023: Case Study #1: Situating Byzantium in Digital Spaces.
 
-7)   Oct. 17 & 19, 2023: Artifacts and their Digital Twins
+7)   Oct. 17 & 19, 2023: Archaeology, Artifacts and Their Digital Twins
 
 **(Podcast Analysis #2 Due Oct 20th @ 11:59pm)**
 
