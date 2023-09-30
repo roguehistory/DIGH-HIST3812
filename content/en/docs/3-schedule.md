@@ -46,11 +46,11 @@ When something comes up and this course has to move to the backburner, contact m
 
 **UPDATED: (Podcast Analysis #1 Due Oct 6th @ 11:59pm)**
 
-5)   ** UPDATED** October 3 & 5, 2023: Discussing Rome on the Web
+5)   **UPDATED** October 3 & 5, 2023: Discussing Rome on the Web
 
 6)  **UPDATED** Oct. 10 & 12, 2023: Case Study #1: Situating Byzantium in Digital Spaces.
 
-7)   Oct. 17 & 19, 2023: Archaeology, Artifacts and Their Digital Twins
+7)   **UPDATED** Oct. 17 & 19, 2023: Archaeology, Artifacts and Their Digital Twins
 
 **(Podcast Analysis #2 Due Oct 20th @ 11:59pm)**
 
