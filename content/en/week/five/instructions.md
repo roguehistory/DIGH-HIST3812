@@ -28,9 +28,9 @@ As we all know, this week my partner and I are welcoming our first child into th
 Since our case study will focus on historical representations of Byzantium on social media and the web, I think it would be good for us to explore the discourse surrounding the recent TikTok trend of "How often do men think about ancient Rome." Our goal is to flush out how writers/authors are discussing this trend in news articles and why has this trend become "viral" over the recent weeks. What are its origins? Below are four articles that I wish for us to address.
 
 >1) [Why men on TikTok say they think a lot about the Roman Empire](https://www.msnbc.com/opinion/msnbc-opinion/men-roman-empire-tiktok-trend-rcna105780)
-2) [Many men think about Roman Empire frequently, TikTok trend shows. Why? - The Washington Post](https://www.washingtonpost.com/lifestyle/2023/09/14/roman-empire-trend-men-tiktok/)
-3) [TikTok’s ‘Roman Empire’ Meme, Explained](https://www.forbes.com/sites/danidiplacido/2023/09/21/tiktoks-roman-empire-meme-explained/?sh=5982734d765b)
-4) [Why Mark Zuckerberg keeps naming his kids after Roman emperors](https://www.cnbc.com/2023/03/24/why-mark-zuckerberg-keeps-naming-his-kids-after-roman-emperors.html)
+>2) [Many men think about Roman Empire frequently, TikTok trend shows. Why? - The Washington Post](https://www.washingtonpost.com/lifestyle/2023/09/14/roman-empire-trend-men-tiktok/)
+>3) [TikTok’s ‘Roman Empire’ Meme, Explained](https://www.forbes.com/sites/danidiplacido/2023/09/21/tiktoks-roman-empire-meme-explained/?sh=5982734d765b)
+>4) [Why Mark Zuckerberg keeps naming his kids after Roman emperors](https://www.cnbc.com/2023/03/24/why-mark-zuckerberg-keeps-naming-his-kids-after-roman-emperors.html)
 
 We will use Hypothes.is to conduct our discussion. Highlight and annotate parts in the articles you believe are significant. Some discussion has begun on Sarah Bond and Stephanie Wong's article. If you are unsure how to contribute, please refer to their article (number 1 on the list), and log in to Hypothes.is and see the discussions already there.
 
