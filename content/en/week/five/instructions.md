@@ -13,4 +13,4 @@ weight: -10
 		</tr>
 	</tbody>
 </table>
-Russell Crowe. GLADIATOR via [Marca.com](https://www.marca.com/en/lifestyle/movies/2023/01/09/63bc847722601d1c6c8b456e.html)
+Russell Crowe. GLADIATOR via https://www.marca.com
