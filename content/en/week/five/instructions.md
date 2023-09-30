@@ -9,8 +9,8 @@ weight: -10
 <table >
 	</tbody>
 		<tr>
-			<td><img src="https://cdn.pixabay.com/photo/2023/07/12/08/03/ai-generated-8121986_1280.jpg"></td>
+			<td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.marca.com%2Fen%2Flifestyle%2Fmovies%2F2023%2F01%2F09%2F63bc847722601d1c6c8b456e.html&psig=AOvVaw0UjSGxKF6xptGtHwtJ5_C9&ust=1696119241310000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjjpdmG0YEDFQAAAAAdAAAAABAH"></td>
 		</tr>
 	</tbody>
 </table>
-Photo: Lorado. Den Haag, Netherlands
+Russell Crowe. GLADIATOR via [Marca.com](https://www.marca.com/en/lifestyle/movies/2023/01/09/63bc847722601d1c6c8b456e.html)
