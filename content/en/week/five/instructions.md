@@ -33,11 +33,11 @@ Since our case study will focus on historical representations of Byzantium on so
 
 We will use Hypothes.is to conduct our discussion. Highlight and annotate parts in the articles you believe are significant. Some discussion has begun on Sarah Bond and Stephanie Wong's article. If you are unsure how to contribute, please refer to their article (number 1 on the list), and log in to Hypothes.is and see the discussions already there.
 
-#### Please Make A Minimum of Two Annotations and Two Responses Per Article.
+{{< notice success "IMPORTANT!!" >}}Please Make A Minimum of Two Annotations and Two Responses Per Article.{{</notice>}}
 
 Your annotations and responses do not need to be long, But I am expecting you to contribute to the minimum requirements set above. Furthermore, this will be a good opportunity for groups to collaborate and begin discussing and researching how you want to approach the case study and final projects. Furthermore, bring your annotations from these articles into Obsidian and use them to inform your mind maps on the Canvas plugin. 
 
-#### I will be available and contributing when I can throughout the week. I have started with prompts in the Bond/Wong article.
+{{< notice success "Notice" >}} I will be available and contributing when I can throughout the week. I have started with prompts in the Bond/Wong article. If you need help, please reach out via email or Discord. I will respond as promptly as possible.{{</notice>}}
 
 
 
