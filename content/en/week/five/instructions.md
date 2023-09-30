@@ -6,7 +6,8 @@ draft: false
 weight: -10
 ---
 
-## Discussing Rome: Async Class Discussion.
+## Discussing Rome: 
+#### Class Discussion via Hypothes.is
 
 
 <table >
