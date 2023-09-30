@@ -21,7 +21,9 @@ weight: -10
 Photo by <a href="https://unsplash.com/@dariovero_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dario Veronesi</a> on <a href="https://unsplash.com/photos/lUO-BjCiZEA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 
-As we all know, this week my partner and I are welcoming our first child into the world. {{< notice success "Important" >}}Therefore, I have adjusted the class schedule. The first case study will now be held on week 6 (Oct 10 and 12). This coming week (Week 5) there will be **No In-Person Classes**; however, we will continue our studies asynchronistically by participating in class discussions via Hypothes.is. {{</notice>}}
+As we all know, this week my partner and I are welcoming our first child into the world.
+
+{{< notice success "Important" >}}Therefore, I have adjusted the class schedule. The first case study will now be held on week 6 (Oct 10 and 12). This coming week (Week 5) there will be **No In-Person Classes; however, we will continue our studies  by participating in class discussions asynchronistically via Hypothes.is.** {{</notice>}}
 
 Since our case study will focus on historical representations of Byzantium on social media and the web, I think it would be good for us to explore the discourse surrounding the recent TikTok trend of "How often do men think about ancient Rome." Our goal is to flush out how writers/authors are discussing this trend in news articles and why has this trend become "viral" over the recent weeks. What are its origins? Below are four articles that I wish for us to address.
 
