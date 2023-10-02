@@ -21,7 +21,7 @@ Office: PA406
 
 ## E-Contact
 #### Email:
-scottcoleman@cmail.carelton.ca 
+scottcoleman@cmail.carleton.ca 
 or 
 #### Twitter:
 [Scott Coleman, M.A. (@scottcoleman79) / X](https://twitter.com/scottcoleman79)
