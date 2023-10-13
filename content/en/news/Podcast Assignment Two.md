@@ -1,0 +1,68 @@
+---
+description: Outline of Assignment
+tags:
+  - HIST3812/WeekTen
+---
+## Podcast List
+
+As we discussed in class, the second Podcast Analysis due date is now November 10th, 11:59 PM. Furthermore, this assignment's structure is slightly different from the first Podcast analysis. First, I want you to perform a comparative analysis of two or three podcasts. Think of it as a critical review for an online magazine, news agency or academic journal. Like the articles we discussed concerning the TikTok trend of "Men Thinking about Rome," provide a critical review and discuss what you believe to be the podcast's central themes, arguments, and goals. Next, reflect on the language used, the positionality of the host and guests, and how they discuss the podcast episode's themes. Consider who the audience is and whether one podcast is more engaging for a public or academic audience. Why? Also, take into account YOUR audience, that is to say, if you were writing this critical review for an online publication, and critically evaluate the language you use to provide an engaging and succinct critical review. 
+
+**The critical review is to be a MAX 750 words**. 
+
+The basics I am looking for is simple:
+
+1. **A research question.** (For example, Is a Podcast a form of Digital Public history? Who are the podcast hosts’ audience? Is Byzantium and Friends an effective platform to address issues in Byzantine studies for public consumption? The sky is the limit here.).
+2. **A Thesis statement.** (In this analysis, I will demonstrate X, Y, Z; I will argue that Kaldellis’ podcast is directed to the academic public and not the public at large because of X, Y, Z).
+3. **Body of evidence and clarity of arguments to support your claim.** USE TIME STAMPS IN YOUR CITATIONS OF PODCASTS (For example, Kaldellis states at 34m32s that he perceives Byzantium as a public something, blah, blah, blah) I NEED TIME STAMPS TO SEE/HEAR your evidence!!!!
+4. **Conclusion.** IS A SUMMARY OF YOUR EVIDENCE AND WHY IT PROVES YOUR ARGUMENT. It is not a place to introduce new evidence, methods, or theories to your arguments.
+5. **Bibliography.** I am looking for **two primary sources (The podcasts) and three secondary peer-reviewed sources.** This could be an academic book, journal, or, dare I say, blog (though you need to justify why this is peer-reviewed, as most blogs are not). Consistency and syntax will be part of the assessment.
+
+Each analysis will be based on these criteria and evaluated out of 20 points per criteria listed above, for a total of 100 points, which will be adjusted to reflect each podcast assignment’s 5% value for the course.
+
+**CITATIONS:** Use what you are comfortable with; all I ask is KEEP IT CONSISTENT!! (History generally uses Chicago style).
+
+#### SUGGESTIONS:
+
+Pick the podcasts that intrigue you the most. Reflect on why I assigned it and how it may represent our themes over the weeks. **You can argue whatever you want as long as you can prove it and support your argument with evidence.** Some questions you can possibly address are:
+
+```
+1. Are Archaeology podcasts Digital History/Public History/Digital Public History or Digital/Public Archaeology? Why or why not? 
+2. Should podcasts be used as platforms to teach and engage public discourse in the performance of Archaeology?
+3. Is there such a thing as Digital Cultural Property/Heritage? 
+4. What harms come from the antiquities trade, and can Digital artifacts help reduce the illicit trade of antiquities?  
+5. How do the podcasts address decolonization? What does this look like in their respective fields?
+6. Who maintains/funds Digital Culture once it is produced? 
+```
+
+These questions are suggestions and you **do not need to use them** in your analysis. Also, a research question is not a thesis statement. These are two distinct conditions of a paper. One presents a question you will address; the other is your argument, which specifies your position and answers the question. **_Furthermore, I am not looking for a summary of a podcast. I have listened to them multiple times. Make an argument! If you provide a summary, you will not do well on this assignment._**
+
+### PLEASE, IF YOU HAVE QUESTIONS, REACH OUT AND CONTACT ME. I AM HERE TO HELP.
+
+#### Selected Podcasts To Choose From:
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3X7OkQnYvkE3Ugx648oEsf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4HGbxUILcJIbhujOLhsgnL?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4UPQa3iG5N2Z717ZkGb2zG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4563sP2hmD0y9H4YOqGPT3?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0ZvZNIGpf87T10m8kNfPxI?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0EorV0cJNOVCKOm1w3fRxG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4eqNlsXu44G54sFUS68C13?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4lqtNYaAuJv19M0fUf8ccV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1iDyMvek7PtmrfpEKaTBAl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5G1Xo2vXnYduIUPvs7QESE?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3dyjEqNUix0H6VbPEktQbv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6zedMxs1Q3OVxOCs5YPVej?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
