@@ -52,8 +52,6 @@ When something comes up and this course has to move to the backburner, contact m
 
 7)   **UPDATED** Oct. 17 & 19, 2023: Archaeology, Artifacts and Their Digital Twins
 
-**(Podcast Analysis #2 Due Oct 20th @ 11:59pm)**
-
 8)   Oct. 23-27, 2023. Fall Break - No Classes
 
 9)   Oct. 31 & November 2, 2023: Museums Gone Digital: The Digital Subaltern.
@@ -62,9 +60,11 @@ When something comes up and this course has to move to the backburner, contact m
 
 10)  Nov. 7 & 9, 2023: Outside the Museum: Alternative Digital Histories. 
 
-11)  Nov. 14 & 16, 2023: Case Study #2: Oh Graham! Arch-knowledging the Past on Digital Platforms.
+**Updated (Podcast Analysis #2 Due Oct 20th @ 11:59pm)**
 
-12)  Nov. 21 & 23, 2023: Whose Digital Heritage and Cultural Property?
+12)  Nov. 14 & 16, 2023: Case Study #2: Oh Graham! Arch-knowledging the Past on Digital Platforms.
+
+13)  Nov. 21 & 23, 2023: Whose Digital Heritage and Cultural Property?
 
 **(Podcast Analysis #3 Due Nov 17th @ 11:59pm)**
 
