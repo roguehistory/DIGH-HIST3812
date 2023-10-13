@@ -1,15 +1,15 @@
 ---
-description: Outline of Assignment
-tags:
-  - HIST3812/WeekTen
+title: "Podcast Analysis #2"
+date: 10-12-2023
+description: "News Update"
 ---
-## Podcast List
+## Podcast Analysis #2: Comparative Critical Review.
 
 As we discussed in class, the second Podcast Analysis due date is now November 10th, 11:59 PM. Furthermore, this assignment's structure is slightly different from the first Podcast analysis. First, I want you to perform a comparative analysis of two or three podcasts. Think of it as a critical review for an online magazine, news agency or academic journal. Like the articles we discussed concerning the TikTok trend of "Men Thinking about Rome," provide a critical review and discuss what you believe to be the podcast's central themes, arguments, and goals. Next, reflect on the language used, the positionality of the host and guests, and how they discuss the podcast episode's themes. Consider who the audience is and whether one podcast is more engaging for a public or academic audience. Why? Also, take into account YOUR audience, that is to say, if you were writing this critical review for an online publication, and critically evaluate the language you use to provide an engaging and succinct critical review. 
 
 **The critical review is to be a MAX 750 words**. 
 
-The basics I am looking for is simple:
+The basics I am looking for are simple:
 
 1. **A research question.** (For example, Is a Podcast a form of Digital Public history? Who are the podcast hosts’ audience? Is Byzantium and Friends an effective platform to address issues in Byzantine studies for public consumption? The sky is the limit here.).
 2. **A Thesis statement.** (In this analysis, I will demonstrate X, Y, Z; I will argue that Kaldellis’ podcast is directed to the academic public and not the public at large because of X, Y, Z).
