@@ -8,7 +8,6 @@ weight: -10
 
 ## Archaeology, Artifacts and Their Digital Twins
 
-### (Podcast Analysis #2 Due Oct 20th @ 11:59pm)
 
 <div class="sketchfab-embed-wrapper"> <iframe title="Roman Coin, Sarajevo Museum" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f7845ac315af44329ba39b67bf46b336/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/roman-coin-sarajevo-museum-f7845ac315af44329ba39b67bf46b336?utm_medium=embed&utm_campaign=share-popup&utm_content=f7845ac315af44329ba39b67bf46b336" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Roman Coin, Sarajevo Museum </a> by <a href="https://sketchfab.com/GlobalDigitalHeritage?utm_medium=embed&utm_campaign=share-popup&utm_content=f7845ac315af44329ba39b67bf46b336" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Global Digital Heritage </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=f7845ac315af44329ba39b67bf46b336" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
