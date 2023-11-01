@@ -17,7 +17,7 @@ Furthermore, as noted in class, I have given you an extension to submit your Fin
 
 After chatting with a few of you and listening to your ideas, I am granting an increase in the proposal world count to 750 words max, but *if you have already written a 500 word count proposal, hand that in. It doesn't need to be more!* The increase is meant to allow you to articulate the complexities of projects if needed; however, the increase does not mean you put filler in. **BE CONCISE**. Next, what I am looking for is outlined below and in the [4. Evaluation – HIST3812a](https://digitalbyzantine.netlify.app/docs/4-evaluation/#3-collaborative-project-proposal) section of the syllabus (which I will update). 
 
-{{< alert theme="warning" >}} Your final project proposal should include the following: Your final project proposal should include the following:
+{{< alert theme="warning" >}} **Your final project proposal should include the following:**
 
 1)  The basic topic/idea that you are interested in pursuing. In essence, this is your research question (i.e. what will this project be about); this might include a historical period or place, events or persons, or ideas represented within a digital sphere, platform, etc. 
 
