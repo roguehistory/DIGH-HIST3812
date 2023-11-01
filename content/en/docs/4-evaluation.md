@@ -42,7 +42,6 @@ Proposals will be assessed on collaborative contributions that focus on the proc
 Thus, **be supportive** of your peers if you see an individual struggling. **Help**, **encourage, and be compassionate.** We all have lives outside of the classroom, and we all are dealing with personal stuff.  Reach out if you need help. The ‘Digital’ is ever-evolving and changes daily in a blink of an eye. No one can keep on top of the newest digital craze. I know I can’t. **What is challenging for one student will not necessarily be challenging for another, and I expect you to push yourself and pull others along as you go.** For your proposals, we will discuss how to proceed in a collaborative manner in more detail during class.
 
 {{< alert theme="warning" >}} **Your final project proposal should include the following:**
-Your final project proposal should include the following:
 
 1) The basic topic/idea that you are interested in pursuing. In essence, this is your research question (i.e. what will this project be about); this might include a historical period or place, events or persons, or ideas represented within a digital sphere, platform, etc.
 
