@@ -52,7 +52,8 @@ Your final project proposal should include the following:
 
 4) A basic roadmap that outlines how you are going to pursue your research and build this project. Tell me how you plan to approach the topic and the responsibilities of each member of your group. I would STRONGLY suggest using Canvas and Process Notes in your Obsidian vault to organize your thoughts. You can then synthesize and write this in your proposal with a screenshot of your work-in-progress from your Obsidian vault (i.e. Canvas or Process Notes) and add it as an appendix to your proposal.
 
-5) An early annotated bibliography that includes 4-6 potential sources you are thinking of using in your research.
+5) An early annotated bibliography that includes 4-6 potential sources you are thinking of using in your research.{{< /alert >}}
+
 
 
 Topic Ideas:
@@ -78,7 +79,6 @@ Topic Ideas:
 - 3D representations of the past and the subaltern.
 
 Again, the sky is the limit here. Be as creative as you want to be. Public History is storytelling. We create narratives that reflect the past as accurately as possible to the public.
-{{< /alert >}}
 
 ### 4) Case Studies: 
 **Value: 30% (2 x 15%)**
