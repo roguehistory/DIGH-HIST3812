@@ -55,8 +55,7 @@ Your final project proposal should include the following:
 5) An early annotated bibliography that includes 4-6 potential sources you are thinking of using in your research.{{< /alert >}}
 
 
-
-Topic Ideas:
+### Topic Ideas:
 
 - How does YouTube represent Byzantine History vs Roman History?
 
