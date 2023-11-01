@@ -23,7 +23,7 @@ weight: 1
   
 3) Case Study #1 Week of Oct 10th and 12th.
   
-4) Collaborative Project Proposal Due in class, Nov 2nd
+4) **Updated** Collaborative Project Proposal Due in class, Nov 10th @ 11:59pm
 
 5) **Updated New Date** Podcast Analysis #2 Due Nov 10th @ 11:59pm
   
