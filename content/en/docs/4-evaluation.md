@@ -34,24 +34,51 @@ Students will be assigned three Podcast analyses to critically assess a podcast'
 
 In Thursday’s classes, students will participate in a brief 30-minute class discussion to facilitate critical analysis for their written podcast analysis. In our 'Podcast Wrap-up,' we will discuss the podcast's themes, target audiences and whether podcasts are a valuable medium to present academic work to the public. _**Podcasts are considered part of the reading requirements for the course, and students are expected to come prepared to discuss the assigned podcasts in class.**_ You can refer to discussions from Thursday’s class in your analysis. You must provide a thesis statement and evidence to support your claims for each podcast analysis. 
 
-### 3) Collaborative Project Proposal: 
-**Value: 10% (500-word max).**
+### 3) Collaborative Project Proposal: **UPDATED**
+**Value: 10% (750-word max).**
 
-Proposals will be assessed on collaborative contributions that focus on the process of developing a detailed plan for group execution of your project; with a singular group proposal being submitted in class on November 2nd. The writing of the proposal, along with any additional documents, media, etc., should be a shared effort. You may, for example, want to use Google Docs to create a shared document that you and your group can collaborate and contribute to. As with many co-authored history articles and archaeological projects, cooperation and compromise are key for a successful project. History is not written or digitized by one person. Not one person digs an entire archaeological site and then writes the report. It’s a team effort, and not all teams have equal strengths. But together, we can build a more inclusive digital history.
+Proposals will be assessed on collaborative contributions that focus on the process of developing a detailed plan for group execution of your project; with a singular group proposal being submitted in class on November 10th. The writing of the proposal, along with any additional documents, media, etc., should be a shared effort. You may, for example, want to use Google Docs to create a shared document that you and your group can collaborate and contribute to. As with many co-authored history articles and archaeological projects, cooperation and compromise are key for a successful project. History is not written or digitized by one person. Not one person digs an entire archaeological site and then writes the report. It’s a team effort, and not all teams have equal strengths. But together, we can build a more inclusive digital history.
 
 Thus, **be supportive** of your peers if you see an individual struggling. **Help**, **encourage, and be compassionate.** We all have lives outside of the classroom, and we all are dealing with personal stuff.  Reach out if you need help. The ‘Digital’ is ever-evolving and changes daily in a blink of an eye. No one can keep on top of the newest digital craze. I know I can’t. **What is challenging for one student will not necessarily be challenging for another, and I expect you to push yourself and pull others along as you go.** For your proposals, we will discuss how to proceed in a collaborative manner in more detail during class.
 
 {{< alert theme="warning" >}} **Your final project proposal should include the following:**
+Your final project proposal should include the following:
 
-1) The basic topic/idea that you are interested in pursuing (i.e. what will this project be about); this might include a historical period or place, events or persons, or ideas etc.).
+1)     The basic topic/idea that you are interested in pursuing. In essence, this is your research question (i.e. what will this project be about); this might include a historical period or place, events or persons, or ideas represented within a digital sphere, platform, etc.
 
-2) The medium you will use to build your project (is it a game? A podcast? A virtual story? A blog?).
+2)     The digital medium you will use to build your public-facing project. Is it a podcast (Spotify), a virtual story (Twine), or a blog/digital exhibition (Mural)? What digital tool(s) will be used to answer your research question and present it to the class?
 
-3) Any specific software or tools you know you will use and how you intend to acquire them.
+3)     Any specific software or tools you will deploy in your research and how you intend to acquire them. Will there be other digital tools used in your project and research that are not public-facing but critical to your research? Will you use code (NodeJS, R, or Python) and store this in a GitHub repository to scrap data from websites? GIS for analyzing archaeological data? 3D Software, such as Blender or Polycam, to create models to use in an online exhibition?
 
-4) A basic roadmap that outlines how you are going to pursue your research and build this project.
+4)     A basic roadmap that outlines how you are going to pursue your research and build this project. Tell me how you plan to approach the topic and the responsibilities of each member of your group. I would STRONGLY suggest using Canvas and Process Notes in your Obsidian vault to organize your thoughts. You can then synthesize and write this in your proposal with a screenshot of your work-in-progress from your Obsidian vault (i.e. Canvas or Process Notes) and add it as an appendix to your proposal.
 
-5) An early bibliography that includes 4-6 potential sources you are thinking of using in your research.{{< /alert >}}
+5)     An early annotated bibliography that includes 4-6 potential sources you are thinking of using in your research.
+
+
+Topic Ideas:
+
+- How does YouTube represent Byzantine History vs Roman History?
+
+- Does the video game Call of Duty WWII provide gamers with historical accuracy and experience during the game's opening and D-Day landings?
+
+- Is Reddit a viable digital platform to discuss and represent history?
+
+- The subaltern and Museum websites: Who is and is not represented in the digital?
+
+- AI and History: Implications of the Corporate hegemonies on AI algorithms and the depiction of History.
+
+- Storing Digital Data: Issues in the Maintenance of digital historical projects.
+
+- X, formally known as Twitter, and depictions of History. What you see and how algorithms influence Historical Tweets.
+
+- Digital reconstruction and colouring of WW I images and their display on digital platforms.
+
+- Digital Cultural Heritage: Who owns what?
+
+- 3D representations of the past and the subaltern.
+
+Again, the sky is the limit here. Be as creative as you want to be. Public History is storytelling. We create narratives that reflect the past as accurately as possible to the public.
+{{< /alert >}}
 
 ### 4) Case Studies: 
 **Value: 30% (2 x 15%)**
