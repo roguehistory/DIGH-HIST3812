@@ -1,9 +1,6 @@
 ---
 title: "6.Nov 1st Update"
 description: "Proposal/Final Project Update."
-date: 2023-11-01T00:39:09+09:00
-draft: false
-weight: 2
 ---
 
 
