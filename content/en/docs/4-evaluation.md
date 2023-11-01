@@ -44,15 +44,15 @@ Thus, **be supportive** of your peers if you see an individual struggling. **Hel
 {{< alert theme="warning" >}} **Your final project proposal should include the following:**
 Your final project proposal should include the following:
 
-1)     The basic topic/idea that you are interested in pursuing. In essence, this is your research question (i.e. what will this project be about); this might include a historical period or place, events or persons, or ideas represented within a digital sphere, platform, etc.
+1) The basic topic/idea that you are interested in pursuing. In essence, this is your research question (i.e. what will this project be about); this might include a historical period or place, events or persons, or ideas represented within a digital sphere, platform, etc.
 
-2)     The digital medium you will use to build your public-facing project. Is it a podcast (Spotify), a virtual story (Twine), or a blog/digital exhibition (Mural)? What digital tool(s) will be used to answer your research question and present it to the class?
+2) The digital medium you will use to build your public-facing project. Is it a podcast (Spotify), a virtual story (Twine), or a blog/digital exhibition (Mural)? What digital tool(s) will be used to answer your research question and present it to the class?
 
-3)     Any specific software or tools you will deploy in your research and how you intend to acquire them. Will there be other digital tools used in your project and research that are not public-facing but critical to your research? Will you use code (NodeJS, R, or Python) and store this in a GitHub repository to scrap data from websites? GIS for analyzing archaeological data? 3D Software, such as Blender or Polycam, to create models to use in an online exhibition?
+3) Any specific software or tools you will deploy in your research and how you intend to acquire them. Will there be other digital tools used in your project and research that are not public-facing but critical to your research? Will you use code (NodeJS, R, or Python) and store this in a GitHub repository to scrap data from websites? GIS for analyzing archaeological data? 3D Software, such as Blender or Polycam, to create models to use in an online exhibition?
 
-4)     A basic roadmap that outlines how you are going to pursue your research and build this project. Tell me how you plan to approach the topic and the responsibilities of each member of your group. I would STRONGLY suggest using Canvas and Process Notes in your Obsidian vault to organize your thoughts. You can then synthesize and write this in your proposal with a screenshot of your work-in-progress from your Obsidian vault (i.e. Canvas or Process Notes) and add it as an appendix to your proposal.
+4) A basic roadmap that outlines how you are going to pursue your research and build this project. Tell me how you plan to approach the topic and the responsibilities of each member of your group. I would STRONGLY suggest using Canvas and Process Notes in your Obsidian vault to organize your thoughts. You can then synthesize and write this in your proposal with a screenshot of your work-in-progress from your Obsidian vault (i.e. Canvas or Process Notes) and add it as an appendix to your proposal.
 
-5)     An early annotated bibliography that includes 4-6 potential sources you are thinking of using in your research.
+5) An early annotated bibliography that includes 4-6 potential sources you are thinking of using in your research.
 
 
 Topic Ideas:
