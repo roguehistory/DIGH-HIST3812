@@ -11,7 +11,7 @@ First, welcome back to class and I hope everyone had a relaxing reading and enjo
 
 ## Proposals and Final Projects.
 
-Proposals will be assessed on collaborative contributions that focus on the process of developing a detailed plan for group execution of your project; with a singular group proposal being submitted via Brightspace on November 10th. Select one individual from your group to submit the document via Brightspace and email me at scottcoleman@cmail.carleton.ca to inform me who will upload the document. The rubric for grading the document will be created and uploaded via Brightspace by November 2nd. 
+Proposals will be assessed on collaborative contributions that focus on the process of developing a detailed plan for group execution of your project; with a singular group proposal being submitted via Brightspace on November 10th. Select one individual from your group to submit the document via Brightspace and email me at scottcoleman@cmail.carleton.ca to inform me who will upload the document. The rubric for grading is available via Brightspace under Assignments and Final Project Proposal. 
 
 The writing of the proposal, along with any additional documents, media, etc., should be a shared effort. You may, for example, want to use Google Docs to create a shared document that you and your group can collaborate and contribute to. As with many co-authored history articles and archaeological projects, cooperation and compromise are key for a successful project. History is not written or digitized by one person. Not one person digs an entire archaeological site and then writes the report. It’s a team effort, and not all teams have equal strengths. But together, we can build a more inclusive digital history.
 
