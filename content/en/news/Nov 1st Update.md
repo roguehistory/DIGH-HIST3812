@@ -11,21 +11,23 @@ First, welcome back to class and I hope everyone had a relaxing and enjoyable re
 
 ## Proposals and Final Projects.
 
-Proposals will be assessed on collaborative contributions that focus on the process of developing a detailed plan for group execution of your project; with a singular group proposal being submitted via Brightspace on November 10th. Select one individual from your group to submit the document via Brightspace and email me at scottcoleman@cmail.carleton.ca to inform me who will upload the document. The rubric for grading is available via Brightspace under Assignments and Final Project Proposal. 
+Proposals will be assessed on collaborative contributions that focus on the process of developing a detailed plan for group execution of your project; with a singular group proposal being submitted via Brightspace by November 10th. Select one individual from your group to submit the document via Brightspace and email me at scottcoleman@cmail.carleton.ca to inform me who will upload the document. The rubric for grading is available via Brightspace under Assignments and Final Project Proposal. 
 
-The writing of the proposal, along with any additional documents, media, etc., should be a shared effort. You may, for example, want to use Google Docs to create a shared document that you and your group can collaborate and contribute to. As with many co-authored history articles and archaeological projects, cooperation and compromise are key for a successful project. History is not written or digitized by one person. Not one person digs an entire archaeological site and then writes the report. It’s a team effort, and not all teams have equal strengths. But together, we can build a more inclusive digital history.
+The writing of the proposal, along with any additional documents, media, etc., should be a shared effort. You may, for example, want to use Google Docs to create a shared document that you and your group can collaborate and contribute to. As with many co-authored history articles and archaeological projects, cooperation and compromise are key for a successful project. History is not written or digitized by one person. Not one person digs an entire archaeological site and then writes the report. It’s a team effort. 
 
-The proposal is a preliminary blueprint for your final project, which is malleable and can change (and I expect it to) over time as you perform more research. Nothing is ever set in stone when you begin to explore a research topic. **Do not stress about finding the perfect research topic, question or digital platform to use**. Collaboration with your peers and process is what I am looking for and this assumes adaptation as you encounter new data during your group research. *You must use one digital public-facing platform to present and discuss your research to the class.* We are a digital history course; therefore, remember to consider what it means to perform digital work—the ethical issues of using proprietary vs open-source resources, the biases involved when performing digital work, and possible implications for reuse and representation when digital work is presented publicly. You can explore any topic you wish in any time period. It does not have to be Byzantine-related but should demonstrate a working knowledge of the digital themes explored throughout the course.  Remember, your final presentation and project must be Public-facing. That means your audience is the general public (inclusive of academics), and you need to think about how the public consumes information and what engages the public while being as academically rigorous as possible. 
+The proposal is a preliminary blueprint for your final project, which is malleable and can change (and I expect it to) over time as you perform more research. Nothing is ever set in stone when you begin to explore a research topic. **Do not stress about finding the perfect research topic, question or digital platform to use**. Collaboration with your peers and process is what I am looking for and this assumes adaptation as you encounter new data during your group research. **You must use one digital public-facing platform to present and discuss your research to the class.** We are a digital history course; therefore, remember to consider what it means to perform digital work—the ethical issues of using proprietary vs open-source resources, the biases involved when performing digital work, and possible implications for reuse and representation when digital work is presented publicly. 
 
-Furthermore, as noted in class, I have given you an extension to submit your Final Project Proposal. The new due date is **Nov 10th, 2023, 11:59 p.m.**, after which I will apply applicable late penalties according to the syllabus. See [4. Evaluation Late Penalties – HIST3812a](https://digitalbyzantine.netlify.app/docs/4-evaluation/#late-penalties-and-when-life-intervenes). You can submit your proposals earlier (and I recommend you do, as this gives you more time to address any concerns or issues I may identify), via the Brightspace portal—a few changes and updates about the proposal and the final project.
+You can explore any topic you wish in any time period. It does not have to be Byzantine-related but should demonstrate a working knowledge of the digital themes explored throughout the course.  Remember, your final presentation and project must be Public-facing. That means your audience is the general public (inclusive of academics), and you need to think about how the public consumes information and what engages the public while being as academically rigorous as possible. 
+
+Furthermore, as noted in class, I have given you an extension to submit your Final Project Proposal. The new due date is **Nov 10th, 2023, 11:59 p.m.**, after which I will apply applicable late penalties according to the syllabus. See [4. Evaluation Late Penalties – HIST3812a](https://digitalbyzantine.netlify.app/docs/4-evaluation/#late-penalties-and-when-life-intervenes). You can submit your proposals earlier (and I recommend you do, as this gives you more time to address any concerns or issues I may identify), via the Brightspace portal. I have made a few changes and updates about the proposal and the final project.
 
 After chatting with a few of you and listening to your ideas, I am granting an increase in the proposal world count to 750 words max, but *if you have already written a 500 word count proposal, hand that in. It doesn't need to be more!* The increase is meant to allow you to articulate the complexities of projects if needed; however, the increase does not mean you put filler in. **BE CONCISE**. Next, what I am looking for is outlined below and in the [4. Evaluation – HIST3812a](https://digitalbyzantine.netlify.app/docs/4-evaluation/#3-collaborative-project-proposal) section of the syllabus (which I will update). 
 
 {{< alert theme="warning" >}} **Your final project proposal should include the following:**
 
-1)  The basic topic/idea that you are interested in pursuing. In essence, this is your research question (i.e. what will this project be about); this might include a historical period or place, events or persons, or ideas represented within a digital sphere, platform, etc. 
+1)  The basic topic/idea that you are interested in pursuing. In essence, this is your research question (i.e. what will this project be about); this might include a historical period or place, events or person(s), or ideas represented within a digital sphere, platform, etc. 
 
-2)  The digital medium you will use to build your public-facing project. Is it a podcast (*Spotify*), a virtual story (*Twine*), or a blog/digital exhibition (*Mural*)? *What digital tool(s) will be used to answer your research question and present it to the class?*
+2)  The digital medium you will use to build your public-facing project. This may be a podcast (*Spotify*), a virtual story (*Twine*), or a blog/digital exhibition (*Mural*). *What digital tool(s) will be used to answer your research question and present it to the class?*
 
 3)  Any specific software or tools you will deploy in your research and how you intend to acquire them. Will there be other digital tools used in your project and research that are not public-facing but critical to your research? *Will you use code (NodeJS, R, or Python) and store this in a GitHub repository to scrap data from websites? GIS for analyzing archaeological data? 3D Software, such as Blender or Polycam, to create models to use in an online exhibition?*
 
@@ -36,11 +38,11 @@ After chatting with a few of you and listening to your ideas, I am granting an i
 ### Topic Ideas:
 1) How does YouTube represent Byzantine History vs Roman History? 
 
-2) Does the video game Call of Duty WWII provide gamers with historical accuracy and experience during the game's opening and D-Day landings? 
+2) Does the video game Call of Duty WWII provide gamers with historical accuracy and experience during the game's opening -the D-Day landings? 
 
-3) Is Reddit a viable digital platform to discuss and represent history? 
+3) Is Reddit a viable digital platform to discuss and represent history for public consumption? 
 
-4) The subaltern and Museum websites: Who is and is not represented in the digital?  
+4) The subaltern and Museum websites: Who is and is not represented in the digital sphere?  
 
 5) AI and History: Implications of the Corporate hegemonies on AI algorithms and the depiction of History. 
 
@@ -48,11 +50,11 @@ After chatting with a few of you and listening to your ideas, I am granting an i
 
 7) X, formally known as Twitter, and depictions of History. What you see and how algorithms influence Historical Tweets.  
 
-8) Digital reconstruction and colouring of WW I images and their display on digital platforms.
+8) Digital reconstruction and colouring of WWI images and their display on digital platforms.
 
 9) Digital Cultural Heritage: Who owns what? 
 
-10) 3D representations of the past and the subaltern. 
+10) 3D representations of the past and the subaltern. What data is and is not included in a 3D model?
 
 **Again, the sky is the limit here. Be as creative as you want to be. Public History is storytelling. We create narratives that reflect the past as accurately as possible to the public.** 
 
