@@ -7,7 +7,7 @@ Date: 01-01-2023
 
 ## Welcome Back.
 
-First, welcome back to class and I hope everyone had a relaxing and enjoyable reading week. I also want to thank everyone for your patience and understanding over the past month since the birth of my child. It has been chaotic for us, and in no doubt, has trickled down to adequately performing my duties and responsibilities to you. That being said, we are starting to see some form of normality and routine in our life, thus allowing me to get back on track with this class.  This update will be packed with info, so please read through it carefully and if you have any questions, please email me or see me after class during office hours. 
+First, welcome back to class and I hope everyone had a relaxing and enjoyable reading week. I also want to thank everyone for your patience and understanding over the past month since the birth of my child. It has been chaotic for us, and this has, no doubt, trickled down and affected my duties and responsibilities to you. That being said, we are starting to see some form of normality and routine in our life, thus allowing me to get back on track with this class.  This update will be packed with info, so please read through it carefully and if you have any questions, please email me or see me after class during office hours. 
 
 ## Proposals and Final Projects.
 
