@@ -16,6 +16,8 @@ description: "Proposal Template"
 
 **Reconsidering Medieval Coins in Canadian Museums: 
 Byzantine Numismatics, Identity and Public Consumption of the Past**
+Jane Doe, Joe Doe, Bo Doe, Moe Doe.
+November 10, 2023
 
 #### Context:
 *Provide a general background for your research and why you chose this topic. Identify gaps in knowledge or issues in current historical discourse*
