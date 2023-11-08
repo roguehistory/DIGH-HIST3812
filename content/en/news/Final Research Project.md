@@ -1,4 +1,10 @@
+---
+title: "7.Final Research Project"
+date: 11-07-2023
+description: "Final Project Outline"
+---
 
+## Final Group Project Expectations and Guideline
 
 Below is an outline of my expectations for your final research project. 
 
