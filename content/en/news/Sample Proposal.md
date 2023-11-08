@@ -1,0 +1,2 @@
+Below is a sample research proposal. This is meant to provide you with a general template and approach to writing your research proposals. **I DO NOT EXPECT YOUR PROPOSALS TO BE THIS SPECIFIC** 
+![[SampleProposal.pdf]]
