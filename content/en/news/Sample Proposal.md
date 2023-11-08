@@ -4,7 +4,10 @@ date: 10-12-2023
 description: "Proposal Template"
 ---
 
-Below is a sample research proposal. This is meant to provide you with a general template and approach to writing your research proposals. **I DO NOT EXPECT YOUR PROPOSALS TO BE THIS SPECIFIC** 
+## SAMPLE RESEARCH PROPOSAL
+
+**Below is a sample research proposal. This is meant to provide you with a general template and approach to writing your research proposals. I DO NOT EXPECT YOU TO BE THIS SPECIFIC!!!!** 
+
 
 {{< alert theme="info" >}}
 Reconsidering Medieval Coins in Canadian Museums: 
