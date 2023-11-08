@@ -15,9 +15,8 @@ description: "Proposal Template"
 6) Methodology: *How do you intend to achieve your objectives and prove your hypothesis? Outline your methods, theoretical models and any digital tools you intend to use during your research and digital public-facing production.*
 7) Bibliography: 4-6 sources to start.
 
-## Sample Proposal
 
-{{< alert theme="info" >}}
+{{< notice success= "Sample Proposal" >}}
 
 **Reconsidering Medieval Coins in Canadian Museums: 
 Byzantine Numismatics, Identity and Public Consumption of the Past**
@@ -35,5 +34,5 @@ November 10, 2023
 **Methodology:** My multidisciplinary approach draws on methods used in Archaeology, Classics, Digital Humanities, History, Museum Studies, and Numismatics. **Phase 1:** I will perform a general historiographical survey of each discipline’s methods and their treatment of Byzantine coins. This includes a comparative study of how Byzantinists have constructed and represented Byzantine identity, how coins were recovered or collected by scholars and institutions, how these methods have evolved, how data is recorded, what platforms are currently used, and how this data is synthesized and published. I will also survey the transmission of knowledge from academia to both public and private institutions in Canada, the United States and Greece. This includes the Royal Ontario Museum, Dumbarton Oaks in Washington, D.C. and the Stoa of Attalos Museum in Athens, Greece. **Phase 2:** I will perform a case study of the Royal Ontario Museum’s Byzantine coin collection to aid in the development of my theoretical framework and methodology. The case study will identify gaps in discourse between local institutions and provide an experiential learning environment for myself. This research will also identify where nationalist narratives exist in representing Byzantine identity and how this affects the presentation of Byzantium in Canadian Museums. **Phase 3:** I will take the data collected in phases one and two and apply this information to my analysis, documentation and publication of the Byzantine coins held at the Nickle Galleries. I will use theoretical frameworks developed in Museum Studies (Powers, 2015) and the Digital Humanities (Heath, 2018), such as Linked Open Data and 3D modelling, to develop a new approach to the presentation of Byzantine coins and identity in museums. The case studies from the Royal Ontario Museum and Stoa of Attalos will form the basis for how past exhibitions of Byzantine coins were executed and provide the framework for a more pluralist and inclusive museum environment that promotes experiential learning for the general public. These outcomes will help dismantle orientalist narratives that plague Byzantine studies.
 
 **Bibliography** 
-{{< /alert >}}
+{{< /notice >}}
 
