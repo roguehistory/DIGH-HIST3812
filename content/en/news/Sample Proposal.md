@@ -16,7 +16,7 @@ description: "Proposal Template"
 7) Bibliography: 4-6 sources to start.
 
 
-{{< notice success= "Sample Proposal" >}}
+{{< notice success "Sample Proposal" >}}
 
 **Reconsidering Medieval Coins in Canadian Museums: 
 Byzantine Numismatics, Identity and Public Consumption of the Past**
