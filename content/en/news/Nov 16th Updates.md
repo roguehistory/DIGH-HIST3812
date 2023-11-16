@@ -17,4 +17,6 @@ Finally, presentations will be on December 5th and December 7th. Four groups wil
 
 Have a great weekend!
 
+PS: The Giza Pyramids were built by...
+
 ![Aliens](MEMES/Aliens.png)
