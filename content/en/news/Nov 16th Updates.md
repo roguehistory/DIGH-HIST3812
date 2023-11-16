@@ -1,3 +1,9 @@
+---
+title: "9. November 16th Update"
+date: 11-16-2023
+description: "General Update"
+---
+
 Hello, Class. 
 
 Here are a few notes from today. As I said at the beginning of class, your third podcast analysis is now due **December 14th at 11:59 pm**, with no exceptions. I decided to change the date, again, to give you the time and the opportunity to focus on your group projects without any other in-class distractions (and for me to get my butt in gear and write the instructions for the assignment). I will have the instructions posted by next class.
