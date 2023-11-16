@@ -17,4 +17,4 @@ Finally, presentations will be on December 5th and December 7th. Four groups wil
 
 Have a great weekend!
 
-![[Aliens.jpg]]
+![Aliens](MEMES/Aliens.png)
