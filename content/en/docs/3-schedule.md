@@ -60,14 +60,12 @@ When something comes up and this course has to move to the backburner, contact m
 
 10)  Nov. 7 & 9, 2023: Outside the Museum: Alternative Digital Histories. 
 
-**Updated (Podcast Analysis #2 Due Oct 20th @ 11:59pm)**
+**Updated (Podcast Analysis #2 Due Nov 2nd @ 11:59pm)**
 
 12)  Nov. 14 & 16, 2023: Case Study #2: Oh Graham! Arch-knowledging the Past on Digital Platforms.
 
-13)  Nov. 21 & 23, 2023: Whose Digital Heritage and Cultural Property?
+13)  Nov. 21 & 23, 2023: Group Projects: In-class Workshop (theme TBD)
 
-**(Podcast Analysis #3 Due Nov 17th @ 11:59pm)**
+14)  Nov. 28 & 30, 2023: Group Projects: In-class Workshop (theme TBD)
 
-13)  Nov. 28 & 30, 2023: Visualizing and Capturing Digital Enchantment and Engagement.
-
-14)  December 5 & 7, 2023: Presentations.
+15)  December 5 & 7, 2023: Presentations. **(Podcast Analysis #3 Due Dec 14th @ 11:59pm)**
