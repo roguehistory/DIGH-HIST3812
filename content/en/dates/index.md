@@ -29,6 +29,6 @@ weight: 1
   
 6) Case Study #2 Week of Nov 14th and 16th
   
-7) Podcast Analysis #3 Due Nov 17th @ 11:59pm
+7) **Updated** Podcast Analysis #3 Due Dec 14th @ 11:59pm
   
-8) Group Presentations Nov 30th, Dec 5th, & 7th
+8) Group Presentations Dec 5th, & 7th
