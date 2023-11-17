@@ -106,8 +106,8 @@ Work that is submitted late will receive a 2% penalty per day up to 7 days, in w
 + **Podcast Analysis #2 Due Oct 20th @ 11:59pm**
 + **Collaborative Project Proposal Due in class, Nov 2nd**
 + **Case Study #2 Week of Nov 14th and 16th**
-+ **Podcast Analysis #3 Due Nov 17th @ 11:59pm**
-+ **Group Presentations Nove 30th, Dec 5th, & 7th**
++ **Podcast Analysis #3 Due Dec 14th @ 11:59pm**
++ **Group Presentations Dec 5th, & 7th**
 
 ---
 {{< notice success "Important" >}}
