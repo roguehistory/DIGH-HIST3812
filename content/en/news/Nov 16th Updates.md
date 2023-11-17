@@ -13,7 +13,7 @@ Secondly, for your case studies, remember to focus on how those who support or r
 Below is a link to the qualitative analysis using Obsidian I was speaking about in class. 
 [An Integrated Qualitative Analysis Environment with Obsidian](https://fulcra.design/Posts/An-Integrated-Qualitative-Analysis-Environment-with-Obsidian/#preparing-the-data)
 
-Finally, presentations will be on December 5th and December 7th. Four groups will present on December 5th, and three on December 7th. This will give us some time to conclude the term on December 7th with a discussion about the overall themes of the course. On Tuesdays class, your group will choose a day to present. 
+Lastly, final group presentations will be on December 5th and December 7th. Four groups will present on December 5th, and three on December 7th. This will give us some time to conclude the term on December 7th with a discussion about the overall themes of the course. On Tuesdays class, your group will choose a day to present. 
 
 Have a great weekend!
 
