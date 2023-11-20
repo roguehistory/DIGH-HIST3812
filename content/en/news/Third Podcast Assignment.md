@@ -6,7 +6,7 @@ draft: false
 weight: -5
 ---
 
-# Hardcore History
+## Hardcore History
 
 <table >
 	<tbody>
