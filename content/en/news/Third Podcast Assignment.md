@@ -8,7 +8,7 @@ description: "Assignment Guidelines"
 
 <tbody>
 		<tr>
-			<td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flikewise.com%2Fpodcasts%2F173001861&psig=AOvVaw1I8WEoXe8Ox01Y4Nkn1V87&ust=1700577662157000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi9v83n0oIDFQAAAAAdAAAAABAJ"> </td>
+			<td><img src="https://www.dancarlin.com/product/hardcore-history-50-55-blueprint-for-armageddon-series/"> </td>
 		</tr>
 	</tbody>
 </table>
