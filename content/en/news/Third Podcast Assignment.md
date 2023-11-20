@@ -10,7 +10,7 @@ draft: false
 <table >
 	<tbody>
 		<tr>
-			<td><img src="https://www.dancarlin.com/wp-content/uploads/2020/06/HardcoreHistory-BFA-Series-Dan-Carlin-239x239.jpg"> </td>
+			<td><img src="https://www.dancarlin.com/wp-content/uploads/2014/03/dc-homepage-cover-img.jpg"> </td>
 		</tr>
 	</tbody>
 </table>
