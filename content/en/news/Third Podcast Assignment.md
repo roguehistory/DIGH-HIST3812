@@ -1,8 +1,6 @@
 ---
 title: "10. Third Podcast Assignment"
 date: 11-20-2023
-description: "Assignment Guidelines"
-weight: 9
 ---
 
 # Hardcore History
