@@ -8,7 +8,7 @@ weight: -10
 
 # Group Research
 
-![RomanWinter](static/RomanWinter.jpg)
+![RomanWinter](RomanWinter.jpg)
 
 ## Goals for Week 12
 
