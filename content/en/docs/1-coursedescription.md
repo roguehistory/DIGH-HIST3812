@@ -10,7 +10,7 @@ weight: 1
 <table >
 	<tbody>
 		<tr>
-			<td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flikewise.com%2Fpodcasts%2F173001861&psig=AOvVaw1I8WEoXe8Ox01Y4Nkn1V87&ust=1700577662157000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi9v83n0oIDFQAAAAAdAAAAABAJ"> </td>
+			<td><img src="https://images.squarespace-cdn.com/content/v1/5f3571ef9fa2aa0139d700c8/1606964790651-5D90Y5MIM8ZKYUI67ILB/06875263-414E-4AAC-81EB-981B2AA84631.jpeg?format=2500w"> </td>
 		</tr>
 	</tbody>
 </table>
