@@ -32,6 +32,3 @@ Matthews, Christopher. _Fresh Air_. _Time (Chicago, Ill.)_. Vol. 182. New York: 
 [How is Dan Carlin's Hardcore History regarded in the historian community?](https://www.reddit.com/r/dancarlin/comments/9put9n/how_is_dan_carlins_hardcore_history_regarded_in/) {{</notice}}
 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.huffpost.com%2Fentry%2Fdan-carlin-hardcore-history_n_5643b5b5e4b08cda34875511&psig=AOvVaw1I8WEoXe8Ox01Y4Nkn1V87&ust=1700577662157000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi9v83n0oIDFQAAAAAdAAAAABAE
-
-
