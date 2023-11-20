@@ -7,6 +7,9 @@ weight: -10
 ---
 
 # Group Research
+
+![RomanWinter](static/RomanWinter.jpg)
+
 ## Goals for Week 12
 
 1. Gather evidence and data needed for your final projects
