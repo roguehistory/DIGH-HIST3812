@@ -3,7 +3,6 @@ title: "Third Podcast Analysis"
 date: 11-20-2023
 description: "Assignment Update"
 draft: false
-weight: 3
 ---
 
 ## Hardcore History
