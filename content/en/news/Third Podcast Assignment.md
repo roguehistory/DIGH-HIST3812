@@ -6,7 +6,8 @@ description: "Assignment Guidelines"
 
 # Hardcore History
 
-<tbody>
+<table >
+	<tbody>
 		<tr>
 			<td><img src="https://www.dancarlin.com/product/hardcore-history-50-55-blueprint-for-armageddon-series/"> </td>
 		</tr>
