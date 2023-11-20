@@ -9,11 +9,10 @@ description: "Assignment Guidelines"
 <table >
 	<tbody>
 		<tr>
-			<td><img src="https://www.dancarlin.com/product/hardcore-history-50-55-blueprint-for-armageddon-series/"> </td>
+			<td><img src="https://www.dancarlin.com/wp-content/uploads/2014/03/dc-homepage-cover-img.jpg"> </td>
 		</tr>
 	</tbody>
 </table>
-
 
 Dan Carlin's *Hardcore History* is a popular long-form history podcast that presents a particular historical period over multiple hours and episodes. As a "non-professional" amateur Historian whose background is in journalism, Carlin's attention to detail and unique approach to historical inquiry and narratives has made the podcast popular among Historical enthusiasts and amateurs. Indeed, Carlin's *Blueprint for Armageddon* drew me into the realm of Podcasting. He is provocative, engaging, and thorough, with many calling his podcasts mini-historical audiobooks, demonstrating that history can be publicly accessible and performed by untraditional means. However, many consider his podcasts as "Popular History" and that the histories Carlin narrates cannot be equated to or considered as rigorous scholarship. Nevertheless, many have praised Carlin's approach and making *Histories* accessible to a larger audience. 
 
