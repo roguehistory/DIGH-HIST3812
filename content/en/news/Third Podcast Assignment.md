@@ -1,9 +1,10 @@
 ---
 title: "10. Third Podcast Assignment"
 date: 11-20-2023
+description: "assignment update"
 ---
 
-# Hardcore History
+## Hardcore History
 
 <table >
 	<tbody>
