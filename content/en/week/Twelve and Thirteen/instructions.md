@@ -10,18 +10,20 @@ weight: -10
 
 ![RomanWinter](RomanWinter.jpg)
 
-## Goals for Week 12
+### Goals for Week 12
 
 1. Gather evidence and data needed for your final projects
 2. Have a rough draft of a public-facing deliverable.
+3. Begin making connections using the Obsidian Vault
 
-## Goals for Week 13
+### Goals for Week 13
 
 1. Begin preparing a draft for your class presentation.
-2. Complete public-facing deliverable
+2. Be sure to document your processes as Process Notes! 
+3. Complete public-facing deliverable
 
 
-## To Do
+### To Do
 
 For weeks twelve and thirteen, we will work together on your group projects in class. These classes will begin with a 30-minute discussion on a topic of my choosing (I will review some digital tools suggested in your group proposals. See below for a tentative list with links to examples), with the final hour of class dedicated to collaborating with your group. Use the class time wisely, as we all have busy schedules, and class time is a time which we all can commit to. Thus, come prepared to work together, bring any research you have, and ask me questions. I will float around the classroom, collaborating with you.
 
