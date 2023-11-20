@@ -29,6 +29,6 @@ Matthews, Christopher. _Fresh Air_. _Time (Chicago, Ill.)_. Vol. 182. New York: 
 
 [What do history professors think of Dan Carlin's Hardcore History podcast? - Quora](https://www.quora.com/What-do-history-professors-think-of-Dan-Carlins-Hardcore-History-podcast)
 
-[How is Dan Carlin's Hardcore History regarded in the historian community?](https://www.reddit.com/r/dancarlin/comments/9put9n/how_is_dan_carlins_hardcore_history_regarded_in/) {{</notice}}
+[How is Dan Carlin's Hardcore History regarded in the historian community?](https://www.reddit.com/r/dancarlin/comments/9put9n/how_is_dan_carlins_hardcore_history_regarded_in/){{< /notice >}}
 
 
