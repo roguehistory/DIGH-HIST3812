@@ -83,3 +83,12 @@ Application for Graduation Deadlines
 + Spring Graduation (June): April 1
 + Fall Graduation (November): September 1
 + Winter Graduation (February): December 1
+
+### COVID Override
+
+Historically, pandemics just don't *go away*. They flare up. There might be outbreaks. Your personal circumstances might be affected. I hope that by the time we actually are together in this course, Covid-19 will be a bad memory, but I expect it'll still be around. Your health (both physical and **mental**) is more important than a class. In the event of some sort of Covid disruption, we can - and _will_ - figure something else out: everything in the syllabus/plan can be altered as necessary. 
+
+
+## Trust
+
+**I trust you**. I don't need to see a dr's note, whether for something Covid related or something else. What's more, I don't need to know the details. _I trust you_. If something is up, it's enough to send me an email and say, 'something's up; can we rejig things'. We will figure out a way for you to move forward and be successful, together. There's no [cop shit](https://jeffreymoro.com/blog/2020-02-13-against-cop-shit/) in this course. You're here to learn, I'm here to teach.
