@@ -2,7 +2,7 @@
 title: "Group Presentation Times"
 description: "Google Forms Signup for final presentations"
 date: 2023-11-25
-draft: true
+draft: false
 ---
 
 ## Group Presentation Times
