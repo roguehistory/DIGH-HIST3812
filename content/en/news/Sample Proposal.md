@@ -2,6 +2,7 @@
 title: "8.Sample Research Proposal"
 date: 10-12-2023
 description: "Proposal Template"
+weight: 8
 ---
 
 ## SAMPLE RESEARCH PROPOSAL
