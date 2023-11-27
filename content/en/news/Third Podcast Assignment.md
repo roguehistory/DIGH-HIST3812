@@ -1,9 +1,5 @@
 ---
-title: "Third Podcast Analysis"
-date: 11-20-2023
-description: "Assignment Update"
-draft: false
----
+title: " 10. Third Podcast Assignment"
 
 ## Hardcore History
 
