@@ -2,6 +2,7 @@
 title: "7.Final Research Project"
 date: 11-07-2023
 description: "Final Project Outline"
+weight: 7
 ---
 
 ## Final Group Project Expectations and Guideline
