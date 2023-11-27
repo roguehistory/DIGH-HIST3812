@@ -2,6 +2,7 @@
 title: "9. November 16th Update"
 date: 11-16-2023
 description: "General Update"
+weight: 9
 ---
 
 Hello, Class. 
