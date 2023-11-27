@@ -1,0 +1,8 @@
+---
+title: "8. AI Image Generation"
+description: Nightcafe AI image generator for storytelling"
+date: 11-27-2023
+---
+
+I wanted to provide this link for those of you who may be interested in AI generated images [NightCafe Creator](https://creator.nightcafe.studio/). It is free and very good. Below are a few images and the prompts I used to generate the images. Think abiout how you can use this tool to create historical narratives or images to support your narrative, and the implicit biases that are embedded into such programs.
+
