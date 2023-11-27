@@ -10,4 +10,4 @@ weight: 11
 
 Below is a Google Forms to select a time for your group presentations. You can only select one time. This is a first come first serve basis. 
 
-"https://docs.google.com/forms/d/e/1FAIpQLSeTBHebK_jO3e348HJlzkCd4RO4xM9MlzvgDPqvyqlVeFj4kw/viewform?embedded=true"
+Google Forms Link for [Group Presentation Times](https://forms.gle/n3VPzH6aquK1s7LQ6) 
