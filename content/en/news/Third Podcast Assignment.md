@@ -1,5 +1,9 @@
 ---
 title: " 10. Third Podcast Assignment"
+description: "Hardcore History/Popular Digital History"
+date: 11-27-2023
+
+---
 
 ## Hardcore History
 
