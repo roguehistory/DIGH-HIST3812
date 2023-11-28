@@ -19,7 +19,7 @@ If your project only partially comes together in the manner which you had hoped,
 
 Your presentation is the Scholarly-Facing side of the project; therefore, conduct your presentation in a scholarly manner.  You are presenting to fellow Historians, Digital Historians, Digital Humanists and Archaeologists. The class presentation is meant for you to discuss the behind-the-scenes workings of your Digital Public-Facing Historical Research. The presentation can be via a PowerPoint presentation, Mural, etc. I expect you to discuss the processes, methods, theories and collaboration that went into the project and how your scholarly research informs the Public-Facing medium. If things broke or failed, tell us why. How did you overcom it? How did you adapt? If there is a debate about a particular historical piece of evidence, discuss how this debate informed how your group depicted your topic for public consumption. Was there disagreement in your group about how to tell the historical narrative, and if so, how did you negotiate a solution?  
 
-Some questions you need to address in your presentation:
+{{< notice success "Important" >}} Some questions you need to address in your presentation:
 
 1. What is your research question and thesis for the project?
 2. What was your conclusion? 
@@ -27,8 +27,8 @@ Some questions you need to address in your presentation:
 4. Why did you choose said digital platform to present your historical narrative to the public?
 5. What proved to be successful, and what was not successful? 
 
-**A BIBLIOGRAPHY IN YOUR PRESENTATION IS MANDATORY.**
+**A BIBLIOGRAPHY IN YOUR PRESENTATION IS MANDATORY.** 
 
-All deliverables (Public and Scholarly) must be submitted via Brightspace on the day you present! This is different from submitting the public component the day before you present. **THERE WILL BE NO EXCEPTIONS TO THIS**.
+All deliverables (Public and Scholarly) must be submitted via Brightspace on the day you present! This is different from submitting the public component the day before you present. **THERE WILL BE NO EXCEPTIONS TO THIS**.{{< /notice>}}
 
 Again, if you have questions, please email me, come to office hours, or talk to me in class. 
