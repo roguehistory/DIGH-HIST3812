@@ -1,8 +1,8 @@
 ---
-title "12. Presentation Update!!"
-description "In class presentation quidelines"
-date 28-11-2023
-weight 12
+title: "12. Presentation Update!!"
+description: "In class presentation quidelines"
+date: 28-11-2023
+weight: 12
 ---
 
 
